@@ -375,50 +375,6 @@ Is this a technical term from an established field?
 
 ---
 
-## BATCH PROCESSING WORKFLOW
-
-### Recommended Batch Sizes: 3-4 files per batch
-
-**Why:**
-- Maintains quality and focus
-- Allows for learning and refinement
-- Prevents overwhelming the system
-
-### For Each Batch:
-
-**Step 1: Read Extraction Guide** (this document)
-- Review three-tier definition protocol
-- Refresh on quality standards
-
-**Step 2: Read Knowledge Schema**
-- Understand current entity types
-- Check for consistency with previous batches
-
-**Step 3: Process Files Systematically**
-- One file at a time
-- Extract all categories
-- Apply definition protocols
-- Check quality before moving to next file
-
-**Step 4: Create JSON Outputs**
-- One JSON file per manuscript file
-- Follow naming convention: `[file-name]-entities.json`
-- Save to: `editorial/extractions/`
-
-**Step 5: Self-Validation**
-- Review all core_concepts for circular definitions
-- Verify technical terms have proper definitions
-- Check for completeness
-- Note any concerns in extraction_notes
-
-**Step 6: Summary Report**
-- Total entities extracted
-- Key frameworks identified
-- Any ambiguities or concerns
-- Readiness for integration
-
----
-
 ## COMMON EXTRACTION ERRORS TO AVOID
 
 ### ❌ ERROR 1: Circular Definition
@@ -509,62 +465,6 @@ Is this a technical term from an established field?
   "replaces": "Left/Right political spectrum"
 }
 ```
-
----
-
-## SPECIAL CASES
-
-### Case 1: Term Evolves Across Chapters
-
-**Approach:**
-- Extract first definition
-- Note in `evolution_notes` field
-- Track changes in later batches
-- Flag for consistency review
-
-**Example:**
-```json
-{
-  "name": "Obligation to Excess",
-  "definition": "[Initial definition from first mention]",
-  "first_mention": "Chapter 5",
-  "evolution_notes": "Concept introduced in Ch 5, fully explained in Ch 9"
-}
-```
-
----
-
-### Case 2: Multiple Competing Definitions in Text
-
-**Approach:**
-- Extract dominant/primary definition
-- Note alternatives in `extraction_notes`
-- Flag for Joshua review
-- May indicate need for clarification
-
----
-
-### Case 3: Implicit vs. Explicit Definitions
-
-**Approach:**
-- Prefer explicit definitions (where Joshua defines directly)
-- If only implicit, extract based on usage patterns
-- Note in `context` field: "Definition inferred from usage"
-- Flag for potential explicit definition in revision
-
----
-
-## INTEGRATION WITH KNOWLEDGE GRAPH
-
-### After Extraction:
-
-**Extracted entities feed into:**
-- `reference/knowledge-graph/entity-database.json` (master database)
-- `reference/knowledge-graph/relationship-map.json` (how entities connect)
-- `reference/knowledge-graph/framework-library.md` (frameworks explained)
-- `reference/knowledge-graph/example-catalog.md` (examples indexed)
-
-**Quality at extraction = Quality throughout project**
 
 ---
 

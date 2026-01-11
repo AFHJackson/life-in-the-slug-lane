@@ -1,0 +1,283 @@
+{
+  "source_file": "manuscript/02-prologue.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "batch": 1,
+  "entities": {
+    "core_concepts": [
+      {
+        "name": "System of Systems of Human Relationship Phenomena",
+        "type": "framework",
+        "definition": "A collection of task-oriented or dedicated systems that pool their resources and capabilities together to create a new, more complex system which offers more functionality and performance than simply the sum of the constituent systems",
+        "definition_type": "technical_standard",
+        "source": "Systems engineering",
+        "book_usage": "Applied to demonstrate that political ideologies often focused on control of the means of value production or the resulting economic measures of success (communism, socialism, capitalism, anarchy) have their roots in a complex set of human relationship phenomena and which themeselves are not competing systems but constituent systems operating together at different scales within a larger system of human relationship phenomena",
+        "first_mention": "Prologue, paragraph 57",
+        "context": "Revealed as the key insight from the slug line experience - we live inside layered, overlapping systems rather than a single ideological framework",
+        "related_entities": ["Slug Line", "Four Habitats", "Scale"]
+      },
+      {
+        "name": "Scale",
+        "type": "concept",
+        "definition": "The size or scope of a social grouping, ranging from intimate (individual-to-individual) to massive (individual-to-population), which determines what organizational systems work effectively",
+        "definition_type": "book_coined",
+        "builds_on": "Common usage of 'scale' as size/scope, applied specifically to human social organization",
+        "first_mention": "Prologue, paragraph 63",
+        "context": "Proposed as the key variable that determines which systems are appropriate - 'different tools for different jobs'",
+        "related_entities": ["System of Systems", "Four Habitats"]
+      },
+      {
+        "name": "Homo Economicus",
+        "type": "concept",
+        "definition": "A theoretical model of human behavior in classical economics that assumes individuals are consistently rational, narrowly self-interested, and pursue their subjectively-defined ends optimally",
+        "definition_type": "technical_standard",
+        "source": "Economics (classical/neoclassical)",
+        "book_usage": "Used as a foil - the driver's behavior after the witching hour contradicts what homo economicus would predict, revealing limitations of purely self-interest models",
+        "first_mention": "Prologue, paragraph 18",
+        "context": "Introduced to show why the driver's 'irrational' generosity doesn't fit standard economic models",
+        "related_entities": ["Slug Line", "Witching Hour"]
+      },
+      {
+        "name": "Emergent Order",
+        "type": "concept",
+        "definition": "The process by which complex organized patterns arise spontaneously from the interactions of simpler components following local rules, without central planning or control",
+        "definition_type": "technical_standard",
+        "source": "Complexity theory / Systems science",
+        "book_usage": "Applied to explain how slug lines self-organize without central authority - thousands of daily interactions produce reliable transportation without formal structure",
+        "first_mention": "Prologue, paragraph 31",
+        "context": "Describing how the slug line system evolved and functions without any 'slug line authority'",
+        "related_entities": ["Slug Line", "Anarchy", "Voluntary Networks"]
+      },
+      {
+        "name": "Communism (as family)",
+        "type": "system",
+        "definition": "An economic and social system based on collective ownership and distribution according to need rather than market exchange or individual contribution",
+        "definition_type": "technical_standard",
+        "source": "Political economy / Marxist theory",
+        "book_usage": "Reframed as a human relationship system based on collective contribution and distribution according to need rather where contribution and distribution authority is highly centralized within those who sacrifice the most (e.g. those contributing the most and recieving the least). Appropriate at family scale - 'from each according to ability, to each according to need' describes love around a kitchen table, not a dystopian national policy",
+        "first_mention": "Prologue, paragraph 65",
+        "context": "Part of the four systems that each have appropriate scales",
+        "related_entities": ["Four Habitats", "Scale", "Family"]
+      },
+      {
+        "name": "Socialism (as municipality)",
+        "type": "system",
+        "definition": "An economic and political system characterized by social ownership and democratic control of the means of production, with emphasis on collective welfare and public services",
+        "definition_type": "technical_standard",
+        "source": "Political economy",
+        "book_usage": "Reframed as a human reslationships system based on shared human needs met through commonwealth contributions to shared services that are equally distributed regardless of specific contribution amount provided to the common wealth pot.  Appropriate for municipalities, public safety, and national defense - collectively funded, universally available services for fires, ambulances, borders",
+        "first_mention": "Prologue, paragraph 66",
+        "context": "Part of the four systems that each have appropriate scales",
+        "related_entities": ["Four Habitats", "Scale", "Safety Commons"]
+      },
+      {
+        "name": "Capitalism (as marketplace)",
+        "type": "system",
+        "definition": "An economic system based on private ownership of the means of production, operation for profit, and allocation of resources through market mechanisms",
+        "definition_type": "technical_standard",
+        "source": "Political economy",
+        "book_usage": "Reframed as appropriate at individual-to-population level scale - a powerful engine for discovering and generating value, exchanging value across millions of individually defined value exchanges where the meaning of the exchange between to individuals of parties is determined by their own preferences and incentives, and which forms an emergent order that enables rewarding divergence and creativity, generating surpluses beyond the cost of production and ultimately enabling production of excess value beyond that which can be meaningfully consumed or reinvested in the marketplace or means of production enabling the excess to be freely given or risked on innovation or discovery.",
+        "first_mention": "Prologue, paragraph 67",
+        "context": "Part of the four systems that each have appropriate scales",
+        "related_entities": ["Four Habitats", "Scale", "Markets", "Surplus"]
+      },
+      {
+        "name": "Anarchy (as friendship)",
+        "type": "system",
+        "definition": "A social arrangement without formal hierarchical authority, where order emerges through voluntary cooperation, mutual aid, and self-organizing behavior",
+        "definition_type": "technical_standard",
+        "source": "Political philosophy (anarchist tradition)",
+        "book_usage": "Reframed positively as appropriate for friendships and informal networks at the individual-to-individual scale, depending on local complex, self-adapting systems that emerge from voluntary cooperation that self-organizes into complex patterns without central planning drawing from the individual identities and preferences of the participants that are adopted and refined separately from those given by birth or family ties.",
+        "first_mention": "Prologue, paragraph 68",
+        "context": "Part of the four systems that each have appropriate scales",
+        "related_entities": ["Four Habitats", "Scale", "Voluntary Networks", "Emergent Order"]
+      },
+      {
+        "name": "Witching Hour",
+        "type": "concept",
+        "definition": "The time (3pm-6pm ET) when HOV lane are restrictions the incentive for drivers to pick up extra passengers creates an almost magic effect or timeframe for cooperation, causing the slug line's transactional logic.",
+        "definition_type": "book_coined",
+        "builds_on": "Folk term 'witching hour' meaning a time of magical transformation or change",
+        "first_mention": "Prologue, paragraph 3",
+        "context": "Sets up the central puzzle - why did the driver pick up the author after the witching hour when there was no longer an HOV advantage?",
+        "related_entities": ["Slug Line", "Homo Economicus"]
+      },
+      {
+        "name": "Habitat",
+        "type": "concept",
+        "definition": "The real-world conditions and contexts in which humans operate and interact within the framework of one of the four systems, where one system takes primary view while others recede to supporting or secondary roles",
+        "definition_type": "book_coined",
+        "builds_on": "Biological sense of 'habitat' as natural environment, applied to identify which system is prioritized in a given context",
+        "first_mention": "Prologue (implicit), Chapter 1 (explicit)",
+        "context": "Describes the conditions where we observe emergent order playing out - e.g., a city commission operating in the socialism habitat when assessing taxes and approving budgets for commonwealth services",
+        "examples": [
+          "City commission assessing taxes and approving municipal budgets (socialism habitat)",
+          "Family dinner table distributing food by need (communism habitat)",
+          "Stock exchange matching buyers and sellers (capitalism habitat)",
+          "Friend group organizing a spontaneous road trip (anarchy habitat)"
+        ],
+        "related_entities": ["Four Habitats", "System of Systems of Human Relationship Phenomena", "Emergent Order", "Scale"]
+      }
+      {
+        "name": "Scale Error",
+        "type": "concept",
+        "definition": "The mistake of prioritizing a system that works well in one habitat that operates at one scale of human relationships and priorizing it in a different habitat where the scale is different, like running a family that only meets basic, universally held human needs that do not depend on individual value or context or treating municipal residents as children by attempting to apply family-scale rules of contribution and distribution to a city government's operation",
+        "definition_type": "book_coined",
+        "builds_on": "Common understanding of 'scale' (size/scope) and 'error' (mistake), combined into a novel diagnostic concept",
+        "first_mention": "Chapter 1, Section 5",
+        "context": "Named as a central problem the book addresses - a central source of ideological fights happen when systems are misapplied across scales",
+        "examples": [
+          "applying individual-to-individual rules to a municipality",
+          "applying individual-to-individual rules to a marketplace",
+          "applying individual-to-population rules to a family",
+          "applying individual-to-population rules to a friendship"
+        ],
+        "related_entities": ["Habitat Logic", "System of Systems of Human Relationship Phenomena", "Scale"]
+      },
+      {
+        "name": "Habitat Logic",
+        "type": "framework",
+        "definition": "Four distinct scales of human relationship where different organizing systems operate naturally and effectively: Family (communism at intimate scale), Safety Commons (socialism at municipal/national scale), Markets (capitalism at society-wide scale), and Voluntary Networks (anarchy at friendship/informal scale)",
+        "definition_type": "book_original",
+        "components": [
+          "Family/Communism - intimate scale, from-each-to-each logic",
+          "Safety Commons/Socialism - collective essentials, impartial protection",
+          "Markets/Capitalism - surplus engine, individual value at scale",
+          "Voluntary Networks/Anarchy - emergent cooperation, no formal boss"
+        ],
+        "purpose": "Provides a shorthand for testing the fit of a system as a priorized tool for a given scenario or circumstance based on the scale of human relationships involved (individual-to-individual, individual-to-population), the type of value invovled (unique to individual's context or current circumstances like food, medicine, art, or mode of transportation vs. persisent collective/species level needs like clean water, clean air, public safety, emergency response), and the nature of the interactions (formal vs informal), balance of value exchanged governance's reciprical relationship of sacrifice and authority (high contribution given with low distrubution received of a partents sacrifice for childrens' benefit vs equal give and take of a friend group where each member contributes and receives roughly equally and self governs their own participation and interactions completely), ",
+        "first_mention": "Chapter 1, Section 4",
+        "context": "Introduced after establishing that we already switch between prioritized system as we move between habitats naturally in daily life",
+        "related_entities": ["Scale Error", "The Ring", "System of Systems of Human Relationship Phenomena"],
+        "used_throughout": true
+      }
+    ],
+    "examples": [
+      {
+        "name": "Slug Line",
+        "type": "story_example",
+        "description": "Washington DC's self-organizing carpool system where strangers share rides near initially to and from the Pentagon (now drastically expanded to destinations across the city) to access HOV lanes, demonstrating how public infrastructure, private incentives, social trust, and emergent norms work together",
+        "illustrates": ["System of Systems", "Emergent Order", "Four Habitats", "Anarchy"],
+        "location": "Prologue, opening through entire chapter",
+        "usage_pattern": "primary_example",
+        "related_entities": ["Witching Hour", "HOV Lanes", "Pentagon"],
+        "narrative_arc": "Personal experience → puzzle of 'irrational' generosity → reveals system of systems insight"
+      },
+      {
+        "name": "The Green Acura Driver",
+        "type": "story_example",
+        "description": "Anonymous driver who picked up the author after the witching hour despite having no HOV incentive, demonstrating behavior that contradicts homo economicus",
+        "illustrates": ["Homo Economicus (contradiction)", "Generosity", "System of Systems"],
+        "location": "Prologue, opening scene",
+        "usage_pattern": "recurring",
+        "related_entities": ["Slug Line", "Witching Hour"]
+      }
+    ],
+    "definitions": [
+      {
+        "term": "Slug",
+        "definition": "A commuter who waits at designated spots (initially at bus routes to and from the Pentagon) to catch free rides with drivers headed to the Pentagon who need additional passengers for HOV lane access; derived by bus drivers fromslang for 'fake coins' that trick vending machines",
+        "definition_type": "book_coined",
+        "builds_on": "Transit slang - 'slug' meaning fake or substitute",
+        "usage_context": "Describes participants in the informal carpool system around the Washington DC area",
+        "not_to_be_confused_with": "Garden pests or bullets"
+      },
+      {
+        "term": "HOV Lane",
+        "definition": "High-Occupancy Vehicle lane that requires three or more people per vehicle to use during restricted hours, providing faster travel as an incentive for carpooling",
+        "definition_type": "technical_standard",
+        "source": "Transportation policy",
+        "usage_context": "The infrastructure that creates the incentive structure enabling slug lines to exist"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "entity_1": "System of Systems of Human Relationship Phenomena",
+      "relationship_type": "contains",
+      "entity_2": "Communism (as family)",
+      "description": "Communism operates as one of four constituent systems within the larger System of Systems of Human Relationship Phenomena"
+    },
+    {
+      "entity_1": "System of Systems of Human Relationship Phenomena",
+      "relationship_type": "contains",
+      "entity_2": "Socialism (as municipality)",
+      "description": "Socialism operates as one of four constituent systems within the larger System of Systems of Human Relationship Phenomena"
+    },
+    {
+      "entity_1": "System of Systems of Human Relationship Phenomena",
+      "relationship_type": "contains",
+      "entity_2": "Capitalism (as marketplace)",
+      "description": "Capitalism operates as one of four constituent systems within the larger System of Systems of Human Relationship Phenomena"
+    },
+    {
+      "entity_1": "System of Systems of Human Relationship Phenomena",
+      "relationship_type": "contains",
+      "entity_2": "Anarchy (as friendship)",
+      "description": "Anarchy operates as one of four constituent systems within the larger System of Systems of Human Relationship Phenomena"
+    },
+    {
+      "entity_1": "Scale",
+      "relationship_type": "depends_on",
+      "entity_2": "System of Systems of Human Relationship Phenomena",
+      "description": "The concept of scale explains why different systems work at different sizes - they are tools for different jobs within the system of systems"
+    },
+    {
+      "entity_1": "Slug Line",
+      "relationship_type": "illustrates",
+      "entity_2": "System of Systems of Human Relationship Phenomena",
+      "description": "The slug line demonstrates all four systems working together: public transportation infrastructure and transportation governance (municipality), private incentives and advanced technical systems (marketplace), unregulated social trust (friendship), and unmerited distribution (family)"
+    },
+    {
+      "entity_1": "Slug Line",
+      "relationship_type": "illustrates",
+      "entity_2": "Emergent Order",
+      "description": "The slug line shows how complex, reliable systems of systems of human phenomena can operate in an integrated manner without inherent conflict or contradiction."
+    },
+    {
+      "entity_1": "The Green Acura Driver",
+      "relationship_type": "contrasts_with",
+      "entity_2": "Homo Economicus",
+      "description": "The driver's generosity after witching hour contradicts what rational self-interest models would predict"
+    },
+    {
+      "entity_1": "Witching Hour",
+      "relationship_type": "depends_on",
+      "entity_2": "HOV Lane",
+      "description": "The witching hour is defined by when HOV restrictions are in effect (3pm-6pm ET)"
+    },
+    {
+      "entity_1": "Habitat",
+      "relationship_type": "depends_on",
+      "entity_2": "System of Systems of Human Relationship Phenomena",
+      "description": "Habitats identify which system is prioritized among the interconnected set - the real-world context where one system takes primary view"
+    },
+    {
+      "entity_1": "Habitat",
+      "relationship_type": "illustrates",
+      "entity_2": "Emergent Order",
+      "description": "Habitats are the real-world conditions in which we observe emergent order occurring and playing out"
+    },
+    {
+      "entity_1": "Habitat",
+      "relationship_type": "depends_on",
+      "entity_2": "Scale",
+      "description": "The habitat in primary view is determined by the scale of human relationship in that context"
+    }
+  ],
+  "extraction_notes": {
+    "ambiguities": [
+      "Habitat concept introduced; Four Habitats framework fully developed in Chapter 1"
+    ],
+    "evolution_tracking": [
+      "Four Habitats will be fully developed in later chapters",
+      "The Ring framework is hinted at but not named in prologue"
+    ],
+    "cross_references": [
+      "Chapter 1 promised to explore 'different scales of human life'",
+      "Next chapter mentioned: 'four-year-old and performance charts'"
+    ],
+    "quality_concerns": [],
+    "technical_terms_verified": true
+  }
+}
