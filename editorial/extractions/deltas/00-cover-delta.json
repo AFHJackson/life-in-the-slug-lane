@@ -1,0 +1,79 @@
+{
+  "source_file": "manuscript/00-cover-and-backflap-contents.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Chapter 1 merge",
+
+  "updates": [],
+
+  "additions": [
+    {
+      "entity_name": "The Ring",
+      "type": "framework",
+      "definition": "A circular model representing the four overlapping systems (capitalism, socialism, communism, anarchy) that humans already live within, emphasizing continuous navigation rather than ideological choice",
+      "definition_type": "book_original",
+      "purpose": "Provides visual/conceptual alternative to the linear left/right spectrum; emphasizes that we're already inside all four systems",
+      "why_new": "First explicit use of 'the ring of systems' language appears on back cover. Referenced in canonical as coming but not yet defined.",
+      "first_mention": "Back cover hook",
+      "components": [
+        "Capitalist markets that make surplus",
+        "Socialist safety nets that keep us from falling apart",
+        "Communist generosity at the family table",
+        "Anarchic order in friendships and informal networks"
+      ],
+      "relates_to_canonical": ["System of Systems of Human Relationship Phenomena", "Habitat Logic", "The Left/Right Line"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Book Hook/Tagline",
+      "type": "marketing_element",
+      "definition": "'I'm right. You're right. And we're both wrong.' - The central provocation that frames the book's approach to ideological disagreement",
+      "definition_type": "book_original",
+      "purpose": "Positions the book as transcending partisan debate by acknowledging partial truth in competing perspectives",
+      "why_new": "Marketing language that captures book's ethos - useful for consistency in promotional materials",
+      "first_mention": "Back cover hook, opening line",
+      "relates_to_canonical": ["One-Size-Fits-All Ideology", "Scale Error"],
+      "integration_recommendation": "add_to_canonical"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 1,
+    "total_additions": 2,
+    "total_contradictions": 0,
+    "high_confidence_updates": 1,
+    "additions_recommended_for_canonical": 2,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "Discovery framing - readers already live in the system",
+      "Behavioral economics reference - irrational creatures",
+      "Seeing systems and each other more clearly"
+    ],
+    "canonical_entities_referenced": [
+      "System of Systems of Human Relationship Phenomena",
+      "Capitalism (as marketplace)",
+      "Socialism (as municipality)",
+      "Communism (as family)",
+      "Anarchy (as friendship)",
+      "Slug Line"
+    ],
+    "entities_merely_mentioned": [
+      "Behavioral economics - referenced but not developed",
+      "Slug line - mentioned as origin but no new information"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "The Ring: This is the first explicit naming - confirm this should be in canonical now or wait for fuller treatment in manuscript",
+      "Book Hook: Decide if marketing elements belong in knowledge graph"
+    ],
+    "document_role": "Marketing/cover content - hooks and positioning, not substantive argument development"
+  }
+}

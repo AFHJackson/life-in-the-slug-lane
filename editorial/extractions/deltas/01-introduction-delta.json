@@ -1,0 +1,138 @@
+{
+  "source_file": "manuscript/01-authors-introduction-and-goals.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Chapter 1 merge",
+
+  "updates": [
+    {
+      "entity_name": "Communism (as family)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed as a human relationship system based on collective contribution and distribution according to need",
+      "chapter_contribution": "Introduction provides the clearest formulation: 'from each according to their ability, to each according to their need — the default logic of a healthy family'",
+      "proposed_merge": "Add formulation: 'The default logic of a healthy family'",
+      "location": "Author's Introduction, four definitions section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Capitalism (as marketplace)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed as a powerful engine for discovering and generating value",
+      "chapter_contribution": "Introduction provides explicit formulation: 'market-driven specialization and exchange that generate surplus — the engine that makes room for experimentation, innovation, and generosity'",
+      "proposed_merge": "Add to book_usage: 'The engine that makes room for experimentation, innovation, and generosity'",
+      "location": "Author's Introduction, four definitions section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Anarchy (as friendship)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed positively as appropriate for friendships and informal networks",
+      "chapter_contribution": "Introduction provides explicit formulation: 'from voluntary cooperation to complex self-adapting natural systems — the logic of friendships, volunteer networks, and other forms of emergent order'",
+      "proposed_merge": "Add to examples: 'volunteer networks' as explicit anarchy habitat instance",
+      "location": "Author's Introduction, four definitions section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Scale Error",
+      "update_type": "example_added",
+      "canonical_current": "The mistake of prioritizing a system that works well in one habitat at a different scale",
+      "chapter_contribution": "Introduction provides four scale error examples: 'We try to run families like corporations. We try to run markets like families. We try to run nations like a tight-knit tribe. We try to police friendships.'",
+      "proposed_merge": "Add examples: 'Families like corporations, markets like families, nations like tribes, policed friendships'",
+      "location": "Author's Introduction, practical problem paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Habitat",
+      "update_type": "clarification",
+      "canonical_current": "The real-world conditions and contexts in which humans operate within the framework of one of the four systems",
+      "chapter_contribution": "Introduction uses 'proper habitat' language: 'coordination logics that work beautifully in their proper habitat'",
+      "proposed_merge": "Add note: 'Proper habitat' = context where a system's logic works beautifully",
+      "location": "Author's Introduction, practical problem paragraph",
+      "confidence": "high"
+    }
+  ],
+
+  "additions": [
+    {
+      "entity_name": "Means of Production (Book Usage)",
+      "type": "definition",
+      "definition": "The tools, land, code, and machines that enable economic production - acknowledged as important but positioned as 'downstream' of more basic coordination patterns",
+      "definition_type": "technical_standard",
+      "source": "Marxist political economy",
+      "book_usage": "Explicitly deprioritized: 'Those debates matter. I'm just convinced they're downstream of something more basic: the ways humans coordinate at different scales of life.'",
+      "why_new": "Explicit positioning of ownership debates as secondary to coordination logic",
+      "first_mention": "Author's Introduction, paragraph 3",
+      "relates_to_canonical": ["Coordination Logics", "System of Systems of Human Relationship Phenomena"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Field Guide Framing",
+      "type": "concept",
+      "definition": "The book's self-description as 'a field guide, not a spreadsheet' - emphasizing practical pattern recognition over abstract theory or data",
+      "definition_type": "book_original",
+      "purpose": "Sets expectations: stories first, then map, then failure modes. Practical application over academic analysis.",
+      "methodology": "Stories → Map → Failure modes, stealing insights from history, economics, and moral philosophy",
+      "why_new": "Establishes the book's genre and approach",
+      "first_mention": "Author's Introduction, paragraph 7",
+      "relates_to_canonical": ["Scale Error", "Natural and Unnatural Habitats"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Partisan Ammunition Disclaimer",
+      "type": "principle",
+      "definition": "The explicit promise that the book will disappoint readers seeking partisan ammunition: 'The world is too weird for that. The goal here isn't to win arguments — it's to get the map right enough that we can stop driving into the same ditch.'",
+      "definition_type": "book_original",
+      "purpose": "Positions the book as transcending left/right partisan warfare",
+      "why_new": "Establishes authorial stance and reader expectations",
+      "first_mention": "Author's Introduction, final paragraphs",
+      "relates_to_canonical": ["The Left/Right Line", "One-Size-Fits-All Ideology"],
+      "integration_recommendation": "flag_for_review"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 6,
+    "total_additions": 6,
+    "total_contradictions": 0,
+    "high_confidence_updates": 6,
+    "additions_recommended_for_canonical": 5,
+    "additions_flagged_for_review": 1,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "Coordination logics precede ownership debates",
+      "Labels as addresses, not flags",
+      "Field guide methodology: stories → map → failure modes",
+      "Three goals: see, choose boundaries, act as steward"
+    ],
+    "canonical_entities_referenced": [
+      "Communism (as family)",
+      "Socialism (as municipality)",
+      "Capitalism (as marketplace)",
+      "Anarchy (as friendship)",
+      "Scale Error",
+      "Habitat",
+      "Emergent Order",
+      "Slug Line"
+    ],
+    "entities_merely_mentioned": [
+      "Behavioral economics - implied but not named",
+      "Moral philosophy - referenced as source but not developed"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "Safety Shell: New term for socialism habitat - decide if this should be added as alias",
+      "Coordination Logics: Important framing concept - decide if this warrants standalone entity",
+      "Book Goals: Meta-content about book purpose - decide if this belongs in knowledge graph",
+      "Partisan Ammunition Disclaimer: Meta-content - may not need to be in canonical"
+    ],
+    "document_role": "Author's framing and goals - sets up the intellectual project and reader expectations. Not a story chapter but a methodological preface."
+  }
+}

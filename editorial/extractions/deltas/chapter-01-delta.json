@@ -1,0 +1,212 @@
+{
+  "source_file": "manuscript/03-chapter-1.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Prologue refinement (Joshua reviewed)",
+
+  "updates": [
+    {
+      "entity_name": "Scale Error",
+      "update_type": "clarification",
+      "canonical_current": "The mistake of prioritizing a system that works well in one habitat that operates at one scale of human relationships and priorizing it in a different habitat where the scale is different",
+      "chapter_contribution": "Chapter 1 introduces the 'hammer and nails' metaphor: 'It's like insisting that, because a hammer is excellent for nails, everything solid must secretly be a nail. You can spend your days whacking screws and glass and dinner, growing more certain with each shattered plate that people who question hammers are enemies of progress.'",
+      "proposed_merge": "Add to concept: metaphor - 'The Hammer Fallacy: treating every problem as a nail because you trust your hammer'",
+      "location": "Chapter 1, Section 5, paragraph 9",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Habitat Logic",
+      "update_type": "clarification",
+      "canonical_current": "Four distinct scales of human relationship where different organizing systems operate naturally and effectively",
+      "chapter_contribution": "Chapter 1 clarifies that we already switch operating systems naturally in daily life: 'You are already \"communist\" with your toddler, \"socialist\" with your fire department, \"capitalist\" at the grocery store, and happily \"anarchic\" in your favorite group chat. You've been doing this your whole life. You just haven't been given a map that admits it.'",
+      "proposed_merge": "Add to definition: 'This is descriptive, not prescriptive - humans already navigate all four habitats naturally without formal instruction'",
+      "location": "Chapter 1, Section 4, final paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Communism (as family)",
+      "update_type": "example_added",
+      "canonical_current": "Reframed as a human relationship system based on collective contribution and distribution according to need rather where contribution and distribution authority is highly centralized within those who sacrifice the most",
+      "chapter_contribution": "Chapter 1 enriches with domestic examples: 'Parents give more than they receive. Small children receive more than they give. The accounting books are gloriously uneven, and we would be horrified if they weren't.' Also explicit kitchen-table formulation: 'from each according to their ability, to each according to their need, operating at the scale of the family'",
+      "proposed_merge": "Add example: 'Gloriously uneven accounting books of family life (Ch 1)' - parents giving more than receiving, children receiving more than giving",
+      "location": "Chapter 1, Section 1, paragraphs 9-10 and Section 4 final paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Socialism (as municipality)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed as a human relationships system based on shared human needs met through commonwealth contributions to shared services that are equally distributed regardless of specific contribution amount",
+      "chapter_contribution": "Chapter 1 provides explicit formulation: 'collectively funded, universally available essential services like police, fire, rescue, and the military—systems we rely on together so no one burns or bleeds out alone'",
+      "proposed_merge": "Update book_usage to include: 'Core services where no one burns or bleeds out alone'",
+      "location": "Chapter 1, Section 4, definition paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Capitalism (as marketplace)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed as appropriate at individual-to-population level scale - a powerful engine for discovering and generating value, exchanging value across millions of individually defined value exchanges",
+      "chapter_contribution": "Chapter 1 provides explicit formulation: 'market-driven mechanisms that allocate resources, reward value creation, and generate surplus, and ultimately excess, at the scale of whole societies'",
+      "proposed_merge": "Update book_usage to include: 'Allocates resources, rewards value creation, generates surplus at societal scale'",
+      "location": "Chapter 1, Section 4, definition paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Anarchy (as friendship)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed positively as appropriate for friendships and informal networks at the individual-to-individual scale, depending on local complex, self-adapting systems that emerge from voluntary cooperation",
+      "chapter_contribution": "Chapter 1 provides explicit formulation: 'what you see in your healthiest friend groups and emergent networks: from voluntary cooperation, to complex self-adapting natural systems' - also the HR Department example shows what happens when this is violated",
+      "proposed_merge": "Update book_usage to include: 'From voluntary cooperation, to complex self-adapting natural systems'",
+      "location": "Chapter 1, Section 4, definition paragraph and Section 3",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Slug Line",
+      "update_type": "new_application",
+      "canonical_current": "Washington DC's self-organizing carpool system where strangers share rides near initially to and from the Pentagon",
+      "chapter_contribution": "Chapter 1 explicitly positions the slug line as the proof that one-size-fits-all thinking fails: 'a hybrid system out of public infrastructure, private incentives, communal trust, and emergent norms. No one ideology can fully claim it. It's part market, part shared-service, part informal anarchy.'",
+      "proposed_merge": "Add to illustrates array: 'Hybrid nature demonstrates failure of one-ideology thinking (Ch 1)'",
+      "location": "Chapter 1, Section 6, paragraph 2",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Scale",
+      "update_type": "example_added",
+      "canonical_current": "The size or scope of a social grouping, ranging from intimate (individual-to-individual) to massive (individual-to-population), which determines what organizational systems work effectively",
+      "chapter_contribution": "Chapter 1 provides concrete scale gradient: 'a family of five, a neighborhood of five hundred, a city of five hundred thousand, and a nation of three hundred million are not just the same thing with more people. They are different kinds of creatures.'",
+      "proposed_merge": "Add examples with numbers: 'Family (5), Neighborhood (500), City (500,000), Nation (300,000,000) - different kinds of creatures, not just scaled versions'",
+      "location": "Chapter 1, Section 4, paragraph 2",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Habitat",
+      "update_type": "clarification",
+      "canonical_current": "The real-world conditions and contexts in which humans operate and interact within the framework of one of the four systems, where one system takes primary view while others recede to supporting or secondary roles",
+      "chapter_contribution": "Chapter 1 introduces the concept of 'natural vs unnatural habitats' for systems: 'Different systems have natural habitats where they flourish—and unnatural habitats where they become monsters.'",
+      "proposed_merge": "Add to definition: 'Systems have natural habitats where they flourish and unnatural habitats where they become monsters'",
+      "location": "Chapter 1, Section 6, paragraph 5",
+      "confidence": "high"
+    }
+  ],
+
+  "additions": [
+    {
+      "entity_name": "One-Size-Fits-All Ideology",
+      "type": "concept",
+      "definition": "The error of treating one system (capitalism, socialism, communism, or anarchy) as the universal answer applicable to all scales and contexts, rather than recognizing each as a tool appropriate to specific habitats",
+      "definition_type": "book_coined",
+      "builds_on": "Common phrase 'one size fits all' applied to ideological thinking",
+      "purpose": "Names the pattern where people 'pick one—markets, or the state, or the tribe, or pure voluntarism—and then try to stretch it like a rubber sheet over every domain'",
+      "why_new": "First explicitly named in Chapter 1. Prologue demonstrated the problem; Chapter 1 names and diagnoses it",
+      "first_mention": "Chapter 1, Section 5",
+      "examples": [
+        "Market fundamentalists applying market logic to schools, roads, or kidneys",
+        "Communitarians concluding that if families share everything, citizens should too",
+        "Statists extrapolating from fire departments to wage-setting and job allocation",
+        "Anarchists concluding that all formal authority is the problem"
+      ],
+      "relates_to_canonical": ["Scale Error", "Habitat Logic", "System of Systems of Human Relationship Phenomena"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "The Hammer Fallacy",
+      "type": "metaphor",
+      "definition": "The tendency to treat every problem as requiring your preferred tool: 'because a hammer is excellent for nails, everything solid must secretly be a nail'",
+      "definition_type": "book_coined",
+      "builds_on": "Common aphorism 'when all you have is a hammer, everything looks like a nail'",
+      "illustrates": ["Scale Error", "One-Size-Fits-All Ideology"],
+      "purpose": "Provides accessible metaphor for why ideologues cannot see the limits of their preferred system",
+      "why_new": "First introduced in Chapter 1 as metaphorical explanation for scale errors",
+      "first_mention": "Chapter 1, Section 5, paragraph 9",
+      "relates_to_canonical": ["Scale Error", "One-Size-Fits-All Ideology"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Different Kinds of Creatures",
+      "type": "metaphor",
+      "definition": "The insight that groups at different scales (family, neighborhood, city, nation) are not 'the same thing with more people' but are qualitatively different entities requiring different organizing principles",
+      "definition_type": "book_coined",
+      "builds_on": "Biological concept that organisms at different scales have different properties",
+      "purpose": "Counters the assumption that scaling up simply means adding more people while keeping the same rules",
+      "why_new": "First articulated in Chapter 1 as way to explain why scale matters",
+      "first_mention": "Chapter 1, Section 4, paragraph 2",
+      "relates_to_canonical": ["Scale", "Habitat Logic"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Natural and Unnatural Habitats",
+      "type": "concept",
+      "definition": "The distinction between contexts where a system flourishes (natural habitat) versus contexts where that same system 'becomes a monster' (unnatural habitat)",
+      "definition_type": "book_coined",
+      "builds_on": "Biological habitat concept - species thriving in native environment, struggling in foreign one",
+      "purpose": "Explains why the same system can be beautiful in one context and horrifying in another",
+      "examples": [
+        "Communism: natural in family, monstrous at national scale",
+        "Capitalism: natural in marketplace, monstrous in intimate relationships",
+        "Formal authority: natural in government, monstrous in friend groups"
+      ],
+      "why_new": "First explicitly articulated in Chapter 1. Prologue showed systems in action; Chapter 1 introduces the habitat metaphor",
+      "first_mention": "Chapter 1, Section 6, paragraph 5",
+      "relates_to_canonical": ["Habitat", "Habitat Logic", "Scale Error"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "The Left/Right Line",
+      "type": "concept",
+      "definition": "The conventional political spectrum that treats capitalism, socialism, communism, and anarchy as 'mutually exclusive identities on a single flat line' rather than as tools appropriate to different scales",
+      "definition_type": "book_coined",
+      "builds_on": "Common political terminology of left/right spectrum",
+      "purpose": "Identifies what the book's framework replaces - teased here, developed in Chapter 2",
+      "why_new": "First mentioned in Chapter 1 closing as the target for critique in next chapter. Sets up Chapter 2's exploration of 'who drew it, how it took over our thinking, and what it keeps us from seeing'",
+      "first_mention": "Chapter 1, Section 6, final paragraph",
+      "relates_to_canonical": ["One-Size-Fits-All Ideology", "System of Systems of Human Relationship Phenomena"],
+      "integration_recommendation": "add_to_canonical"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 10,
+    "total_additions": 8,
+    "total_contradictions": 0,
+    "high_confidence_updates": 10,
+    "additions_recommended_for_canonical": 8,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "Scale determines appropriate system",
+      "We already switch systems naturally without realizing it",
+      "One-size-fits-all ideology is the core problem",
+      "Preview of four habitats with explicit definitions"
+    ],
+    "canonical_entities_referenced": [
+      "Scale Error",
+      "Habitat Logic",
+      "Communism (as family)",
+      "Socialism (as municipality)",
+      "Capitalism (as marketplace)",
+      "Anarchy (as friendship)",
+      "Slug Line",
+      "Scale",
+      "Habitat",
+      "System of Systems of Human Relationship Phenomena"
+    ],
+    "entities_merely_mentioned": [
+      "Homo Economicus - not mentioned in Chapter 1",
+      "Emergent Order - mentioned implicitly in friendship section but no new information added",
+      "Witching Hour - mentioned only in reference to prologue, no new content",
+      "The Green Acura Driver - mentioned only in reference to prologue"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "The four system definitions in Chapter 1 Section 4 are concise summaries - confirm these align with the more detailed canonical definitions from Prologue refinement",
+      "Chapter 1 uses lowercase 'communist', 'socialist', 'capitalist', 'anarchic' in the 'you already live as if' passage - consistent with lowercase habitat qualifiers in canonical"
+    ],
+    "chapter_narrative_role": "Chapter 1 moves from Prologue's concrete example (slug line) to abstract principle (scale determines system).  Sets up Chapter 2's exploration of the left/right spectrum."
+  }
+}

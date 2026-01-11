@@ -1,0 +1,258 @@
+{
+  "source_file": "manuscript/04-chapter-2.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Cover + Introduction + Chapter 1 merge",
+
+  "updates": [
+    {
+      "entity_name": "The Left/Right Line",
+      "update_type": "example_added",
+      "canonical_current": "The conventional political spectrum that treats capitalism, socialism, communism, and anarchy as 'mutually exclusive identities on a single flat line'",
+      "chapter_contribution": "Chapter 2 provides full origin story: French National Assembly seating chart (1780s), 19th century hardening via industrial revolution and Marx, Cold War binary weaponization, modern media scoreboard. Explains the line was never designed to describe multiple scales of life.",
+      "proposed_merge": "Add origin_story field with key historical moments: French Revolution seating → Industrial Revolution class conflict → Cold War binary → Media scoreboard",
+      "location": "Chapter 2, Sections 'How a Seating Chart Became a Spectrum' through 'When the Line Became a Scoreboard'",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "The Ring",
+      "update_type": "clarification",
+      "canonical_current": "A circular model representing the four overlapping systems that humans already live within",
+      "chapter_contribution": "Chapter 2 explicitly contrasts The Ring with The Left/Right Line: 'We're not going to fix the left/right line by arguing about where to put the labels... The primary question isn't \"Where do you fall?\" The primary question is \"Where do these systems belong?\"'",
+      "proposed_merge": "Add key_question field: 'Where do these systems belong?' vs 'Where do you fall?'",
+      "location": "Chapter 2, Section 'Dropping the Line, Finding the Map'",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Scale Error",
+      "update_type": "clarification",
+      "canonical_current": "The mistake of prioritizing a system that works well in one habitat at a different scale",
+      "chapter_contribution": "Chapter 2 explicitly connects scale error to the left/right line's failure: 'So people import a national-scale attitude into intimate life (\"families should operate like little free-market firms\" or \"the nation should operate like one big family\"), and things get weird.'",
+      "proposed_merge": "Add chapter_2_insight: National-scale attitudes imported into intimate life cause scale errors",
+      "location": "Chapter 2, Section 'What the Line Flattens', subsection '1. Scale'",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Slug Line",
+      "update_type": "new_application",
+      "canonical_current": "Washington DC's self-organizing carpool system demonstrating how public infrastructure, private incentives, social trust, and emergent norms work together",
+      "chapter_contribution": "Chapter 2 uses slug line as proof that real systems refuse to sit on the left/right spectrum: 'Try to place that on the left/right line. Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Shows it's 'an embarrassment' to the standard spectrum.",
+      "proposed_merge": "Add chapter_2_application: 'Refuses to sit on the left/right line - proves real systems blend logics that ideological jerseys tell us belong to rival tribes'",
+      "location": "Chapter 2, Section 'When the Line Meets the Parking Lot'",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "System of Systems of Human Relationship Phenomena",
+      "update_type": "example_added",
+      "canonical_current": "Constituent systems operating together at different scales within a larger system",
+      "chapter_contribution": "Chapter 2 provides three additional hybrid system examples beyond slug line: (1) Public roads + private delivery + online marketplaces, (2) Public schools + private vendors + volunteer PTAs + parent networks, (3) Disaster response with federal/local/nonprofit/church/business/volunteer cooperation",
+      "proposed_merge": "Add examples: 'Delivery ecosystem (public roads, private companies, online marketplaces)', 'Public school ecosystem (taxes, vendors, PTAs, parent networks)', 'Disaster response (all sectors operating side by side)'",
+      "location": "Chapter 2, Section 'When the Line Meets the Parking Lot', hybrid systems paragraph",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "One-Size-Fits-All Ideology",
+      "update_type": "clarification",
+      "canonical_current": "The error of treating one system as the universal answer applicable to all scales and contexts",
+      "chapter_contribution": "Chapter 2 explains this error's root cause: the left/right line 'forces everything—scale, authority, moral vision, tribe—onto a single axis.' Once that happens, 'Instead of asking \"Where does this logic work best?\" we ask \"Which logic should rule everything?\"'",
+      "proposed_merge": "Add root_cause: 'The left/right line forces multiple dimensions onto single axis, making systems into rival tribes instead of tools'",
+      "location": "Chapter 2, Section 'What the Line Flattens', conclusion",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Habitat Logic",
+      "update_type": "clarification",
+      "canonical_current": "Four distinct scales of human relationship where different organizing systems operate naturally and effectively",
+      "chapter_contribution": "Chapter 2 restates the four natural habitats in closing: 'Communism as the natural logic of the family... Socialism as the natural logic of public safety and defense... Capitalism as the natural logic of society-wide markets... Anarchy as the natural logic of friendships and emergent networks'",
+      "proposed_merge": "Add chapter_2_formulation with 'natural logic of' phrasing for each habitat",
+      "location": "Chapter 2, Section 'Dropping the Line, Finding the Map'",
+      "confidence": "high"
+    }
+  ],
+
+  "additions": [
+    {
+      "entity_name": "The Broken Line",
+      "type": "concept",
+      "definition": "The left/right political spectrum understood as fundamentally flawed - not just incomplete but actively misleading because it 'flattens' multiple dimensions (scale, authority, moral vision, tribe) onto a single axis",
+      "definition_type": "book_coined",
+      "builds_on": "The Left/Right Line concept, adding the diagnosis that the map is 'broken' rather than just simplified",
+      "purpose": "Chapter title and central metaphor - moves from 'the line exists' to 'the line is broken and needs replacing'",
+      "why_new": "Chapter 2's central thesis. The Left/Right Line was introduced in Chapter 1 as what the book replaces; The Broken Line is the explicit diagnosis that it's unfixable",
+      "first_mention": "Chapter 2, title",
+      "relates_to_canonical": ["The Left/Right Line", "The Ring", "One-Size-Fits-All Ideology"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "French Revolution Origin (Left/Right)",
+      "type": "historical_reference",
+      "description": "The origin of 'left' and 'right' political terminology: in the French National Assembly (late 1780s), deputies who supported the king and old hierarchy sat to the presiding officer's right; those pushing for radical change sat to the left. 'Left' meant less power for old order, 'Right' meant protect old order.",
+      "definition_type": "technical_standard",
+      "source": "French Revolution history",
+      "book_usage": "Shows the left/right terminology was never about economic systems - Marx hadn't been born. It was about attitudes toward hierarchy and speed of change.",
+      "illustrates": ["The Left/Right Line", "The Broken Line"],
+      "first_mention": "Chapter 2, Section 'How a Seating Chart Became a Spectrum'",
+      "key_insight": "Original meaning: 'Left' = less power for old order, more for new nation. 'Right' = protect old order. NOT about capitalism vs socialism.",
+      "relates_to_canonical": ["The Left/Right Line", "The Broken Line"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Cold War Binary",
+      "type": "historical_reference",
+      "description": "The post-WWII hardening of left/right into a global battlefield diagram: USA as 'free world' (democratic, capitalist, individualist) vs Soviet Union as 'socialist camp' (planned economy, state ownership, one-party rule). Both sides invested in telling stories that sharpened spectrum into binary.",
+      "definition_type": "book_coined",
+      "builds_on": "Cold War history",
+      "book_usage": "Explains why modern audiences think of left/right as primarily about capitalism vs socialism - the Cold War 'carved it into stone' and made the line into 'a battlefield diagram for a global ideological war'",
+      "illustrates": ["The Left/Right Line", "The Broken Line"],
+      "first_mention": "Chapter 2, Section 'Cold War: The Line Turns into a Front Line'",
+      "key_insight": "The Cold War weaponized the spectrum - anything 'socialist' could be nudged toward 'communism' via slippery slope arguments",
+      "relates_to_canonical": ["The Left/Right Line", "The Broken Line", "One-Size-Fits-All Ideology"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Ideological Bundling",
+      "type": "concept",
+      "definition": "The phenomenon where the left/right line packages unrelated positions into pre-sorted bundles. If 'on the right,' you're supposed to like markets, distrust taxes, support police, value tradition. If 'on the left,' you're supposed to like redistribution, distrust corporations, support protests, value change.",
+      "definition_type": "book_coined",
+      "builds_on": "Observation of political coalition behavior",
+      "purpose": "Explains how the line turns concrete policy questions into team loyalty tests - 'the important thing became less what you were for and more whose side you were on'",
+      "why_new": "Named and analyzed in Chapter 2 as mechanism by which the broken line distorts political thinking",
+      "first_mention": "Chapter 2, Section 'When the Line Became a Scoreboard'",
+      "examples": [
+        "Right bundle: markets + low taxes + police support + tradition + anti-socialism",
+        "Left bundle: redistribution + corporate distrust + protest support + social change + anti-capitalism"
+      ],
+      "relates_to_canonical": ["The Broken Line", "One-Size-Fits-All Ideology", "The Left/Right Line"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Flattening",
+      "type": "concept",
+      "definition": "The subtle and dangerous thing the left/right line does: it compresses multiple distinct questions (scale, authority, moral vision, tribe) into a single 'Where are you on the spectrum?' question, hiding crucial differences",
+      "definition_type": "book_coined",
+      "builds_on": "Dimensional reduction in data science, applied to political thinking",
+      "purpose": "Names the core failure mode of the left/right line - it's not just simplifying, it's collapsing orthogonal dimensions",
+      "why_new": "Central diagnostic concept introduced in Chapter 2",
+      "first_mention": "Chapter 2, Section 'What the Line Flattens'",
+      "dimensions_flattened": [
+        "Scale: How big is the 'we'?",
+        "Authority: Who decides, and how?",
+        "Moral Vision: What are we protecting?",
+        "Tribe: Who counts as 'us'?"
+      ],
+      "relates_to_canonical": ["The Broken Line", "Scale Error", "One-Size-Fits-All Ideology"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Four Flattened Dimensions",
+      "type": "framework",
+      "definition": "The four distinct questions that the left/right line wrongly compresses into one axis: (1) Scale - how big is the group?, (2) Authority - who decides and by what process?, (3) Moral Vision - what values are we protecting?, (4) Tribe - who counts as 'us'?",
+      "definition_type": "book_original",
+      "components": [
+        "Scale: Family of 4 vs. Neighborhood vs. City vs. Nation of 300M vs. Global market",
+        "Authority: Monarch vs. Legislature vs. CEO vs. Market vs. Leaderless community",
+        "Moral Vision: Freedom vs. Equality vs. Order vs. Loyalty vs. Care vs. Sanctity",
+        "Tribe: Family vs. Class vs. Nation vs. Religion vs. Party vs. Online community"
+      ],
+      "purpose": "Reveals why the left/right line fails - it treats orthogonal questions as if they were the same question",
+      "why_new": "Analytical framework introduced in Chapter 2 to diagnose the broken line",
+      "first_mention": "Chapter 2, Section 'What the Line Flattens'",
+      "relates_to_canonical": ["Flattening", "The Broken Line", "Scale", "Habitat Logic"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Jersey Metaphor",
+      "type": "metaphor",
+      "definition": "The transformation of economic systems (capitalism, socialism, communism, anarchy) from tools or arrangements into team jerseys or tribal identities that signal which side you're on",
+      "definition_type": "book_coined",
+      "builds_on": "Sports team loyalty dynamics applied to political identity",
+      "purpose": "Captures how the left/right line converts policy tools into identity markers",
+      "why_new": "Introduced in Chapter 2 to explain ideological bundling",
+      "first_mention": "Chapter 2, opening section 'The Line in Your Head'",
+      "key_quote": "capitalism, socialism, communism, and anarchy aren't just tools or arrangements anymore. They're your team's jerseys or a diagnosis of everyone else",
+      "relates_to_canonical": ["Ideological Bundling", "One-Size-Fits-All Ideology", "The Broken Line"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Caricature Definitions",
+      "type": "concept",
+      "definition": "The distorted, hostile characterizations that each system receives when viewed through the left/right lens, replacing nuanced definitions with tribal attack lines",
+      "definition_type": "book_coined",
+      "builds_on": "Observation of political rhetoric",
+      "purpose": "Shows how the broken line corrupts understanding of each system",
+      "why_new": "Chapter 2 explicitly contrasts book definitions with caricature definitions",
+      "first_mention": "Chapter 2, 'The Line in Your Head' section",
+      "caricatures": [
+        "Anarchy: 'animalistic survival of the fittest' instead of 'voluntary cooperation → self-adapting systems'",
+        "Capitalism: 'amassing wealth on backs of the weak' instead of 'individual innovation aligned to community needs'",
+        "Socialism: 'placation of guilt via systems of dependency' instead of 'commonwealth share via economies of scale'",
+        "Communism: 'we will eat the rich!' instead of 'selfless generosity to shared greater good'"
+      ],
+      "relates_to_canonical": ["Jersey Metaphor", "Ideological Bundling", "The Broken Line"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Natural Logic Formulation",
+      "type": "concept",
+      "definition": "The Chapter 2 phrasing that identifies each system as 'the natural logic of' its proper habitat: communism as natural logic of family, socialism as natural logic of public safety, capitalism as natural logic of society-wide markets, anarchy as natural logic of friendships and emergent networks",
+      "definition_type": "book_coined",
+      "builds_on": "Habitat Logic framework",
+      "purpose": "Provides accessible phrasing for the habitat-system fit concept",
+      "why_new": "Explicit 'natural logic of' formulation appears in Chapter 2 closing",
+      "first_mention": "Chapter 2, Section 'Dropping the Line, Finding the Map'",
+      "relates_to_canonical": ["Habitat Logic", "Natural and Unnatural Habitats", "The Ring"],
+      "integration_recommendation": "add_to_canonical"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 7,
+    "total_additions": 9,
+    "total_contradictions": 0,
+    "high_confidence_updates": 7,
+    "additions_recommended_for_canonical": 9,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "Origin story of the left/right line (French Revolution → Industrial Revolution → Cold War → Media)",
+      "The line is broken, not just incomplete",
+      "Flattening: multiple dimensions compressed into one axis",
+      "Ideological bundling and jersey tribalism",
+      "Real systems (like slug line) refuse to sit on the spectrum",
+      "The question is 'Where do systems belong?' not 'Where do you fall?'"
+    ],
+    "canonical_entities_referenced": [
+      "The Left/Right Line",
+      "The Ring",
+      "Scale Error",
+      "Slug Line",
+      "System of Systems of Human Relationship Phenomena",
+      "One-Size-Fits-All Ideology",
+      "Habitat Logic",
+      "Communism (as family)",
+      "Socialism (as municipality)",
+      "Capitalism (as marketplace)",
+      "Anarchy (as friendship)",
+      "Natural and Unnatural Habitats"
+    ],
+    "entities_merely_mentioned": [
+      "Karl Marx - mentioned as historical figure, not developed as entity",
+      "French National Assembly - context for origin story",
+      "Cold War - context for spectrum weaponization"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "The Broken Line vs The Left/Right Line: These are closely related. Broken Line is the diagnosis that the Left/Right Line is unfixable. Decide if these should merge or remain separate.",
+      "Four Flattened Dimensions: This is a new analytical framework. Confirm this is distinct enough from Habitat Logic to warrant separate entity.",
+      "Caricature Definitions: May be useful for consistency in book rhetoric but might be too meta for knowledge graph."
+    ],
+    "chapter_narrative_role": "Chapter 2 delivers the historical and analytical case against the left/right spectrum. It answers Chapter 1's closing question: 'who drew it, how it took over our thinking, and what it keeps us from seeing.' Sets up Chapter 3's deeper dive into family as the first habitat."
+  }
+}
