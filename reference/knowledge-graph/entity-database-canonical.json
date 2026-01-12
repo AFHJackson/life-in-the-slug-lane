@@ -58,9 +58,10 @@
         "book_usage": "Reframed as a human relationship system based on collective contribution and distribution according to need rather where contribution and distribution authority is highly centralized within those who sacrifice the most (e.g. those contributing the most and recieving the least). Appropriate at family scale - 'from each according to ability, to each according to need' describes love around a kitchen table, not a dystopian national policy",
         "introduction_formulation": "'from each according to their ability, to each according to their need — the default logic of a healthy family'",
         "chapter_1_example": "'Parents give more than they receive. Small children receive more than they give. The accounting books are gloriously uneven, and we would be horrified if they weren't.'",
+        "chapter_3_clarification": "Not baptizing regimes - recovering core idea before misapplication at national scale. The family 'doesn't know it's quoting Marx, but it is living out his most famous sentence every day.'",
         "first_mention": "Prologue, paragraph 65",
         "context": "Part of the four systems that each have appropriate scales",
-        "related_entities": ["Four Habitats", "Scale", "Family"]
+        "related_entities": ["Four Habitats", "Scale", "Family", "The First Little Commune"]
       },
       {
         "name": "Socialism (as municipality)",
@@ -145,7 +146,16 @@
           "We try to run nations like a tight-knit tribe",
           "We try to police friendships"
         ],
-        "related_entities": ["Habitat Logic", "System of Systems of Human Relationship Phenomena", "Scale", "The Hammer Fallacy", "One-Size-Fits-All Ideology"]
+        "chapter_3_example": {
+          "name": "One Big Family Fallacy",
+          "description": "Politicians using 'we're a family here' language to justify paternalism, nepotism, and favoritism",
+          "pathologies": [
+            "Paternalism/Infantilization: treating adults as oversized kids",
+            "Nepotism/Dynasties: jobs go to cousins, contracts to in-laws",
+            "Unfairness to Outsiders: resources flow first to 'our people'"
+          ]
+        },
+        "related_entities": ["Habitat Logic", "System of Systems of Human Relationship Phenomena", "Scale", "The Hammer Fallacy", "One-Size-Fits-All Ideology", "One Big Family Fallacy"]
       },
       {
         "name": "Habitat Logic",
@@ -408,6 +418,46 @@
         "purpose": "Provides accessible phrasing for the habitat-system fit concept",
         "first_mention": "Chapter 2, Section 'Dropping the Line, Finding the Map'",
         "related_entities": ["Habitat Logic", "Natural and Unnatural Habitats", "The Ring"]
+      },
+      {
+        "name": "The First Little Commune",
+        "type": "metaphor",
+        "definition": "The family as the original, everyday version of communism - 'not in a manifesto, it's in the kitchen' - where 'from each according to ability, to each according to need' is lived out before anyone reads about it in a history book",
+        "definition_type": "book_coined",
+        "builds_on": "Communism (as family) concept, giving it narrative identity",
+        "purpose": "Chapter 3 title and central metaphor - makes the claim that family IS communism at proper scale",
+        "key_quote": "The first little commune is not in a manifesto. It's in the kitchen.",
+        "first_mention": "Chapter 3, title and opening",
+        "related_entities": ["Communism (as family)", "Habitat", "Natural and Unnatural Habitats"]
+      },
+      {
+        "name": "One Big Family Fallacy",
+        "type": "concept",
+        "definition": "The attempt to scale family operating system to national or corporate level using 'we're a family here' language, which produces three pathologies: paternalism/infantilization, nepotism/dynasties, and unfairness to outsiders",
+        "definition_type": "book_coined",
+        "builds_on": "Scale Error concept applied to family-to-nation transfer",
+        "pathologies": [
+          "Paternalism/Infantilization: Leaders make decisions FOR citizens like parents for children - 'Children actually need this. Citizens do not.'",
+          "Nepotism/Dynasties: 'Jobs go to cousins. Contracts go to in-laws.' Family partiality becomes corruption",
+          "Unfairness to Outsiders: Resources flow first to 'our people' - 'What began as a promise of solidarity turns into a justification for favoritism'"
+        ],
+        "purpose": "Diagnoses why 'one big family' rhetoric is dangerous at scale",
+        "first_mention": "Chapter 3, 'The Trouble with One Big Family' section",
+        "related_entities": ["Scale Error", "Communism (as family)", "Natural and Unnatural Habitats"]
+      },
+      {
+        "name": "Limits of Family Habitat",
+        "type": "concept",
+        "definition": "The hard boundaries of what family-scale communism can accomplish: cannot organize city-wide fire response, coordinate traffic for ambulances, create neutral dispute resolution for strangers, or protect people who have no family to love them",
+        "definition_type": "book_original",
+        "purpose": "Sets up transition to socialism/safety habitat in Chapter 4",
+        "key_examples": [
+          "A family cannot keep fire trucks fueled, crews trained, hydrants maintained",
+          "A family cannot build and maintain roads for ambulances",
+          "A family cannot ensure protection for the person who lives alone and has no relatives"
+        ],
+        "first_mention": "Chapter 3, 'What the Commune Can't Do' section",
+        "related_entities": ["Communism (as family)", "Socialism (as municipality)", "Habitat Logic"]
       }
     ],
     "examples": [
@@ -421,7 +471,8 @@
         "related_entities": ["Witching Hour", "HOV Lanes", "Pentagon"],
         "narrative_arc": "Personal experience → puzzle of 'irrational' generosity → reveals system of systems insight",
         "chapter_1_insight": "'A hybrid system out of public infrastructure, private incentives, communal trust, and emergent norms. No one ideology can fully claim it. It's part market, part shared-service, part informal anarchy.'",
-        "chapter_2_application": "Refuses to sit on the left/right line - 'an embarrassment' to the standard spectrum. 'Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Proves real systems blend logics that ideological jerseys tell us belong to rival tribes."
+        "chapter_2_application": "Refuses to sit on the left/right line - 'an embarrassment' to the standard spectrum. 'Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Proves real systems blend logics that ideological jerseys tell us belong to rival tribes.",
+        "chapter_3_insight": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat. 'The little anarchy of the slug line and the quiet communism of the family both floated on top of that river of earned surplus.'"
       },
       {
         "name": "The Green Acura Driver",
@@ -541,7 +592,8 @@
       "01-authors-introduction-and-goals (delta merge 2026-01-11)",
       "Prologue (initial extraction)",
       "Chapter 1 (delta merge 2026-01-11)",
-      "Chapter 2 (delta merge 2026-01-11)"
+      "Chapter 2 (delta merge 2026-01-11)",
+      "Chapter 3 (delta merge 2026-01-11)"
     ],
     "quality_concerns": [],
     "technical_terms_verified": true

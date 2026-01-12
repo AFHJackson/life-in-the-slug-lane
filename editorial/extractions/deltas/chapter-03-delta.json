@@ -1,0 +1,132 @@
+{
+  "source_file": "manuscript/05-chapter-3.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Cover + Introduction + Chapters 1-2 merge",
+
+  "updates": [
+    {
+      "entity_name": "Communism (as family)",
+      "update_type": "clarification",
+      "canonical_current": "Introduction formulation: 'from each according to their ability, to each according to their need — the default logic of a healthy family'",
+      "chapter_contribution": "Chapter 3 explicitly addresses the dystopian baggage: 'when I say family life runs on a kind of communism, I am NOT baptizing any of those regimes. I'm backing up to the core idea inside the slogan.' The family 'doesn't know it's quoting Marx, but it is living out his most famous sentence every day'",
+      "proposed_merge": "Add chapter_3_clarification: 'Not baptizing regimes - recovering core idea before misapplication at national scale'",
+      "location": "Chapter 3, 'Naming What We Already Do' section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Scale Error",
+      "update_type": "example_added",
+      "canonical_current": "The mistake of applying a system that works at one scale to a different scale",
+      "chapter_contribution": "Chapter 3 provides 'One Big Family' as primary scale error example: politicians using 'we're a family here' language to justify paternalism, nepotism, and favoritism. 'When a government or company leans too hard into the we're one big family metaphor, it often starts treating adults as oversized kids.'",
+      "proposed_merge": "Add 'One Big Family fallacy' to examples array with sub-examples: paternalism/infantilization, nepotism/dynasties, unfairness to outsiders",
+      "location": "Chapter 3, 'The Trouble with One Big Family' section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Slug Line",
+      "update_type": "new_application",
+      "canonical_current": "Washington DC's self-organizing carpool system demonstrating how public infrastructure, private incentives, social trust, and emergent norms work together",
+      "chapter_contribution": "Chapter 3 revisits slug line to show layered systems: 'Under that fragile, informal layer sat something else. The roads those cars used were maintained by taxes. The traffic signals were installed by engineers... The little anarchy of the slug line and the quiet communism of the family both floated on top of that river of earned surplus.'",
+      "proposed_merge": "Add chapter_3_insight: 'Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat'",
+      "location": "Chapter 3, 'What the Commune Can't Do' section",
+      "confidence": "high"
+    }
+  ],
+
+  "additions": [
+    {
+      "entity_name": "The First Little Commune",
+      "type": "metaphor",
+      "definition": "The family as the original, everyday version of communism - 'not in a manifesto, it's in the kitchen' - where 'from each according to ability, to each according to need' is lived out before anyone reads about it in a history book",
+      "definition_type": "book_coined",
+      "builds_on": "Communism (as family) concept, giving it narrative identity",
+      "purpose": "Chapter 3 title and central metaphor - makes the claim that family IS communism at proper scale",
+      "first_mention": "Chapter 3, title and opening",
+      "key_quote": "The first little commune is not in a manifesto. It's in the kitchen.",
+      "relates_to_canonical": ["Communism (as family)", "Habitat", "Natural and Unnatural Habitats"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "One Big Family Fallacy",
+      "type": "concept",
+      "definition": "The attempt to scale family operating system to national or corporate level using 'we're a family here' language, which produces three pathologies: paternalism/infantilization, nepotism/dynasties, and unfairness to outsiders",
+      "definition_type": "book_coined",
+      "builds_on": "Scale Error concept applied to family-to-nation transfer",
+      "pathologies": [
+        "Paternalism/Infantilization: Leaders make decisions FOR citizens like parents for children - 'Children actually need this. Citizens do not.'",
+        "Nepotism/Dynasties: 'Jobs go to cousins. Contracts go to in-laws.' Family partiality becomes corruption",
+        "Unfairness to Outsiders: Resources flow first to 'our people' - 'What began as a promise of solidarity turns into a justification for favoritism'"
+      ],
+      "purpose": "Diagnoses why 'one big family' rhetoric is dangerous at scale",
+      "first_mention": "Chapter 3, 'The Trouble with One Big Family' section",
+      "relates_to_canonical": ["Scale Error", "Communism (as family)", "Natural and Unnatural Habitats"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Limits of Family Habitat",
+      "type": "concept",
+      "definition": "The hard boundaries of what family-scale communism can accomplish: cannot organize city-wide fire response, coordinate traffic for ambulances, create neutral dispute resolution for strangers, or protect people who have no family to love them",
+      "definition_type": "book_original",
+      "purpose": "Sets up transition to socialism/safety habitat in Chapter 4",
+      "key_examples": [
+        "A family cannot keep fire trucks fueled, crews trained, hydrants maintained",
+        "A family cannot build and maintain roads for ambulances",
+        "A family cannot ensure protection for the person who lives alone and has no relatives"
+      ],
+      "first_mention": "Chapter 3, 'What the Commune Can't Do' section",
+      "relates_to_canonical": ["Communism (as family)", "Socialism (as municipality)", "Habitat Logic"],
+      "integration_recommendation": "add_to_canonical"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 6,
+    "total_additions": 8,
+    "total_contradictions": 0,
+    "high_confidence_updates": 6,
+    "additions_recommended_for_canonical": 8,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "The family as 'the first little commune' - everyday communism before ideology",
+      "Five ingredients that make family communism work (thick love, asymmetric responsibility, intimacy, long horizons, thick 'we')",
+      "Two failure modes: too transactional vs too smothering",
+      "Why scaling family to nation fails: paternalism, nepotism, exclusion",
+      "Tribalism as 'family feeling with teeth'",
+      "Special duties vs general duties - when partiality is virtue vs vice",
+      "Limits of family: cannot protect strangers, cannot organize public services",
+      "Setup for Chapter 4: systems that show up for everyone, not just loved ones"
+    ],
+    "canonical_entities_referenced": [
+      "Communism (as family)",
+      "Natural and Unnatural Habitats",
+      "Scale Error",
+      "Habitat",
+      "Slug Line",
+      "Capitalism (as marketplace)",
+      "Socialism (as municipality)",
+      "Anarchy (as friendship)",
+      "Habitat Logic"
+    ],
+    "entities_merely_mentioned": [
+      "Karl Marx - mentioned as source of slogan, not developed as entity",
+      "Friedrich Hayek - mentioned re: local knowledge, not developed as entity",
+      "Martian economist - thought experiment device"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "Five Ingredients framework: This is substantial enough to warrant its own entity. Confirm this is distinct from Habitat Logic.",
+      "Special Duties vs General Duties: Consider whether this becomes a core ethical framework used throughout book or is specific to Chapter 3.",
+      "Necessity/Surplus/Excess: Brief mention but potentially useful framework. May be developed further in market chapters."
+    ],
+    "chapter_narrative_role": "Chapter 3 provides the deep dive into family as the first habitat where 'from each / to each' makes sense. It names the pattern ('first little commune'), explains why it works (five ingredients), shows how it fails (transactional/smothering, one big family fallacy), and sets up the transition to Chapter 4 by asking: 'what do we call this other system that sends out fire trucks... no matter who we are?'"
+  }
+}
