@@ -16,39 +16,12 @@
       "confidence": "high"
     },
     {
-      "entity_name": "The Ring",
-      "update_type": "clarification",
-      "canonical_current": "A circular model representing the four overlapping systems that humans already live within",
-      "chapter_contribution": "Chapter 2 explicitly contrasts The Ring with The Left/Right Line: 'We're not going to fix the left/right line by arguing about where to put the labels... The primary question isn't \"Where do you fall?\" The primary question is \"Where do these systems belong?\"'",
-      "proposed_merge": "Add key_question field: 'Where do these systems belong?' vs 'Where do you fall?'",
-      "location": "Chapter 2, Section 'Dropping the Line, Finding the Map'",
-      "confidence": "high"
-    },
-    {
-      "entity_name": "Scale Error",
-      "update_type": "clarification",
-      "canonical_current": "The mistake of prioritizing a system that works well in one habitat at a different scale",
-      "chapter_contribution": "Chapter 2 explicitly connects scale error to the left/right line's failure: 'So people import a national-scale attitude into intimate life (\"families should operate like little free-market firms\" or \"the nation should operate like one big family\"), and things get weird.'",
-      "proposed_merge": "Add chapter_2_insight: National-scale attitudes imported into intimate life cause scale errors",
-      "location": "Chapter 2, Section 'What the Line Flattens', subsection '1. Scale'",
-      "confidence": "high"
-    },
-    {
       "entity_name": "Slug Line",
       "update_type": "new_application",
       "canonical_current": "Washington DC's self-organizing carpool system demonstrating how public infrastructure, private incentives, social trust, and emergent norms work together",
       "chapter_contribution": "Chapter 2 uses slug line as proof that real systems refuse to sit on the left/right spectrum: 'Try to place that on the left/right line. Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Shows it's 'an embarrassment' to the standard spectrum.",
       "proposed_merge": "Add chapter_2_application: 'Refuses to sit on the left/right line - proves real systems blend logics that ideological jerseys tell us belong to rival tribes'",
       "location": "Chapter 2, Section 'When the Line Meets the Parking Lot'",
-      "confidence": "high"
-    },
-    {
-      "entity_name": "System of Systems of Human Relationship Phenomena",
-      "update_type": "example_added",
-      "canonical_current": "Constituent systems operating together at different scales within a larger system",
-      "chapter_contribution": "Chapter 2 provides three additional hybrid system examples beyond slug line: (1) Public roads + private delivery + online marketplaces, (2) Public schools + private vendors + volunteer PTAs + parent networks, (3) Disaster response with federal/local/nonprofit/church/business/volunteer cooperation",
-      "proposed_merge": "Add examples: 'Delivery ecosystem (public roads, private companies, online marketplaces)', 'Public school ecosystem (taxes, vendors, PTAs, parent networks)', 'Disaster response (all sectors operating side by side)'",
-      "location": "Chapter 2, Section 'When the Line Meets the Parking Lot', hybrid systems paragraph",
       "confidence": "high"
     },
     {
@@ -195,7 +168,7 @@
     {
       "entity_name": "Natural Logic Formulation",
       "type": "concept",
-      "definition": "The Chapter 2 phrasing that identifies each system as 'the natural logic of' its proper habitat: communism as natural logic of family, socialism as natural logic of public safety, capitalism as natural logic of society-wide markets, anarchy as natural logic of friendships and emergent networks",
+      "definition": "The Chapter 2 phrasing that identifies each system as 'the natural logic of' its proper habitat: communism as natural logic of family, socialism as natural logic of public safety, capitalism as natural logic of society-wide markets, anarchy as natural logic of friendships and volunteer networks",
       "definition_type": "book_coined",
       "builds_on": "Habitat Logic framework",
       "purpose": "Provides accessible phrasing for the habitat-system fit concept",
