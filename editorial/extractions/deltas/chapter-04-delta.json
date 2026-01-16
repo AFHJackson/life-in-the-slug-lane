@@ -1,0 +1,158 @@
+{
+  "source_file": "manuscript/06-chapter-4.md",
+  "extraction_date": "2026-01-11",
+  "extractor": "opus-4.5",
+  "canonical_reference": "reference/knowledge-graph/entity-database-canonical.json",
+  "canonical_version": "After Cover + Introduction + Chapters 1-3 merge",
+
+  "updates": [
+    {
+      "entity_name": "Socialism (as municipality)",
+      "update_type": "clarification",
+      "canonical_current": "Reframed as human relationships system based on shared human needs met through commonwealth contributions to shared services. Chapter 1 formulation: 'systems we rely on together so no one burns or bleeds out alone'",
+      "chapter_contribution": "Chapter 4 provides precise definition: 'Socialism = collectively funded, universally available essential services like police, fire, rescue, roadways, stormwater management, and our military.' Explicitly distinguishes from cable-news sense and government-owns-everything sense.",
+      "proposed_merge": "Add chapter_4_definition with precise scope and explicit disclaimers about what this does NOT mean",
+      "location": "Chapter 4, 'Naming the Commons of Safety' section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Socialism (as municipality)",
+      "update_type": "example_added",
+      "canonical_current": "Appropriate for municipalities, public safety, and national defense",
+      "chapter_contribution": "Chapter 4 opens with visceral 3:17 a.m. fire scene demonstrating the system in action: smoke alarm, 911 call, dispatcher, fire crew responding. 'Forty-five seconds ago, half the crew was unconscious. Now they're in the truck.'",
+      "proposed_merge": "Add chapter_4_scene: '3:17 a.m. fire response - from smoke alarm to rolling truck in 45 seconds'",
+      "location": "Chapter 4, opening scene",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Natural and Unnatural Habitats",
+      "update_type": "example_added",
+      "canonical_current": "The distinction between contexts where a system flourishes (natural habitat) versus contexts where that same system 'becomes a monster' (unnatural habitat)",
+      "chapter_contribution": "Chapter 4 provides safety system failure modes: (1) Uber for house fires - gamified disaster response, (2) Police state - apparatus of safety swallows ordinary life, (3) Securitization of everyday life - 'because of security reasons' ends conversations",
+      "proposed_merge": "Add safety_failure_modes: 'marketized emergency response' and 'police state / securitization' as unnatural applications",
+      "location": "Chapter 4, 'Why Safety Wants to Be Socialized' and 'When the Safety Shell Eats the World' sections",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Habitat Logic",
+      "update_type": "clarification",
+      "canonical_current": "Four distinct scales of human relationship where different organizing systems operate naturally and effectively",
+      "chapter_contribution": "Chapter 4 explicitly shows habitats as layers that support each other: 'The family doesn't provide that layer for itself. It outsources it to the commons.' Family, friendship, markets all 'take for granted' safety infrastructure.",
+      "proposed_merge": "Add chapter_4_insight: 'Habitats are interdependent layers - family and friendship and markets all float on the commons of safety'",
+      "location": "Chapter 4, 'How the Safety Layer Interacts With Everything Else' section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Slug Line",
+      "update_type": "new_application",
+      "canonical_current": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat",
+      "chapter_contribution": "Chapter 4 makes explicit the safety assumptions underlying slug line: 'that if a driver assaults a passenger, there are systems to respond; that if a car crashes, an ambulance can get to the HOV lane; that if someone disappears, there are detectives who will care.'",
+      "proposed_merge": "Add chapter_4_safety_assumptions to existing chapter_3_insight",
+      "location": "Chapter 4, 'How the Safety Layer Interacts With Everything Else' section",
+      "confidence": "high"
+    },
+    {
+      "entity_name": "Scale Error",
+      "update_type": "example_added",
+      "canonical_current": "The mistake of applying a system that works at one scale to a different scale",
+      "chapter_contribution": "Chapter 4 provides 'safety eating everything' as scale error: SWAT teams used for routine warrants, emergency powers becoming permanent, 'if it saves just one life' justifying anything. 'The scale where socialism-in-this-sense works so well is not the scale where everything should be run like a security operation.'",
+      "proposed_merge": "Add 'safety mission creep' to examples: SWAT overuse, permanent emergency powers, securitization of everyday life",
+      "location": "Chapter 4, 'When the Safety Shell Eats the World' section",
+      "confidence": "high"
+    }
+  ],
+
+  "additions": [
+    {
+      "entity_name": "Four Rules of Socialism",
+      "type": "framework",
+      "definition": "The four rules that focus safety services for collective funding: (1) Risk Pooling - sizing for worst days not average, (2) Time Pressure - emergencies are bad for shopping, (3) Impartiality - 'we will come, whoever you are', (4) Standardization - drilled competence that works in the dark",
+      "definition_type": "book_original",
+      "components": [
+        "Risk Pooling: 'We build a shared system sized for the worst days, not the average ones'",
+        "Time Pressure: 'When your kid isn't breathing, you're not in a negotiation mood'",
+        "Impartiality: 'If you are in danger, we will come - whoever you are'",
+        "Standardization: 'You want the same CPR in every living room'"
+      ],
+      "purpose": "Explains WHEN shared needs should be socialized - not ideology, but practical necessity",
+      "first_mention": "Chapter 4, 'When To Be Socialized' section",
+      "relates_to_canonical": ["Socialism (as municipality)", "Commons of Safety", "Natural and Unnatural Habitats"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Uber for House Fires",
+      "type": "metaphor",
+      "definition": "Satirical thought experiment: 'It's like Uber, but for house fires. Tap a button, and competing fire crews bid on your emergency.' Demonstrates why market logic fails for emergency services.",
+      "definition_type": "book_coined",
+      "builds_on": "Common startup pitch format applied to obviously wrong domain",
+      "purpose": "Makes visceral the absurdity of marketizing emergency response",
+      "key_quote": "Emergencies are a bad time for shopping",
+      "first_mention": "Chapter 4, 'Why Safety Wants to Be Socialized' section",
+      "relates_to_canonical": ["Natural and Unnatural Habitats", "Scale Error", "Commons of Safety"],
+      "integration_recommendation": "add_to_canonical"
+    },
+    {
+      "entity_name": "Historical Evolution of Safety Systems",
+      "type": "historical_reference",
+      "definition": "The messy, non-ideological path from private/volunteer systems to professional public safety: rival fire companies brawling while buildings burned, night watchmen for hire, citizen militias giving way to standing armies",
+      "definition_type": "book_original",
+      "purpose": "Shows we backed into public safety because 'the old ways kept burning down', not through philosophical design",
+      "key_examples": [
+        "18th-19th century: Private fire companies racing each other, fighting over who gets to save the building",
+        "Early policing: Night watchmen, private muscle, sheriffs and posses",
+        "Military: From citizen-soldiers to standing armies as industrial warfare made militias unrealistic"
+      ],
+      "pattern": "Make safety someone's job (not hobby), fund it collectively (not subscriptions), aim it at everyone (not just the powerful)",
+      "first_mention": "Chapter 4, 'How We Stumbled Into Professional Safety' section",
+      "relates_to_canonical": ["Commons of Safety", "Socialism (as municipality)"],
+      "integration_recommendation": "add_to_canonical"
+    }
+  ],
+
+  "contradictions": [],
+
+  "summary": {
+    "total_updates": 6,
+    "total_additions": 8,
+    "total_contradictions": 0,
+    "high_confidence_updates": 6,
+    "additions_recommended_for_canonical": 8,
+    "critical_contradictions": 0,
+    "moderate_contradictions": 0,
+    "minor_contradictions": 0
+  },
+
+  "extraction_notes": {
+    "chapter_themes": [
+      "The commons of safety as socialism's proper habitat",
+      "Four features that make safety naturally collective: risk pooling, time pressure, impartiality, standardization",
+      "The uniform and split self - flipping from partial love to impartial justice",
+      "Safety shell eating the world - police state and securitization",
+      "Paradox of boring safety - working well means barely noticed",
+      "Shell and engine - safety consumes, markets produce",
+      "Habitats as interdependent layers, not rival religions"
+    ],
+    "canonical_entities_referenced": [
+      "Socialism (as municipality)",
+      "Communism (as family)",
+      "The First Little Commune",
+      "Capitalism (as marketplace)",
+      "Anarchy (as friendship)",
+      "Natural and Unnatural Habitats",
+      "Scale Error",
+      "Habitat Logic",
+      "Slug Line"
+    ],
+    "entities_merely_mentioned": [
+      "911 - infrastructure, not developed as entity",
+      "Hayek mention of local knowledge (from Ch 3) - contrast with standardized safety"
+    ],
+    "quality_concerns": [],
+    "reviewer_attention_needed": [
+      "Four Features of Safety Logic: Parallel to Five Ingredients of Family Communism from Chapter 3. Confirm distinct entities are warranted.",
+      "Shell and Engine: Brief metaphor but sets up Chapter 5 framing. May be developed further there.",
+      "Police State / Securitization: Important failure mode. Confirm this is the right level of abstraction."
+    ],
+    "chapter_narrative_role": "Chapter 4 provides the deep dive into socialism's proper habitat: collectively funded safety services. Opens with visceral fire scene, explains why safety wants to be socialized (four features), explores the split self of uniformed workers, warns about safety eating everything (police state), and closes by asking who pays for it all - setting up Chapter 5's market discussion."
+  }
+}

@@ -70,9 +70,11 @@
         "definition_type": "technical_standard",
         "source": "Political economy",
         "book_usage": "Reframed as a human reslationships system based on shared human needs met through commonwealth contributions to shared services that are equally distributed regardless of specific contribution amount provided to the common wealth pot.  Appropriate for municipalities, public safety, and national defense - collectively funded, universally available services for fires, ambulances, borders. Chapter 1 formulation: 'systems we rely on together so no one burns or bleeds out alone'",
+        "chapter_4_definition": "Socialism = collectively funded, universally available essential services like police, fire, rescue, roadways, stormwater management, and our military. NOT the cable-news sense or government-owns-everything sense.",
+        "chapter_4_scene": "3:17 a.m. fire response - from smoke alarm to rolling truck in 45 seconds. 'There is a system that will come when it's needed, for anyone, every time, whether or not anybody loves them.'",
         "first_mention": "Prologue, paragraph 66",
         "context": "Part of the four systems that each have appropriate scales",
-        "related_entities": ["Four Habitats", "Scale", "Safety Commons"]
+        "related_entities": ["Four Habitats", "Scale", "Safety Commons", "Four Rules of Socialism"]
       },
       {
         "name": "Capitalism (as marketplace)",
@@ -155,6 +157,17 @@
             "Unfairness to Outsiders: resources flow first to 'our people'"
           ]
         },
+        "chapter_4_example": {
+          "name": "Safety Mission Creep",
+          "description": "Safety apparatus expanding beyond proper scope",
+          "examples": [
+            "SWAT teams used for routine warrants",
+            "Emergency powers becoming permanent",
+            "'If it saves just one life' justifying anything",
+            "Securitization of everyday life"
+          ],
+          "key_insight": "The scale where socialism-in-this-sense works so well is not the scale where everything should be run like a security operation"
+        },
         "related_entities": ["Habitat Logic", "System of Systems of Human Relationship Phenomena", "Scale", "The Hammer Fallacy", "One-Size-Fits-All Ideology", "One Big Family Fallacy"]
       },
       {
@@ -176,6 +189,7 @@
           "capitalism": "the natural logic of society-wide markets",
           "anarchy": "the natural logic of friendships and emergent networks"
         },
+        "chapter_4_insight": "Habitats are interdependent layers - family and friendship and markets all float on the commons of safety. 'The family doesn't provide that layer for itself. It outsources it to the commons.'",
         "first_mention": "Chapter 1, Section 4",
         "context": "Introduced after establishing that we already switch between prioritized system as we move between habitats naturally in daily life",
         "related_entities": ["Scale Error", "The Ring", "System of Systems of Human Relationship Phenomena", "Natural Logic Formulation"],
@@ -231,6 +245,10 @@
           "Communism: natural in family, monstrous at national scale",
           "Capitalism: natural in marketplace, monstrous in intimate relationships",
           "Formal authority: natural in government, monstrous in friend groups"
+        ],
+        "chapter_4_safety_failure_modes": [
+          "Marketized emergency response: 'Uber for house fires' - gamified disaster response",
+          "Police state / securitization: apparatus of safety swallows ordinary life, 'because of security reasons' ends conversations"
         ],
         "related_entities": ["Habitat", "Habitat Logic", "Scale Error"]
       },
@@ -458,6 +476,47 @@
         ],
         "first_mention": "Chapter 3, 'What the Commune Can't Do' section",
         "related_entities": ["Communism (as family)", "Socialism (as municipality)", "Habitat Logic"]
+      },
+      {
+        "name": "Four Rules of Socialism",
+        "type": "framework",
+        "definition": "The four rules that focus safety services for collective funding: (1) Risk Pooling - sizing for worst days not average, (2) Time Pressure - emergencies are bad for shopping, (3) Impartiality - 'we will come, whoever you are', (4) Standardization - drilled competence that works in the dark",
+        "definition_type": "book_original",
+        "components": [
+          "Risk Pooling: 'We build a shared system sized for the worst days, not the average ones'",
+          "Time Pressure: 'When your kid isn't breathing, you're not in a negotiation mood'",
+          "Impartiality: 'If you are in danger, we will come - whoever you are'",
+          "Standardization: 'You want the same CPR in every living room'"
+        ],
+        "purpose": "Explains WHEN shared needs should be socialized - not ideology, but practical necessity",
+        "first_mention": "Chapter 4, 'When To Be Socialized' section",
+        "related_entities": ["Socialism (as municipality)", "Natural and Unnatural Habitats"]
+      },
+      {
+        "name": "Uber for House Fires",
+        "type": "metaphor",
+        "definition": "Satirical thought experiment: 'It's like Uber, but for house fires. Tap a button, and competing fire crews bid on your emergency.' Demonstrates why market logic fails for emergency services.",
+        "definition_type": "book_coined",
+        "builds_on": "Common startup pitch format applied to obviously wrong domain",
+        "purpose": "Makes visceral the absurdity of marketizing emergency response",
+        "key_quote": "Emergencies are a bad time for shopping",
+        "first_mention": "Chapter 4, 'Why Safety Wants to Be Socialized' section",
+        "related_entities": ["Natural and Unnatural Habitats", "Scale Error"]
+      },
+      {
+        "name": "Historical Evolution of Safety Systems",
+        "type": "historical_reference",
+        "definition": "The messy, non-ideological path from private/volunteer systems to professional public safety: rival fire companies brawling while buildings burned, night watchmen for hire, citizen militias giving way to standing armies",
+        "definition_type": "book_original",
+        "purpose": "Shows we backed into public safety because 'the old ways kept burning down', not through philosophical design",
+        "key_examples": [
+          "18th-19th century: Private fire companies racing each other, fighting over who gets to save the building",
+          "Early policing: Night watchmen, private muscle, sheriffs and posses",
+          "Military: From citizen-soldiers to standing armies as industrial warfare made militias unrealistic"
+        ],
+        "pattern": "Make safety someone's job (not hobby), fund it collectively (not subscriptions), aim it at everyone (not just the powerful)",
+        "first_mention": "Chapter 4, 'How We Stumbled Into Professional Safety' section",
+        "related_entities": ["Socialism (as municipality)"]
       }
     ],
     "examples": [
@@ -472,7 +531,8 @@
         "narrative_arc": "Personal experience → puzzle of 'irrational' generosity → reveals system of systems insight",
         "chapter_1_insight": "'A hybrid system out of public infrastructure, private incentives, communal trust, and emergent norms. No one ideology can fully claim it. It's part market, part shared-service, part informal anarchy.'",
         "chapter_2_application": "Refuses to sit on the left/right line - 'an embarrassment' to the standard spectrum. 'Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Proves real systems blend logics that ideological jerseys tell us belong to rival tribes.",
-        "chapter_3_insight": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat. 'The little anarchy of the slug line and the quiet communism of the family both floated on top of that river of earned surplus.'"
+        "chapter_3_insight": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat. 'The little anarchy of the slug line and the quiet communism of the family both floated on top of that river of earned surplus.'",
+        "chapter_4_safety_assumptions": "Makes explicit the safety infrastructure underlying the system: 'that if a driver assaults a passenger, there are systems to respond; that if a car crashes, an ambulance can get to the HOV lane; that if someone disappears, there are detectives who will care.'"
       },
       {
         "name": "The Green Acura Driver",
@@ -593,7 +653,8 @@
       "Prologue (initial extraction)",
       "Chapter 1 (delta merge 2026-01-11)",
       "Chapter 2 (delta merge 2026-01-11)",
-      "Chapter 3 (delta merge 2026-01-11)"
+      "Chapter 3 (delta merge 2026-01-11)",
+      "Chapter 4 (delta merge 2026-01-16)"
     ],
     "quality_concerns": [],
     "technical_terms_verified": true
