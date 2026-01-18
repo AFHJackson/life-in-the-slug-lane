@@ -293,7 +293,8 @@
           "Anarchic order in friendships and informal networks"
         ],
         "chapter_6_completion": "Chapter 6 'The Ring in View' completes the framework: 'The reality is not four ideologies locked in combat on a linear spectrum. The reality is a ring of habitats that your life constantly traverses.' The ring forms when the linear spectrum running from anarchy to capitalism to socialism to communism is folded into a circle - 'opposite ends of the spectrum, divergent in centralization of authority and equality of exchange, get close enough to touch because the scale of their relationships (individual-to-individual) and their identity forming processes are similar.  This association is furthered in the way the two habitats serve to solve the individual's problem of how an individual person could possibly interact justly at a complexity scale of popultation.  In both a marketplace and a municiplatity, really knowing all other individuals is simply not possible.  Where the marketplace depends on the 'invisble hand' of the market and the municipality depends on the abstraction of all individuals to 'human, to define the wants and needs of the others at a population scale, the indentity of the individual engaging the polutionation has been formed in the individual-to-individual habitats and becomes the guiding force.  Not 'who they are'...but 'who I am' and 'who I want to be' becomes the guiding questions. Thus the reference to 'friends being like family,' or the proverbial 'friend who is closer than a brother' ring with deeper truth.",
-        "related_entities": ["System of Systems of Human Relationship Phenomena", "Habitat Logic", "The Left/Right Line", "The Ring in View", "Identity Formation Through Friendship"]
+        "chapter_7_in_motion": "Chapter 7 shows the ring 'turning' inside real institutions: 'Watch the scene again with the ring in mind.' The ring becomes diagnostic tool for seeing hybrids: 'Which habitats should be the organizing Habitat Logic? Which ones should be contributing outcomes but not driving the logic? Which ones are being prevented or marginalized?'",
+        "related_entities": ["System of Systems of Human Relationship Phenomena", "Habitat Logic", "The Left/Right Line", "The Ring in View", "Identity Formation Through Friendship", "Hybrids"]
       },
       {
         "name": "Book Hook/Tagline",
@@ -676,6 +677,27 @@
         "key_insight": "Person-to-person relationships form identity that 'enables us to choose who we want to be and how we will treat populations of people who would otherwise be statistics and opportunities'",
         "first_mention": "Chapter 6, 'How Friendship Keeps the Family Commune From Becoming a Fortress' section",
         "related_entities": ["Anarchy (as friendship)", "Communism (as family)"]
+      },
+      {
+        "name": "Hybrids",
+        "type": "concept",
+        "definition": "Institutions and systems that 'quietly mix ingredients from different habitats' - combining safety, market, anarchic, and familial logics in one working whole. 'Hybrids are the rule, not the exception.' Most of what we rely on works this way: slug lines, public schools, disaster response, cooperatives, open-source projects, food pantries, clinics.",
+        "definition_type": "book_coined",
+        "builds_on": "System of Systems of Human Relationship Phenomena, The Ring",
+        "key_insight": "When real life works, it is almost always because multiple systems are touching. And when it breaks, it is often because we've misdiagnosed what kind of hybrid we're actually dealing with.",
+        "purpose": "Names the reality that pure ideological systems don't exist - only hybrids do",
+        "first_mention": "Chapter 7, opening sections",
+        "related_entities": ["System of Systems of Human Relationship Phenomena", "The Ring", "Habitat Logic"]
+      },
+      {
+        "name": "Communist Christmas",
+        "type": "story_example",
+        "definition": "Family hybrid ritual: each person buys THE SAME item (their 'favorite thing that year') for everyone. 'The gifts don't say I guessed your personality correctly. They say Here's what mattered to me.' Market supplies goods, but distribution is from-each-to-each regardless of contribution size, coordinated through anarchic informal norms, converting excess into 'shared joy and shared memory.'",
+        "definition_type": "book_original",
+        "purpose": "Accessible domestic example of hybrid operation - 'small on purpose'",
+        "first_mention": "Chapter 7, 'Communist Christmas: A Holiday Hybrid' section",
+        "illustrates": ["Hybrids", "Obligation to Excess", "Three-Pile Framework"],
+        "related_entities": ["Communism (as family)", "Capitalism (as marketplace)", "Anarchy (as friendship)"]
       }
     ],
     "examples": [
@@ -846,7 +868,8 @@
       "Chapter 3 (delta merge 2026-01-11)",
       "Chapter 4 (delta merge 2026-01-16)",
       "Chapter 5 (delta merge 2026-01-18)",
-      "Chapter 6 (delta merge 2026-01-18)"
+      "Chapter 6 (delta merge 2026-01-18)",
+      "Chapter 7 (delta merge 2026-01-18)"
     ],
     "quality_concerns": [],
     "technical_terms_verified": true
