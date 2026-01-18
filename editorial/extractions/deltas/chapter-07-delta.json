@@ -1,0 +1,84 @@
+{
+  "source_file": "manuscript/09-chapter-7.md",
+  "chapter": "Chapter 7: When Systems Touch - Hybrids in the Wild",
+  "extraction_date": "2026-01-18",
+  "extractor": "opus-4.5",
+  "delta_type": "chapter_extraction",
+  "summary": "Chapter 7 shows the four habitats operating simultaneously in real-world 'hybrids' - slug lines, disaster response, cooperatives, open-source projects, food pantries, and community clinics. Introduces key concepts: hybrids as the rule not exception, 'Communist Christmas' as hybrid example, disaster response showing all habitats, cooperative economics, and how we misdiagnose hybrids (downplaying scaffold, flattening gift layer, purist campaigns). Culminates in the 'hidden glue' of shared moral norms and 'sense of real value and meaning' that holds hybrids together.",
+  
+  "UPDATES": {
+    "description": "Modifications to existing canonical entries based on Chapter 7 content",
+    "entries": [
+      {
+        "entity_name": "The Ring",
+        "update_type": "enrich",
+        "field": "chapter_7_in_motion",
+        "current_value": null,
+        "new_value": "Chapter 7 shows the ring 'turning' inside real institutions: 'Watch the scene again with the ring in mind.' The ring becomes diagnostic tool for seeing hybrids: 'Which habitats should be the organizing Habitat Logic? Which ones should be contributing outcomes but not driving the logic? Which ones are being prevented or marginalized?'",
+        "rationale": "The Ring transitions from static framework to dynamic navigation tool"
+      }
+    ]
+  },
+
+  "ADDITIONS": {
+    "description": "New entities, concepts, or examples introduced in Chapter 7",
+    "entries": [
+      {
+        "name": "Hybrids",
+        "type": "concept",
+        "category": "core_concepts",
+        "definition": "Institutions and systems that 'quietly mix ingredients from different habitats' - combining safety, market, anarchic, and familial logics in one working whole. 'Hybrids are the rule, not the exception.' Most of what we rely on works this way: slug lines, public schools, disaster response, cooperatives, open-source projects, food pantries, clinics.",
+        "definition_type": "book_coined",
+        "builds_on": "System of Systems of Human Relationship Phenomena, The Ring",
+        "key_insight": "When real life works, it is almost always because multiple systems are touching. And when it breaks, it is often because we've misdiagnosed what kind of hybrid we're actually dealing with.",
+        "purpose": "Names the reality that pure ideological systems don't exist - only hybrids do",
+        "first_mention": "Chapter 7, opening sections",
+        "related_entities": ["System of Systems of Human Relationship Phenomena", "The Ring", "Habitat Logic"]
+      },
+      {
+        "name": "Communist Christmas",
+        "type": "story_example",
+        "category": "examples",
+        "definition": "Family hybrid ritual: each person buys THE SAME item (their 'favorite thing that year') for everyone. 'The gifts don't say I guessed your personality correctly. They say Here's what mattered to me.' Market supplies goods, but distribution is from-each-to-each regardless of contribution size, coordinated through anarchic informal norms, converting excess into 'shared joy and shared memory.'",
+        "definition_type": "book_original",
+        "purpose": "Accessible domestic example of hybrid operation - 'small on purpose'",
+        "first_mention": "Chapter 7, 'Communist Christmas: A Holiday Hybrid' section",
+        "illustrates": ["Hybrids", "Obligation to Excess", "Three-Pile Framework"],
+        "related_entities": ["Communism (as family)", "Capitalism (as marketplace)", "Anarchy (as friendship)"]
+      }
+    ]
+  },
+
+  "CONTRADICTIONS": {
+    "description": "Any conflicts between Chapter 7 and previously established canonical content",
+    "entries": []
+  },
+
+  "extraction_notes": {
+    "key_themes": [
+      "Hybrids as the rule, not exception",
+      "The Ring as diagnostic tool for seeing hybrids",
+      "Three misdiagnosis patterns (scaffold, gift layer, purists)",
+      "The hidden glue of shared moral norms",
+      "Transition toward grounding question: where does value and meaning come from?"
+    ],
+    "narrative_structure": [
+      "Opens with slug line as paradigmatic hybrid",
+      "Daily life exercise showing hybrids everywhere",
+      "Communist Christmas as domestic hybrid",
+      "Disaster response as high-stakes hybrid",
+      "Cooperative economics and open-source",
+      "Quiet hybrids (food pantries, clinics)",
+      "How we misdiagnose hybrids",
+      "The hidden glue that holds hybrids together",
+      "Sets up Chapter 8 grounding question"
+    ],
+    "cross_chapter_connections": [
+      "Builds on Ring in View from Chapter 6",
+      "Extends Cajun Navy and disaster response analysis",
+      "Deepens slug line as primary example through all chapters",
+      "Prepares for philosophical grounding in Chapter 8"
+    ],
+    "quality_flags": []
+  }
+}

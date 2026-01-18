@@ -896,6 +896,15 @@
         "purpose": "Shows excellence as habitat-specific expression with system-wide effects",
         "first_mention": "Chapter 9, after 'This reframes vocation'",
         "related_entities": ["Obligation to Excess", "Habitat Logic", "Four Generosity Expressions"]
+      },
+      {
+        "name": "Innovation Cascade",
+        "type": "framework",
+        "definition": "The compounding breakthrough sequence enabled by functional hybrids: (1) Scalable quantum computing (2030-32) → drug discovery, materials simulation, optimization; (2) Grid-scale fusion power (2035-40s) → unlimited clean energy, desalination, climate stabilization; (3) Quantum sensing (2038-45) → health monitors, earthquake prediction, precision navigation; (4) Ambient superconductors (early 2040s) → zero-loss transmission, maglev, medical imaging; (5) Subluminal warp propulsion (2045-50) → solar system access, asteroid mining, space manufacturing. 'Each breakthrough required the others.'",
+        "builds_on": "The Mechanism of Influence, Hybrids",
+        "purpose": "Shows how functional hybrids enable civilization-scale innovation",
+        "first_mention": "Appendix, 'The Physics Cascade That Changed Everything' section",
+        "related_entities": ["The Mechanism of Influence", "Hybrids", "Long-Game Thinking"]
       }
     ],
     "examples": [
@@ -1070,7 +1079,8 @@
       "Chapter 6 (delta merge 2026-01-18)",
       "Chapter 7 (delta merge 2026-01-18)",
       "Chapter 8 (delta merge 2026-01-18)",
-      "Chapter 9 (delta merge 2026-01-18)"
+      "Chapter 9 (delta merge 2026-01-18)",
+      "Appendix (delta merge 2026-01-18)"
     ],
     "quality_concerns": [],
     "technical_terms_verified": true

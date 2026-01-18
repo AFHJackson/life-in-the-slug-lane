@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "source_chapter": "Appendix: Twenty-Five Years Forward",
+    "source_file": "manuscript/14-appendix-future-of-excess.md",
+    "extraction_date": "2026-01-18",
+    "status": "pending_review",
+    "schema_version": "2.0"
+  },
+  "updates": [],
+  "additions": [
+    {
+      "entity": {
+        "name": "Innovation Cascade",
+        "type": "framework",
+        "definition": "The compounding breakthrough sequence enabled by functional hybrids: (1) Scalable quantum computing (2030-32) → drug discovery, materials simulation, optimization; (2) Grid-scale fusion power (2035-40s) → unlimited clean energy, desalination, climate stabilization; (3) Quantum sensing (2038-45) → health monitors, earthquake prediction, precision navigation; (4) Ambient superconductors (early 2040s) → zero-loss transmission, maglev, medical imaging; (5) Subluminal warp propulsion (2045-50) → solar system access, asteroid mining, space manufacturing. 'Each breakthrough required the others.'",
+        "builds_on": "The Mechanism of Influence, Hybrids",
+        "purpose": "Shows how functional hybrids enable civilization-scale innovation",
+        "first_mention": "Appendix, 'The Physics Cascade That Changed Everything' section",
+        "related_entities": ["The Mechanism of Influence", "Hybrids", "Long-Game Thinking"]
+      },
+      "rationale": "Central speculative framework showing ultimate mechanism payoff"
+    },
+  ],
+  "chapter_summary": {
+    "key_themes": [
+      "Functional hybrids enabling sustained breakthrough innovation",
+      "Innovation cascade: quantum → fusion → sensing → superconductors → warp",
+    ],
+    "narrative_arc": "The future is still bright and there is tremendous upside potential for all in cascading innovation and discovery.",
+    "cross_references": ["Prologue (slug line future)", "Chapter 9 Mechanism of Influence", "Epilogue vision realized"]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "source_chapter": "Epilogue: What We Can Build",
+    "source_file": "manuscript/13-epilogue.md",
+    "extraction_date": "2026-01-18",
+    "status": "pending_review",
+    "schema_version": "2.0"
+  },
+  "updates": [
+    {
+      "entity_name": "The Ring",
+      "update_type": "add_chapter_context",
+      "field": "epilogue_visibility",
+      "new_value": "Epilogue returns to the opening scene with new eyes: 'For the first time, I could see the ring turning.' Four habitats visible simultaneously in a single moment: road (safety commons), car (market surplus), informal norms (anarchy), the gesture of the driver (familial). 'And once you see it, you can't unsee it.'",
+      "rationale": "The ring becomes permanent perceptual framework"
+    },
+    {
+      "entity_name": "The Mechanism of Influence",
+      "update_type": "add_chapter_context",
+      "field": "epilogue_scale",
+      "new_value": "Epilogue shows the mechanism at population scale: 'One disciplined, generous person doesn't change the whole system. But a thousand do. A hundred thousand reshape a city. A million reshape a nation.' The mechanism is 'already working in pockets'—neighborhoods, companies, cities where habitats are operating correctly. 'What changes when enough people can see the pattern? They can replicate it intentionally.'",
+      "rationale": "Shows how individual mechanism aggregates to societal change"
+    },
+    {
+      "entity_name": "Hybrids",
+      "update_type": "add_chapter_context",
+      "field": "epilogue_working_hybrids",
+      "new_value": "Epilogue shows working hybrids at community scale: city council example where four speakers represent four habitats, but 'they're no longer talking past each other.' The resulting ordinance 'funds crisis intervention (safety commons), creates space for voluntary organizations (anarchy), addresses business owners' concerns (market viability), remembers that these are people (family-scale dignity).' Key shift: 'They're translating.'",
+      "rationale": "Shows what functional hybrids look like in practice"
+    },
+    {
+      "entity_name": "Identity Formation Through Friendship",
+      "update_type": "add_chapter_context",
+      "field": "epilogue_bilingual",
+      "new_value": "Epilogue shows identity formation producing 'bilingual' citizens: 'By the time they're adults, they can code-switch fluently. They don't treat every relationship like a transaction. They don't demand one-to-one intimacy from population-scale systems. They don't try to run governments like families or families like corporations.' Children raised across all four habitats become 'bilingual in habitats.'",
+      "rationale": "Shows the outcome of proper identity formation across habitats"
+    }
+  ],
+  "additions": [
+    {
+      "entity": {
+        "name": "Pattern Visibility",
+        "type": "concept",
+        "definition": "The moment of perceptual shift when the ring becomes visible: 'Once you see it, you can't unsee it.' Transforms every interaction: 'You're no longer just \"doing your job.\" You're cultivating excellence in your domain.' Enables intentional navigation: 'You don't wake up one morning and decide to be complicit in dysfunction. You drift—one small compromise at a time. But now you have tools to notice the drift.'",
+        "builds_on": "The Ring, The Ring Compass",
+        "purpose": "Names the irreversible perceptual shift the book creates",
+        "first_mention": "Epilogue, 'And once you see it, you can't unsee it'",
+        "related_entities": ["The Ring", "Habitat Logic"]
+      },
+      "rationale": "Names the book's core transformation—permanent pattern recognition"
+    },
+    {
+      "entity": {
+        "name": "One Disciplined Generous Person",
+        "type": "principle",
+        "definition": "The scaling mechanism: 'The world changes one disciplined, generous person at a time.' Individual action aggregates: 'One disciplined, generous person doesn't change the whole system. But a thousand do. A hundred thousand reshape a city. A million reshape a nation.' This is 'not because you're special. Because the system needs exactly that—people who are excellent in their craft, generous with their excess, disciplined in their integrity.'",
+        "builds_on": "The Mechanism of Influence, Vocation as Excellence",
+        "purpose": "Names how individual faithfulness produces systemic change",
+        "first_mention": "Epilogue, 'The world changes one disciplined, generous person at a time'",
+        "related_entities": ["The Mechanism of Influence", "Obligation to Excess", "Vocation as Excellence"]
+      },
+      "rationale": "Core mechanism by which the book's vision scales"
+    },
+    {
+      "entity": {
+        "name": "Bilingual in Habitats",
+        "type": "concept",
+        "definition": "The fluency produced by raising children across all four habitats: dinner table (learn to love), voluntary groups (learn character), after-school jobs (learn excellence), civics/emergency response (learn citizenship). Result: 'By the time they're adults, they can code-switch fluently.' They're 'teaching their own kids the same fluency.'",
+        "builds_on": "Identity Formation Through Friendship, The Ring",
+        "purpose": "Names the intergenerational transmission of habitat navigation",
+        "first_mention": "Epilogue, 'They're bilingual in habitats' section",
+        "related_entities": ["Identity Formation Through Friendship", "Communism (as family)", "Anarchy (as friendship)", "Capitalism (as marketplace)", "Socialism (as municipality)"]
+      },
+      "rationale": "Shows how the framework transmits across generations"
+    },
+    {
+      "entity": {
+        "name": "Voluntary Networks as Shock Absorbers",
+        "type": "concept",
+        "definition": "The structural role of the anarchic habitat: 'They're the shock absorbers for the other habitats.' When safety systems overwhelmed (hurricane, pandemic)—'Bass boats in the streets. Neighbors checking on neighbors.' When markets generate losers too quickly—'Job leads passed along. Spare rooms offered.' When families hit crisis—'The meal train. The carpool coverage.' The voluntary networks 'are making the other habitats more humane.'",
+        "builds_on": "Anarchy (as friendship), Hybrids",
+        "purpose": "Names the structural function of voluntary networks in system resilience",
+        "first_mention": "Epilogue, 'the shock absorbers for the other habitats'",
+        "related_entities": ["Anarchy (as friendship)", "Hybrids", "Communism (as family)", "Socialism (as municipality)"]
+      },
+      "rationale": "Identifies the unique structural role of anarchy habitat"
+    },
+    {
+      "entity": {
+        "name": "The Shell of Safety",
+        "type": "concept",
+        "definition": "Why impartial protection is foundational: 'The shell of safety makes everything else possible. Without it, families retreat into fortresses. Markets curl up. Voluntary networks shrink to those who can defend themselves. Trust collapses.' The community invests in it 'not out of naive faith in government, but out of hard-won wisdom: this is the cost of living together at scale.'",
+        "builds_on": "Socialism (as municipality), Underwriting the Other Habitats",
+        "purpose": "Names why safety commons enables all other habitats",
+        "first_mention": "Epilogue, 'the shell of safety makes everything else possible'",
+        "related_entities": ["Socialism (as municipality)", "Underwriting the Other Habitats", "Hybrids"]
+      },
+      "rationale": "Crystallizes the foundational role of safety commons"
+    },
+    {
+      "entity": {
+        "name": "City Council Scene",
+        "type": "extended_example",
+        "definition": "Illustrative scene showing habitat translation at community scale: four speakers (teacher/family, police chief/safety, business owner/market, nonprofit worker/anarchy) each 'convinced they're naming the heart of the matter. And they're all partly right.' The shift: 'they're no longer talking past each other.' City manager names four habitats explicitly. Council asks: 'which tool belongs where?' Result: coherent hybrid ordinance.",
+        "illustrates": ["Hybrids", "Grammar Mismatch", "Habitat Logic"],
+        "usage_note": "Shows what functional habitat negotiation looks like in practice",
+        "first_mention": "Epilogue, 'On a rainy Tuesday night' section",
+        "related_entities": ["Hybrids", "The Ring", "Grammar Mismatch"]
+      },
+      "rationale": "Primary example of community-scale habitat navigation"
+    },
+    {
+      "entity": {
+        "name": "Starting Today Framework",
+        "type": "framework",
+        "definition": "Four-step action framework: (1) Your domain—'What could you become excellent at if you invested the next five years in genuine mastery?' (2) Invest in voluntary networks—'Find your people... Those relationships are where you practice being the kind of person you'll become at scale.' (3) Operate with integrity in the market—'Your choices matter... your signal ripples outward.' (4) Contribute to the commons—'You're not responsible for fixing everything. You're responsible for stewarding your piece.'",
+        "builds_on": "Vocation as Excellence, Anarchy (as friendship), Capitalism (as marketplace), Socialism (as municipality)",
+        "purpose": "Provides immediate action steps for applying the framework",
+        "first_mention": "Epilogue, 'Starting Today' section",
+        "related_entities": ["Vocation as Excellence", "The Mechanism of Influence", "Obligation to Excess"]
+      },
+      "rationale": "Converts entire framework into immediate actionable steps"
+    }
+  ],
+  "chapter_summary": {
+    "key_themes": [
+      "Pattern visibility as irreversible perceptual shift",
+      "Scaling mechanism: one disciplined generous person at a time",
+      "Community-scale habitat translation (city council example)",
+      "Bilingual in habitats—intergenerational transmission",
+      "Voluntary networks as shock absorbers for system resilience"
+    ],
+    "narrative_arc": "Returns to opening scene with new eyes, then zooms from individual operation to community function to societal possibility. Culminates in 'Starting Today' action framework.",
+    "cross_references": ["Prologue (slug line return)", "All habitat chapters", "Chapter 9 Mechanism of Influence"]
+  }
+}

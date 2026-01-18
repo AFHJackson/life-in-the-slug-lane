@@ -1,0 +1,146 @@
+{
+  "source_chapter": "manuscript/11-chapter-9.md",
+  "chapter_title": "Chapter 9 - The Obligation to Excess: I See the Ring, Now What?",
+  "extraction_date": "2026-01-18",
+  "extractor": "opus-4.5",
+  "status": "pending_review",
+  
+  "UPDATES": {
+    "description": "Existing entities that need new chapter-specific fields added",
+    "entries": [
+      {
+        "entity_name": "Obligation to Excess",
+        "field": "chapter_9_full_development",
+        "new_value": "Chapter 9 makes this the central theme: 'The path to sustainable generosity is not self-denial. It's self-discipline in pursuit of excellence.' Reframes vocation: 'Your calling isn't just \"do what you love\" or \"find your passion.\" It's \"become truly excellent enough in your craft that you reliably generate excess—then be intentional about what you do with it.\"' Excellence and generosity 'aren't separate virtues in tension. They're linked through the mechanism of excess.'",
+        "rationale": "Chapter 9 develops Obligation to Excess from concept to full operational framework"
+      },
+      {
+        "entity_name": "Three-Pile Framework",
+        "field": "chapter_9_mechanism",
+        "new_value": "Chapter 9 shows the mechanism in action: 'Excellence → surplus → excess → discovery/generosity → better-functioning hybrids.' The nail-maker at 10,000 nails/day: Necessity pile (5,000 - covers survival), Surplus pile (4,000 - builds security, reinvests), Excess pile (1,000 - free to risk, experiment, give). 'The excess pile is where sustainable generosity lives.'",
+        "rationale": "Chapter 9 shows Three-Pile Framework as mechanism for how individual choices scale"
+      },
+      {
+        "entity_name": "Capitalism (as marketplace)",
+        "field": "chapter_9_individual_information",
+        "new_value": "Chapter 9 adds 'Jobs to Be Done' insight: Markets work because 'they let millions of complex, shifting, personal meanings interact and produce emergent order.' Only YOU can know what the $5.50 latte means in your specific context. 'No central planner, no matter how well-meaning or intelligent, can see inside your head.' Your participation 'isn't just \"selfish self-interest.\" It's you contributing irreplaceable information to a system-of-systems.'",
+        "rationale": "Chapter 9 adds epistemological argument for why markets need individual judgment"
+      },
+      {
+        "entity_name": "Identity Formation Through Friendship",
+        "field": "chapter_9_full_loop",
+        "new_value": "Chapter 9 completes the identity formation loop across all four habitats: (1) Family gives GIVEN identity - foundation of belonging and obligation, 'you matter because you exist'; (2) Friendship gives CHOSEN identity - 'the practice ground where you become who you want to be'; (3) Markets TEST that chosen identity at population scale - 'your character under pressure, your integrity when no one's watching'; (4) Tested identity circles back to all habitats. 'Identity isn't fixed. It's constantly being formed, tested, and reformed across all four habitats.'",
+        "rationale": "Chapter 9 provides complete identity formation model across the ring"
+      },
+      {
+        "entity_name": "Anarchy (as friendship)",
+        "field": "chapter_9_practice_ground",
+        "new_value": "Chapter 9 positions friendship/anarchy as essential middle layer: 'If you want to operate with integrity at population scale, you can't skip the practice ground.' Through 'repeated practice in these voluntary networks, certain traits harden into character': reliability, integrity, courage, kindness. 'You need the middle layer—the friendships, the teams, the communities of practice—where you practice being the kind of person you want to be when the stakes are high and no one's forcing you.'",
+        "rationale": "Chapter 9 explains why friendship habitat is irreplaceable for character formation"
+      },
+      {
+        "entity_name": "The Ring",
+        "field": "chapter_9_personal_operation",
+        "new_value": "Chapter 9 reveals what the ring means for personal operation: 'Your market participation is downstream of your identity formation in voluntary networks, which is itself downstream of the foundational lessons learned in family.' The ring shows 'you are not helpless' and also 'not the hero who fixes everything.' You are 'one of the irreplaceable actors in a system-of-systems that works or fails based on whether enough people like you operate with excellence and integrity.'",
+        "rationale": "Chapter 9 translates ring framework into personal operational guidance"
+      }
+    ]
+  },
+  
+  "ADDITIONS": {
+    "description": "New entities introduced in this chapter",
+    "entries": [
+      {
+        "name": "The Mechanism of Influence",
+        "type": "framework",
+        "definition": "How individual choices matter at population scale: 'Your excellence in your domain generates the surplus that feeds the ring.' When you become 'genuinely excellent at what you do—not just competent, not just \"good enough\"—you start producing more value than you personally need to sell or exchange to survive.' The formula: Excellence → surplus → excess → discovery/generosity → better-functioning hybrids. 'Your influence scales through the maturity of the YOU contributing, not the breadth of what you control.'",
+        "definition_type": "book_original",
+        "purpose": "Answers 'what can I actually do?' by showing mechanism connecting individual excellence to system-level outcomes",
+        "first_mention": "Chapter 9, 'The Mechanism of Your Influence' section",
+        "related_entities": ["Obligation to Excess", "Three-Pile Framework", "Hybrids"]
+      },
+      {
+        "name": "The Useful Question",
+        "type": "concept",
+        "definition": "The reframe from 'How do I fix everything?' to 'Who am I inside this?' Because 'you can't redesign everything. But you can steward your own operation inside the systems you didn't design.' The point isn't to fix the whole machine - 'The point is to become the kind of person the machine needs in order to work at all.'",
+        "definition_type": "book_coined",
+        "purpose": "Shifts focus from systemic redesign to personal agency and character",
+        "first_mention": "Chapter 9, after Sarah scene",
+        "related_entities": ["The Mechanism of Influence", "Call to Self-Discipline"]
+      },
+      {
+        "name": "Sustainable Generosity",
+        "type": "concept",
+        "definition": "Generosity that 'actually changes systems' - not heroic self-immolation but 'cultivating excellence in your domain until you reliably produce excess, then being intentional about deploying that excess toward discovery and mercy.' Contrasts with common story of sacrifice-based generosity that 'is often unsustainable. You can't build a life—or a society—on perpetual self-immolation.'",
+        "definition_type": "book_coined",
+        "key_quote": "Your generosity is most complete—most sustainable, most impactful—when it drives your excellence.",
+        "first_mention": "Chapter 9, 'The Obligation to Excess' section",
+        "related_entities": ["Obligation to Excess", "Three-Pile Framework"]
+      },
+      {
+        "name": "The Widow's Mite Reframe",
+        "type": "concept",
+        "definition": "Reinterpretation of the parable: 'When she gave little but everything, she trusted the hands she placed it in. The transaction was material but the underlying story was trust.' Applied to vocation: 'generosity—giving everything to maturing and walking in that purpose—rather than dabbling around the edges is a matter of trust.'",
+        "definition_type": "book_original",
+        "purpose": "Reframes self-sacrifice narrative toward trust and purpose-driven excellence",
+        "first_mention": "Chapter 9, 'The Obligation to Excess' section",
+        "related_entities": ["Sustainable Generosity", "Obligation to Excess"]
+      },
+      {
+        "name": "Jobs to Be Done (Value Knowledge)",
+        "type": "concept",
+        "definition": "The insight that 'only you can know what you value' in your specific context. The $5.50 latte involves dynamic inputs: tiredness, treat vs practical decision, mood, signaling, procrastination, relationship with barista. 'The \"value\" of that coffee isn't a fixed number. It's a composite of dynamic inputs—some conscious, most subconscious—calibrated to your specific context in that specific moment.' No central planner can access this knowledge.",
+        "definition_type": "book_coined",
+        "key_insight": "This is why 'what should you want?' is such a destructive question—it assumes a universal template where none exists",
+        "first_mention": "Chapter 9, 'Jobs to Be Done' section",
+        "related_entities": ["Capitalism (as marketplace)", "Emergent Order"]
+      },
+      {
+        "name": "Call to Self-Discipline",
+        "type": "concept",
+        "definition": "The chapter's conclusion: 'At the heart of the entire framework is not a law for others to follow, but a call to personal agency and self-discipline.' Law can set floors but not ceilings. 'The world doesn't change through top-down mandates. It changes one disciplined, generous person at a time. That's not inspiring rhetoric. That's the mechanism.'",
+        "definition_type": "book_original",
+        "first_mention": "Chapter 9, 'The Call to Self-Discipline' section",
+        "related_entities": ["Obligation to Excess", "Identity Formation Loop"]
+      },
+      {
+        "name": "Vocation as Excellence",
+        "type": "concept",
+        "definition": "Reframed calling: 'Your calling isn't just \"do what you love\" or \"find your passion.\" It's \"become truly excellent enough in your craft that you reliably generate excess—then be intentional about what you do with it.\"' Your obligation is to 'become excellent at what you specialize in. Not for status. Not for wealth. But because excellence is how you generate the capacity to give, risk, and build without destroying yourself in the process.'",
+        "definition_type": "book_coined",
+        "first_mention": "Chapter 9, 'The Obligation to Excess' section",
+        "related_entities": ["Obligation to Excess", "Sustainable Generosity", "Three-Pile Framework"]
+      },
+      {
+        "name": "Excellence Across Habitats",
+        "type": "framework",
+        "definition": "How excellence manifests in each habitat: Marketplace - generates innovations, efficiencies, opportunities; programmer writing elegant code 'reduces waste, prevents disasters.' Family - 'household becomes one of the millions of foundries forging the next generation of human beings.' Friendship - 'finding roles within the community where your marketplace excellence is unaffordable but needed.' Municipality - 'leverage successfully the economies of scale' while 'finding and incorporating the emerging innovations from the marketplace habitat when they are ready.'",
+        "definition_type": "book_original",
+        "purpose": "Shows excellence as habitat-specific expression with system-wide effects",
+        "first_mention": "Chapter 9, after 'This reframes vocation'",
+        "related_entities": ["Obligation to Excess", "Habitat Logic", "Four Generosity Expressions"]
+      }
+    ]
+  },
+  
+  "CONTRADICTIONS": {
+    "description": "Places where Chapter 9 appears to contradict or significantly revise earlier material",
+    "entries": []
+  },
+  
+  "CHAPTER_SUMMARY": {
+    "title": "The Obligation to Excess: I See the Ring, Now What?",
+    "main_contribution": "Transforms understanding of the ring into personal operational framework - answers 'What do I do about it?' with mechanism linking individual excellence to system-level outcomes",
+    "bridge_function": "Bridges Chapter 8's navigation tools to Chapter 10's stewardship - moves from 'how to see' to 'who to be' to 'how to tend'",
+    "key_insights": [
+      "The useful question is 'Who am I inside this?' not 'How do I fix everything?'",
+      "Excellence → surplus → excess → discovery/generosity → better-functioning hybrids",
+      "Only you can know what you value in your specific context",
+      "Identity is formed across all four habitats in a loop",
+      "Friendship is the irreplaceable practice ground between family and market",
+      "Sustainable generosity comes from excellence, not self-immolation",
+      "The world changes one disciplined, generous person at a time"
+    ],
+    "narrative_arc": "Sarah scene → mechanism of influence → obligation to excess → jobs to be done → identity formation → call to self-discipline → character formation feedback loop → teaser for Chapter 10 stewardship"
+  }
+}
