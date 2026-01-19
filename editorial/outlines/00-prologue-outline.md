@@ -53,19 +53,29 @@ Set the stage with the actual story from the original manuscript:
 
 **Scene:** Explain what the author missed and why it matters
 
+**⚠️ CRITICAL TERMINOLOGY:**
+- **"Witching Hour" = THE RESTRICTION PERIOD ITSELF** (3:30pm-6:00pm)
+  - This is when "magic" happens - 3 people makes your car faster
+  - The window when drivers actively hunt for slugs
+  - The period of incentivized cooperation
+- **"Past the Witching Hour" = AFTER 6:00pm** (magic has ended)
+  - HOV lanes now open to everyone
+  - No remaining incentive to pick up passengers
+  - This is when the Green Acura Driver made his offer
+
 From the original manuscript:
 > *The HOV lanes on I-395 had just opened up to everyone. That magical time for commuters in northern Virginia where three people in a vehicle can magically transport you past the endless lines of traffic headed south was over. It was past the witching hour.*
 > 
 > *The rules are simple: three people in the car get you into the fast lane. After it, the gates swing open and anyone can dive in. Before, drivers cruise the commuter lots and bus stops hunting for extra passengers. After, there's no reason to bother.*
 
 **Key beats:**
-- HOV lanes require 3 people during restricted hours (3pm-6pm ET)
+- HOV lanes require 3 people during "witching hour" (3:30pm-6:00pm ET weekdays, I-395 southbound)
 - Author had dawdled at the office, rushed down, found lines at 23rd empty
 - Walked north toward 12th street lines—also empty
-- The slug lines had "naturally dried up"
+- The slug lines had "naturally dried up" (witching hour had ended)
 - Resigned to Pentagon bus stop and the long way home
 
-**Purpose:** Establish that the incentive structure has collapsed. No rational driver should stop now.
+**Purpose:** Establish that the incentive structure has collapsed. The witching hour has ended - no rational driver should stop now.
 
 ---
 
@@ -281,7 +291,7 @@ The ride worked because:
 |--------|---------------------|---------------------|
 | Slug Line | Central story | ✅ Database full_content matches manuscript |
 | The Green Acura Driver | Heart of Prologue | ✅ Database full_content matches manuscript |
-| Witching Hour | Context setting | ✅ Evening (3pm-6pm restriction ended) |
+| Witching Hour | Context setting | ✅ Witching hour = 3:30pm-6pm restriction PERIOD; story is AFTER (post-6pm) |
 | Four Ingredients | Reflection section | ✅ Extracted from manuscript |
 | System of Systems | Closing insight | ✅ Synthesized from manuscript |
 
@@ -301,6 +311,9 @@ The ride worked because:
 - ✅ Driver acknowledges witching hour has passed
 - ✅ Driver offers ride to Tackett's Mill (sees author's slug sign)
 - ✅ Crystal City location
+- ✅ "Witching hour" = the 3:30pm-6pm HOV-3 restriction PERIOD (not 6pm itself)
+- ✅ "Past the witching hour" = after 6pm when restrictions ended (magic over)
+- ✅ The story takes place AFTER the witching hour ended (no remaining incentive)
 
 ---
 

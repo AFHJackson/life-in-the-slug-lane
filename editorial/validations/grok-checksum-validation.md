@@ -187,7 +187,7 @@ The Prologue outline (`/editorial/outlines/00-prologue-outline.md`) had corrupte
 | Location | "Suburban intersection" | Crystal City, walking toward Pentagon bus stop |
 | Driver | Female (pronouns: "she," "her") | Male (pronouns: "he," "him") |
 | Passengers | Two people (author + nurse in scrubs) | Author alone |
-| Witching Hour | Morning HOV (inverted logic) | Evening HOV 3pm-6pm ET restriction ended |
+| Witching Hour | Morning HOV (inverted logic) | Evening HOV - "witching hour" IS the 3:30pm-6pm restriction PERIOD; story happens AFTER it ended |
 | Opening scene | Invented 5:47 AM intersection scene | Green Acura pulls up as author walks alone |
 
 ### Root Cause:
@@ -224,7 +224,7 @@ For all outlines going forward:
 | Opening scene | Original manuscript (evening, Crystal City) | ✅ ACCURATE |
 | Green Acura driver | Male, "he" pronouns | ✅ ACCURATE |
 | Author alone | No second passenger | ✅ ACCURATE |
-| Witching hour | Evening (3pm-6pm restriction ended) | ✅ ACCURATE |
+| Witching hour | Evening - "witching hour" = 3:30pm-6pm PERIOD; story is AFTER (post-6pm) | ✅ ACCURATE |
 | Slug line origin | Database full_content | ✅ ACCURATE |
 | Four ingredients | Database full_content | ✅ ACCURATE |
 | System of systems insight | Original manuscript | ✅ ACCURATE |

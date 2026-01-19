@@ -115,12 +115,27 @@
       {
         "name": "Witching Hour",
         "type": "concept",
-        "definition": "The time (3pm-6pm ET) when HOV lane are restrictions the incentive for drivers to pick up extra passengers creates an almost magic effect or timeframe for cooperation, causing the slug line's transactional logic.",
+        "definition": "The 3:30pm-6:00pm weekday HOV-3 restriction period on I-395 southbound, when the requirement for 3 people creates a 'magical' incentive for drivers to pick up strangers - during this window, having passengers makes your car move faster through the HOV lanes while everyone else sits in traffic.",
         "definition_type": "book_coined",
-        "builds_on": "Folk term 'witching hour' meaning a time of magical transformation or change",
+        "builds_on": "Folk term 'witching hour' meaning a time of magical transformation or change - applied by drivers to describe the period when the special rules create 'magic'",
+        "authentic_dialogue": "'You know it's past the witching hour' - The Green Acura Driver's actual words to the author",
+        "terminology_clarification": {
+          "witching_hour_equals": "The 3:30pm-6:00pm HOV-3 restriction PERIOD itself (when magic is possible)",
+          "past_the_witching_hour": "After 6:00pm when HOV restrictions have ENDED (magic is over)",
+          "NOT_equal_to": "The witching hour is NOT 6:00pm (the end time) - it is the entire restriction period"
+        },
+        "slugging_mechanics": {
+          "during_witching_hour": "3 people in car = access to HOV fast lanes; drivers actively hunt for slugs at commuter lots and bus stops",
+          "after_witching_hour": "HOV lanes open to everyone; no remaining incentive to pick up passengers; slug lines naturally dry up"
+        },
+        "thematic_significance": "The Green Acura Driver picking up the author AFTER the witching hour (when magic had ended) is the central paradox - he did something generous when the rules no longer incentivized it, contradicting homo economicus",
         "first_mention": "Prologue, paragraph 3",
-        "context": "Sets up the central puzzle - why did the driver pick up the author after the witching hour when there was no longer an HOV advantage?",
-        "related_entities": ["Slug Line", "Homo Economicus"]
+        "manuscript_quotes": {
+          "introduction": "'The HOV lanes on I-395 had just opened up to everyone. That magical time for commuters in northern Virginia where three people in a vehicle can magically transport you past the endless lines of traffic headed south was over. It was past the witching hour.'",
+          "driver_dialogue": "'You know it's past the witching hour,' the driver called out."
+        },
+        "context": "Sets up the central puzzle - why did the driver pick up the author AFTER the witching hour when there was no longer an HOV advantage?",
+        "related_entities": ["Slug Line", "Homo Economicus", "The Green Acura Driver", "HOV Lane", "I-395"]
       },
       {
         "name": "Habitat",
@@ -1360,7 +1375,7 @@
       "entity_1": "Witching Hour",
       "relationship_type": "depends_on",
       "entity_2": "HOV Lane",
-      "description": "The witching hour is defined by when HOV restrictions are in effect (3pm-6pm ET)"
+      "description": "The witching hour IS the 3:30pm-6pm HOV-3 restriction PERIOD on I-395 southbound; 'past the witching hour' means the period has ended (after 6pm) and HOV lanes are open to everyone"
     },
     {
       "entity_1": "Habitat",
