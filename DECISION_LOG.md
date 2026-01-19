@@ -190,6 +190,43 @@
 
 ---
 
+### D008: Pivot from G+T to I→D→G Voice Architecture
+**Date:** January 19, 2026  
+**Decision:** Rebuild book targeting D+G readers with I→D→G voice, not G+T readers with action-oriented voice.
+
+**Rationale:**
+- Joshua's authentic authority is I+D, not T (cannot prescribe actions outside domain)
+- G+T target was pulling book toward prescriptive advice author cannot authoritatively give
+- Natural Working Genius flow: I creates → D verifies → G spreads → T implements
+- Book should provide diagnostic tools (I+D domain), not implementation prescriptions (T domain)
+- D readers test frameworks, G readers spread verified ideas, T readers implement in their contexts
+- More authentic, more coherent, still creates impact
+
+**Implications:**
+- Complete renovation of audience research (I+D+G vs. G+T)
+- Major rebuild of Book DNA Writing Guide (I→D→G voice architecture)
+- All 13 chapter outlines revised (Part 3: "Verification & Spread" not "Application")
+- Agent prompts completely rewritten (diagnostic + rally-ready, not prescriptive)
+- New bake-offs needed (Prologue + Chapter 1 with I→D→G voice)
+
+**Voice Formula:**
+- **Draws from I:** Present frameworks as inventions
+- **Speaks in D:** Invite verification, acknowledge authority limits
+- **Speaks to G:** Provide rally-ready language for spreading
+
+**Status:** ✅ Active (supersedes D002: G+T target)
+
+**Next Steps:**
+1. Research I voice patterns
+2. Research D reader preferences
+3. Research G reader preferences  
+4. Build I→D→G voice guide
+5. Rebuild chapter outlines
+6. Generate new agent prompts
+7. Run bake-offs with new architecture
+
+---
+
 ## OPEN QUESTIONS (Awaiting Decision)
 
 ### Q001: Granularity of Entity Extraction
