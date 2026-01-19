@@ -17,43 +17,6 @@ These 6 pieces have now been created and are ready for integration.
 
 ---
 
-## FILE NAMING CONVENTION - BAKE-OFF PROTOCOL
-
-**CRITICAL: During the bake-off phase, you must tag all outputs with your agent identifier.**
-
-### Why This Matters
-We are running a comparative evaluation ("bake-off") where both Opus 4.5 and Sonnet 4.5 will independently write the same chapters from the same source materials. This allows systematic comparison to determine which agent produces optimal output for this book's requirements.
-
-### Naming Rules for All Outputs
-
-**When creating ANY manuscript file, use this format:**
-```
-[chapter-number]-[chapter-slug]-OPUS.md
-```
-
-**Examples:**
-- `00-prologue-OPUS.md`
-- `01-one-size-fits-none-OPUS.md`
-- `02-broken-line-OPUS.md`
-
-**Location:**
-All manuscript drafts go in `/manuscript/drafts/` with the OPUS tag clearly visible.
-
-### What to Tag
-- ✅ All chapter drafts
-- ✅ Any supplementary writing (if requested)
-- ✅ Scene rewrites or revisions
-
-### What NOT to Tag
-- ❌ Entity database updates (shared resource)
-- ❌ Outline modifications (shared resource)
-- ❌ Analysis/validation documents (metadata)
-
-### When Bake-Off Concludes
-You will be notified when the bake-off phase ends and normal naming conventions resume. Until then, ALWAYS include `-OPUS` in manuscript filenames.
-
----
-
 ## YOUR TASKS
 
 ### TASK 1: Integrate New Content Into Entity Database
