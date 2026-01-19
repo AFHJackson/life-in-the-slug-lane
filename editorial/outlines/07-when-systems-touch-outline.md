@@ -51,7 +51,7 @@ The reader first encountered the slug line in the Prologue without framework to 
 
 **4. Generosity Beyond Invoice (Family/Communism):**
 - The Green Acura Driver stopped after the witching hour
-- No HOV incentive, yet she offered a ride
+- No HOV incentive, yet he offered a ride
 - Generosity without transaction
 - "From-each-to-each appeared where you didn't expect it"
 

@@ -24,6 +24,13 @@
 - **Four Habitats:** Family/communism, Safety/socialism, Market/capitalism, Friendship/anarchy
 - **Key Insight:** We already use all four daily; problem is scale errors
 
+**The Ring Gradients (Key Relationships):**
+- **Sacrifice Gradient:** Anarchy → Capitalism → Socialism → Communism = increasing sacrifice AND increasing centralization of authority
+- **Greatest Control = Greatest Sacrifice:** The ideal in family habitat - those with most authority make greatest sacrifice (parents give most, children receive most)
+- **Uniformity vs. Individuality:** Right side (Socialism + Communism) = common needs, structural uniformity | Left side (Anarchy + Capitalism) = individual preferences, personal identity
+- **Scale of Interaction:** Family + Friendship = one-to-one (deep knowledge) | Market + Municipality = one-to-population (abstracted knowledge)
+- **Preferences vs. Needs:** For PREFERENCES use capitalism/anarchy tools | For NEEDS use socialism/communism tools
+
 ---
 
 ## THE G+T SUCCESS FORMULA
@@ -995,6 +1002,40 @@ MOVEMENT (G rallies, T implements)
 > You're building your navigation skill. First recognition, now choice. Let's continue.
 
 ---
+
+## PUNCTUATION RULES (NON-NEGOTIABLE)
+
+### **Em Dashes: NEVER USE**
+
+**Rule:** Do not use em dashes (—) anywhere in the manuscript.
+
+**Why:** They create visual clutter and interrupt flow in ways that don't serve G+T readers.
+
+**Instead use:**
+- **Periods** for full stops: "This is the point. Here's what matters."
+- **Commas** for pauses: "This is the point, and here's what matters."
+- **Parentheses** for asides: "This is the point (and here's why it matters)."
+- **Colons** for setup: "This is the point: here's what matters."
+
+**Examples:**
+
+❌ **DON'T:**
+"The Ring isn't a new idea—it's the map of where you already live."
+
+✅ **DO:**
+"The Ring isn't a new idea. It's the map of where you already live."
+OR
+"The Ring isn't a new idea: it's the map of where you already live."
+
+❌ **DON'T:**
+"Markets generate surplus—the engine that enables everything else."
+
+✅ **DO:**
+"Markets generate surplus. The engine that enables everything else."
+OR
+"Markets generate surplus (the engine that enables everything else)."
+
+**Enforcement:** If you see an em dash in your draft, revise before submitting. This is non-negotiable.
 
 ## QUALITY CHECKLIST (EVERY CHAPTER)
 

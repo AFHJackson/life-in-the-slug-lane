@@ -727,6 +727,50 @@
         "related_entities": ["System of Systems of Human Relationship Phenomena", "The Ring", "Habitat Logic", "The Ring Compass", "Grammar Mismatch"]
       },
       {
+        "name": "Sacrifice Gradient",
+        "type": "framework",
+        "definition": "The relationship between sacrifice and centralization of control across the ring: movement from Anarchy → Capitalism → Socialism → Communism represents increasing sacrifice and increasing centralization of authority. Those with greatest control are expected to make greatest sacrifice. In family (communism), parents have most authority AND sacrifice most; children have least control AND receive most benefit. This gradient is the inverse of the decentralization gradient.",
+        "definition_type": "book_original",
+        "source": "Grok voice capture - original author insight",
+        "components": [
+          "Anarchy: Minimal sacrifice expected, minimal centralized control - voluntary participation, easy exit",
+          "Capitalism: Moderate sacrifice (risk, investment), moderate decentralization - market accountability but individual autonomy",
+          "Socialism: Higher sacrifice (taxes, service), partial centralization - collective obligation to commonwealth",
+          "Communism/Family: Maximum sacrifice expected from those with authority, highly centralized control - parents give most, receive least"
+        ],
+        "key_insight": "The correlation of sacrifice with authority is what makes family-scale communism work and national-scale communism fail. When authority is seized without sacrifice, or when sacrifice is demanded without legitimate authority, the system becomes corrupt.",
+        "related_entities": ["Greatest Control = Greatest Sacrifice", "Communism (as family)", "Habitat Logic", "The Ring", "Four Compass Dials"],
+        "first_mention": "To be integrated - derived from Grok voice capture"
+      },
+      {
+        "name": "Greatest Control = Greatest Sacrifice",
+        "type": "principle",
+        "definition": "The ideal within family/communism habitat where those who have the most control are the ones who make the greatest sacrifice - giving of themselves to those who receive the most benefit but have the least control. Parents sacrifice for children who cannot yet contribute. This principle is what makes 'from each according to ability, to each according to need' work at intimate scale.",
+        "definition_type": "book_original",
+        "source": "Grok voice capture - original author insight",
+        "key_insight": "This is the unstated moral contract that makes family communism beautiful rather than tyrannical. Authority flows TO those who sacrifice most. When this is inverted (authority used for benefit rather than sacrifice), family becomes abusive and communism becomes totalitarianism.",
+        "corruption_pattern": "When control is used for benefit rather than sacrifice, the system corrupts: abusive parents, exploitative leaders, dictators who demand sacrifice from others while enriching themselves",
+        "related_entities": ["Sacrifice Gradient", "Communism (as family)", "One Big Family Fallacy", "Scale Error"],
+        "first_mention": "To be integrated - derived from Grok voice capture",
+        "chapter_application": "Chapter 3 should make this explicit as the IDEAL of family habitat - what makes it work when it works, and what's violated when it fails"
+      },
+      {
+        "name": "Uniformity vs. Individuality Gradient",
+        "type": "framework",
+        "definition": "The axis across the ring distinguishing habitats that serve uniform/common needs from those that serve individual preferences. Right side of ring (Socialism + Communism) emphasizes uniformity - structural consistency, common human needs (safety, shelter, belonging). Left side of ring (Anarchy + Capitalism) emphasizes individuality - personal preferences, chosen identity, unique value definitions.",
+        "definition_type": "book_original",
+        "source": "Grok voice capture - original author insight",
+        "components": [
+          "Socialism: Serves uniform species-level needs - air, water, safety, emergency response - same for everyone",
+          "Communism: Serves uniform family-level needs - food, shelter, care - distributed by need not preference",
+          "Capitalism: Serves individual preferences - unique value definitions, personal 'jobs to be done'",
+          "Anarchy: Serves individual identity - chosen roles, voluntary affiliations, personal expression"
+        ],
+        "diagnostic_use": "When working in the area of PREFERENCES, use tools of capitalism and anarchy. When working in the area of NEEDS (common/uniform), use tools of socialism and communism.",
+        "related_entities": ["Four Compass Dials", "Habitat Logic", "Jobs to Be Done (Value Knowledge)", "Scale"],
+        "first_mention": "To be integrated - derived from Grok voice capture"
+      },
+      {
         "name": "Communist Christmas",
         "type": "story_example",
         "definition": "Family hybrid ritual: each person buys THE SAME item (their 'favorite thing that year') for everyone. 'The gifts don't say I guessed your personality correctly. They say Here's what mattered to me.' Market supplies goods, but distribution is from-each-to-each regardless of contribution size, coordinated through anarchic informal norms, converting excess into 'shared joy and shared memory.'",

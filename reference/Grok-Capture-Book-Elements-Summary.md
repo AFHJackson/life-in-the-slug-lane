@@ -175,20 +175,20 @@ Goal: Style the book to:
 
 ## Extraction Validation Checklist
 
-*To be completed after entity database extraction is finalized*
+*Completed: January 19, 2026*
 
-- [ ] Four systems identified and defined (Communism, Socialism, Capitalism, Anarchy)
-- [ ] Ring/compass architecture captured
-- [ ] Scale dimension captured (individual-to-individual vs individual-to-population)
-- [ ] Uniformity vs individuality dimension captured
-- [ ] Sacrifice/control relationship captured
-- [ ] "Obligation to excess" concept captured
-- [ ] "Greatest control = greatest sacrifice" principle captured
-- [ ] Economies of scale for common needs captured
-- [ ] Identity selection in anarchy captured
-- [ ] Decentralization gradient captured
-- [ ] Sacrifice gradient captured
-- [ ] Preferences vs needs distinction captured
-- [ ] Scale of interaction warnings captured
-- [ ] Slug line as origin example captured
-- [ ] Misapplication examples captured (family as corporation, etc.)
+- [x] Four systems identified and defined (Communism, Socialism, Capitalism, Anarchy)
+- [x] Ring/compass architecture captured
+- [x] Scale dimension captured (individual-to-individual vs individual-to-population)
+- [x] Uniformity vs individuality dimension captured *(added 2026-01-19)*
+- [x] Sacrifice/control relationship captured *(added 2026-01-19)*
+- [x] "Obligation to excess" concept captured
+- [x] "Greatest control = greatest sacrifice" principle captured *(added 2026-01-19)*
+- [x] Economies of scale for common needs captured
+- [x] Identity selection in anarchy captured
+- [x] Decentralization gradient captured
+- [x] Sacrifice gradient captured *(added 2026-01-19)*
+- [x] Preferences vs needs distinction captured
+- [x] Scale of interaction warnings captured
+- [x] Slug line as origin example captured
+- [x] Misapplication examples captured (family as corporation, etc.)
