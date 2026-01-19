@@ -21,34 +21,59 @@ This chapter is the CULMINATION. Reader has all four habitats, can navigate hybr
 
 ## PART 1: STORY (1,400-1,600 words)
 
-### Story Entry: [NEEDS CREATION]
+### Story Entry: Matt's Week (Ring Navigator Profile)
 
-**Required scene:** Profile of a person or organization operating with Ring wisdom
+**Entity Reference:** `Matt's Week (Ring Navigator Profile)` in entity-database-canonical.json
 
-**Option A: The Leader Who Gets It**
-- CEO or community leader navigating complex situation
-- Shows all four habitats honored in one decision
-- Family culture + Market discipline + Safety nets + Voluntary innovation
-- "She didn't pick an ideology. She read the room."
+**Scene:** A detailed profile of Mathias "Matt" Webb (68, VP boat sales, grandfather), showing a mature Ring navigator operating across all four habitats in a single week—family, market, safety commons, friendship—with wisdom and integration.
 
-**Option B: The Long-Game Builder**
-- Someone who built something meaningful over decades
-- Navigated habitats fluidly through career/life
-- Deployed excess consistently (discovery and generosity)
-- "He didn't get everything right. But he stayed oriented."
+**Characters:**
+- Mathias "Matt" Webb (68, VP of Sales, national boat manufacturer, grandfather)
+- Carol (Matt's wife)
+- Tyler (high school senior, scholarship student, wants marine tech program)
+- Henderson family (customers with 3 kids, mid-thirties dual income)
 
-**Option C: The Community That Works**
-- Portrait of a healthy community (town, neighborhood, organization)
-- All four habitats visible and functioning
-- Residents navigate without thinking about it
-- "This is what the destination looks like"
+**Setting:** One week across multiple contexts
 
-**Scene requirements (whichever is chosen):**
-1. Vivid, specific, feels real
-2. All four habitats visible in the profile
-3. Shows navigation in action (not just recognition)
-4. Demonstrates stewardship (not control—wise operation)
-5. G+T voice: "This is what I want to become"
+**The structure (five scenes across one week):**
+
+1. **Monday: The Family Decision (Market habitat)**
+   - Hendersons in showroom, husband eyeing expensive model
+   - Matt's backstory: 20 years ago he'd have upsold, chased commissions
+   - Breaking point: missed daughter's recital at 12, she stopped asking
+   - Now: "The best boat isn't the one with the most features. It's the one you actually use."
+   - Sells mid-tier, $4,000 less commission—but they'll be back with friends
+
+2. **Tuesday: The Commons Problem (Safety Commons habitat)**
+   - Planning board, developer wants to rezone ag land for commercial complex
+   - City manager enthusiastic, Matt raises hand
+   - "Net job creation? Maybe twelve. And we lose community anchors here for forty years."
+   - "Takes one to know one"—he can smell a bad contract
+   - They table the proposal. Home at 9:15, Carol saved dinner. This was family time he'd missed for 15 years.
+
+3. **Wednesday: The Scholarship Sale (Friendship/Commons hybrid)**
+   - Rotary at 7 AM, Matt stands up: "Trade schools."
+   - Shows photo of Tyler from career fair—wants marine mechanics, didn't know scholarship existed
+   - Uses sales techniques to sell possibilities, not boats
+   - Club votes unanimously for trade school priority
+
+4. **Friday: The Volunteer Event (Friendship habitat)**
+   - Pickleball tournament fundraiser for Habitat for Humanity
+   - Donated equipment, got sponsors, but declines speaking role
+   - "I'm just here to help. You say the words. I'll keep the water station stocked."
+   - Voluntary. Emergent. He just needs to show up and be useful.
+
+5. **Sunday: The Integration (Family habitat)**
+   - Back porch with coffee, grandkids with slip-n-slide, Carol making waffles
+   - Email from Tyler: "Got accepted. Scholarship came through. Thank you for telling me this was possible."
+   - Different tools for different scales. Different habitats for different relationships.
+   - "This was stewardship. Not control. Not optimization. Just wisdom."
+
+**The backstory:**
+- Texas farm kid, 40 years in sales
+- Made mistakes—cost him relationships with kids when young
+- Spent last 20 years rebuilding what he'd lost
+- "It had taken him twenty years to learn this."
 
 **Transition to Framework:**
 > "This is what mastery looks like. Not controlling systems—stewarding them. Not picking sides—navigating wisely. This is the destination."

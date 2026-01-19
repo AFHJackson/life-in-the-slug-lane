@@ -23,6 +23,17 @@ This is the COMPLETION MILESTONE. Per user direction: "The long-term vision = hu
 
 ### Opening: We Haven't Peaked (400-500 words)
 
+**Entity Reference:** `25 Years Forward (Appendix Vision)` in entity-database-canonical.json
+
+**Vision Content Available:**
+- Historical trajectory: 1903 (Wright brothers) → 1969 (moon) = 66 years
+- We've been coasting since 1970s physics breakthroughs
+- Breakthrough requires all four habitats operating in concert
+- Five-year milestone tracking: 2031, 2036, 2041, 2046, 2051
+- Key domains: Energy, medicine, space, agriculture, education
+- The inheritance: what we pass to 2051 generation
+- "Not because humans got smarter. Because systems aligned."
+
 **The Premise:**
 
 > "There's a quiet assumption in many corners of our culture: we've peaked. The best discoveries are behind us. The low-hanging fruit is picked. The future is managing decline, not building ascent."

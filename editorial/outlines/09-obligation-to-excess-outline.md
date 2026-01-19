@@ -21,35 +21,46 @@ This chapter is the ETHICAL CORE of the book. The reader has learned to navigate
 
 ## PART 1: STORY (1,200-1,400 words)
 
-### Story Entry: [NEEDS CREATION]
+### Story Entry: Malia the Baker (Hilo Story)
 
-**Required scene:** A person or organization with excess, choosing what to do with it
+**Entity Reference:** `Malia the Baker (Hilo Story)` in entity-database-canonical.json
 
-**Option A: The Founder's Decision**
-- Startup succeeds beyond expectations
-- Founder has more than she needs
-- Decision point: reinvest in new ventures (discovery) or give substantially (generosity)?
-- The choice isn't about which is "better"—both are valid
-- The failure would be doing neither (hoarding)
+**Scene:** A portrait of a master baker in Hilo, Hawaii, whose 30 years of dedication produced mastery, then surplus, then excess—and shows how excellence naturally flows outward toward generosity.
 
-**Option B: The Windfall**
-- Unexpected inheritance or liquidity event
-- Person suddenly has excess (not just surplus)
-- Wrestling with what to do
-- Realizes: "This isn't mine to sit on"
+**Characters:**
+- Malia (master baker, 30 years experience, owns 4 bakeries on Big Island)
+- Tyler & Jen (run Hilo Homemade Ice Cream, experimenting with cookie flavors)
+- Mrs. Chen (93, shut-in, hasn't left apartment in 2 years)
 
-**Option C: The Empty Nest Moment**
-- Kids are grown, mortgage paid, career stable
-- Time and resources freed up
-- What now?
-- "Excess isn't just money—it's capacity"
+**Setting:** Hilo, Hawaii, bakeries and community
 
-**Scene requirements (whichever is chosen):**
-1. Vivid, relatable (not just for billionaires)
-2. Shows the decision point clearly
-3. Both paths are honorable (discovery AND generosity)
-4. Hoarding is the failure mode
-5. G+T voice: "Now that I have this, what will I build?"
+**Key moments:**
+
+1. **The progression (Three-Pile Framework in action):**
+   - **Subsistence:** 8 loaves a day, every one sold, barely covers rent/ingredients
+   - **Surplus:** 100 loaves a day, money left over after costs, reinvests and saves
+   - **Excess:** Capacity exceeds what market can absorb, producing more value than anyone will pay for
+
+2. **The discovery path:**
+   - Tyler and Jen can't get cookie texture right for ice cream flavors
+   - Malia hears through business grapevine, walks in on a Tuesday
+   - Offers to help—not for money, not for credit, just because she can and the problem is interesting
+
+3. **The generosity path:**
+   - Every morning at 4 AM, makes 40 extra loaves (not for sale)
+   - Two shelters on Big Island get fresh bread daily
+   - No press releases, no donor wall, just bread while it's still dark
+
+4. **Mrs. Chen's birthday:**
+   - Malia sees name on meal delivery volunteer list, makes birthday cake
+   - One cake leads to a list: 47 shut-ins who get birthday cakes yearly
+   - "Mastery produces excess, and excess comes with obligation"
+
+**The insight:**
+> "This is what happens when you pursue mastery long enough. You don't just get good. You get so good that your capacity exceeds what anyone is willing to pay for. And then you have a choice: hoard the excess, or move it."
+
+**The pattern:**
+> "Excellence. Mastery. And the quiet joy of producing so much value that you had abundance to give."
 
 **Transition to Framework:**
 > "Excess isn't profit. It's responsibility. And responsibility has two expressions."

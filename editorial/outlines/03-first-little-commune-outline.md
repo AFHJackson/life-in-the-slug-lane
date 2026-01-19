@@ -25,46 +25,47 @@ This is the first of four habitat deep-dives. The reader should leave knowing:
 
 ## PART 1: STORY (1,400-1,600 words)
 
-### Story Entry: [NEEDS CREATION]
+### Story Entry: Family Dinner Scene (Jada and Kenji)
 
-**Required scene:** A family dinner that shows from-each-to-each in action
+**Entity Reference:** `Family Dinner Scene (Jada and Kenji)` in entity-database-canonical.json
 
-**Scene elements to include:**
+**Scene:** A vivid portrait of multi-generational family dinner showing from-each-to-each logic in action—no tracking, no invoices, just love operating as natural distribution according to need.
 
-**Setting:**
-- Kitchen or dining room, evening
-- Multiple generations if possible (grandparent, parents, children)
-- The ordinary rituals of family meal
+**Characters:**
+- Jada (mom, serving and eating last)
+- Kenji (dad, pouring milk, getting up twice for things)
+- Grandma Diane (Kenji's mom, living with family since Dad passed, cooking all afternoon, holds baby)
+- Marcus, 9 (complaining about broccoli)
+- Kai, 6 (sauce on forehead, needs help cutting food)
+- Naomi, 4 months (staring at ceiling fan, in bouncer)
 
-**The Communist Logic in Action:**
-- Someone made the meal (ability → contribution)
-- Everyone eats (need → distribution)
-- The toddler eats more than they contributed (need > ability)
-- The grandparent who cooked receives gratitude, not payment
-- Nobody is keeping score (no invoices)
+**Setting:** Tuesday night dinner table, family home
 
-**Key moments to capture:**
-
+**Key moments:**
 1. **The uneven giving**
-   - Parent serves food, doesn't eat until kids are fed
-   - This isn't sacrifice—it's normal
-   - "From each according to ability, to each according to need"
+   - Diane cooked all afternoon, eats almost nothing, seems satisfied
+   - Kenji loads kids' plates first, finishes what they don't
+   - Jada takes what's left, makes sure Diane has extra vegetables
+   
+2. **The chaos**
+   - Marcus knocks over milk
+   - Kai needs help cutting food
+   - Naomi starts fussing, Diane scoops her up without being asked
+   - Kenji gets up twice for napkins, water, different fork
 
-2. **The absence of transaction**
-   - No one charges for the meal
-   - No one tracks who owes what
-   - The four-year-old doesn't pay rent
-   - "The accounting books are gloriously uneven"
+3. **The absence of transaction**
+   - "Nobody was tracking any of this. Nobody was counting."
+   - If you tried to create a ledger, it would be absurd
+   - Marcus/Kai/Naomi taking far more than they give
+   - Diane giving constantly
 
-3. **The presence of obligation**
-   - This isn't charity—it's family
-   - Obligation without invoice
-   - Love generates surplus without calculation
+4. **The truth**
+   - "The accounting books were gloriously uneven"
+   - Nobody experienced this as unfair
+   - "From each according to their ability, to each according to their need"
+   - "They didn't know they were quoting anyone"
 
-4. **The size that makes it work**
-   - You can see everyone
-   - You know their needs
-   - Intimacy makes from-each-to-each possible
+**The ending:** "They called it family."
 
 **Transition passage:**
 > "This isn't ideology. This is Tuesday night. And it runs on communist logic—from each according to ability, to each according to need. You're already a communist. At home."

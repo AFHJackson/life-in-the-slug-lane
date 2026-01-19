@@ -67,6 +67,22 @@ This is NOT a conclusion—it's a LAUNCH. The book ends not with "now you know" 
 
 ### Part 2: What Becomes Possible (1,200-1,600 words)
 
+**Entity Reference:** `Five Years Forward (Epilogue Vision)` in entity-database-canonical.json
+
+**Vision Content Available:**
+- Author's 23-year journey (personal testimony)
+- Real examples already happening:
+  - Tesla open-sourcing patents (markets operating correctly)
+  - Interstate Highway System (commons operating correctly)
+  - Linux/Wikipedia/open-source (friendship habitat at scale)
+  - Multi-generational households rising (family habitat returning)
+- Five years forward scenarios:
+  - Rotary teaching Ring navigation
+  - Planning boards spotting bad deals
+  - Companies navigating hybrids intentionally
+  - Bakers teaching bakers (Malia callback)
+  - Families choosing multi-gen living
+
 **Opening:** The world with more Ring navigators
 
 > "Imagine a world where more people see what you now see. Not everyone—just more. What changes?"

@@ -21,37 +21,31 @@ The reader arrives from Chapter 1 knowing The Ring exists and that scale errors 
 
 ## PART 1: STORY (1,000-1,200 words)
 
-### Story Entry: [NEEDS CREATION]
+### Story Entry: Evacuation Zone Argument (Sarah and Lauren)
 
-**Required scene:** A political argument where both sides are right AND wrong
+**Entity Reference:** `Evacuation Zone Argument (Sarah and Lauren)` in entity-database-canonical.json
 
-**Option A: The Thanksgiving Table**
-- Family gathering, politics comes up
-- Uncle argues one position (taxes, healthcare, whatever)
-- Cousin argues the opposite
-- Both are making valid points AT DIFFERENT SCALES
-- Author realizes: They're not disagreeing about values—they're talking about different scales
-- Neither can see it because they're both on the line
+**Scene:** A political argument between two walking buddies about a man arrested for entering an evacuation zone to rescue a friend. Both sides have valid points at different scales, demonstrating The Broken Line forces false choices.
 
-**Option B: The Workplace Policy Debate**
-- Company decision (remote work, benefits, org structure)
-- Two factions form with opposing views
-- Both have legitimate concerns
-- The argument is unresolvable on the line
-- Ring thinking reveals: Different scale concerns
+**Characters:** 
+- Sarah (walking buddy, competent-individual-rights perspective)
+- Lauren (walking buddy, system-coordination perspective)
 
-**Option C: The Town Hall Meeting**
-- Local issue (zoning, school funding, public safety)
-- Community splits along predictable lines
-- Same dynamic: valid concerns, wrong frame
-- Nobody can hear each other because they're defending positions, not diagnosing scale
+**Setting:** 6 AM morning walk, suburban neighborhood, three years of walking together
 
-**Scene requirements (whichever is chosen):**
-1. Vivid, recognizable ("I've been in this room")
-2. Both sides have a point
-3. The argument feels stuck
-4. Ring thinking reveals the mismatch
-5. Reader realizes: "The line was hiding the real issue"
+**Key moments:**
+1. News story triggers debate about man arrested entering evacuation zone
+2. Sarah: "He's a grown man, he has the right—" (individual scale)
+3. Lauren: "But the system needs to—" (population scale)
+4. Neither can understand how the other doesn't see it
+5. Both are right—at different scales
+6. "Neither of them convinced the other. Neither of them sure they were right."
+
+**What it demonstrates:**
+- Political disagreements often aren't about values
+- Both people are right at different scales, wrong at others
+- The left/right line forces a false choice between individual liberty and collective order
+- They actually agree on values—the argument is stuck because of scale mismatch
 
 **Transition to Framework:**
 > "This argument—and every argument like it—is stuck because both people are on the line. And the line can't see what's actually happening. Here's where it came from."
