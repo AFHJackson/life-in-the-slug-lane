@@ -1,79 +1,77 @@
 # PROJECT PROGRESS TRACKER
-**Last Updated:** January 10, 2026  
-**Current Phase:** Phase 0 - Foundation Setup  
+**Last Updated:** January 19, 2026  
+**Current Phase:** Phase 2 - Content Generation  
 **Overall Status:** 🟡 In Progress
 
 ---
 
 ## CURRENT SESSION FOCUS
 
-**Active Task:** Setting up new Claude.ai project and VS Code environment  
-**Next Milestone:** Complete foundation setup, begin entity extraction  
+**Active Task:** Begin I→D→G content generation using converted outlines  
+**Next Milestone:** Generate first chapter draft with I→D→G voice  
 **Blockers:** None currently
 
 ---
 
 ## PHASE STATUS OVERVIEW
 
-### ✅ Phase 0: Foundation Setup (IN PROGRESS)
+### ✅ Phase 0: Foundation Setup (COMPLETE)
 **Goal:** Establish project infrastructure and knowledge base  
-**Status:** 60% complete
+**Status:** 100% complete
 
 **Completed:**
 - [x] Define project vision and roles
-- [x] Research Working Geniuses framework (G+T focus)
+- [x] Research Working Geniuses framework
 - [x] Create Claude.ai project custom instructions
 - [x] Create README.md project architecture
 - [x] Create Working Geniuses research document
 - [x] Create Progress Tracker (this document)
+- [x] Create Decision Log
+- [x] Set up VS Code local environment
+- [x] Create workflow protocols
+- [x] Create agent handoff procedures
+- [x] Extract entities from existing content
+- [x] Build knowledge graph schema
+- [x] Create entity database structure
 
-**In Progress:**
-- [ ] Create Decision Log
-- [ ] Create Project Roadmap
-- [ ] Set up VS Code local environment
-- [ ] Create VS Code setup guide
-- [ ] Create workflow protocols
-- [ ] Create agent handoff procedures
-
-**Not Started:**
-- [ ] Extract entities from existing content
-- [ ] Build knowledge graph schema
-- [ ] Create entity database structure
-- [ ] Define content strategy document
-- [ ] Create style guidelines
-
-**Estimated Completion:** 2-3 sessions
+**Completed:** January 2026
 
 ---
 
-### ⬜ Phase 1: Architecture & Planning (NOT STARTED)
+### ✅ Phase 1: Architecture & Planning (COMPLETE)
 **Goal:** Build complete structural foundation for book  
-**Dependencies:** Phase 0 complete
+**Status:** 100% complete
 
-**Key Deliverables:**
-- [ ] Entity extraction from existing chapters
-- [ ] Knowledge graph (GraphRAG) built
-- [ ] Argument spine validated by Opus
-- [ ] Chapter purposes defined
-- [ ] Style guidelines for G+T audience
-- [ ] Content strategy finalized
+**Completed:**
+- [x] Entity extraction from existing chapters
+- [x] Knowledge graph (GraphRAG) built
+- [x] Argument spine validated
+- [x] Chapter purposes defined
+- [x] I→D→G voice architecture established (Decision D008)
+- [x] Convert all 13 chapter outlines to I→D→G format
+- [x] Archive G+T era materials
 
-**Estimated Start:** After Phase 0 completion  
-**Estimated Duration:** 4-6 sessions
+**Note:** Major pivot from G+T to I→D→G voice architecture (see DECISION_LOG.md D008)
+
+**Completed:** January 19, 2026
 
 ---
 
-### ⬜ Phase 2: Content Generation (NOT STARTED)
-**Goal:** Sonnet generates book content from frameworks  
-**Dependencies:** Phase 1 complete
+### 🟡 Phase 2: Content Generation (IN PROGRESS)
+**Goal:** Sonnet generates book content from I→D→G frameworks  
+**Dependencies:** Phase 1 complete ✅
 
 **Key Deliverables:**
-- [ ] All chapters drafted by Sonnet
+- [ ] All chapters drafted by Sonnet using I→D→G voice
 - [ ] Examples/stories integrated
 - [ ] Joshua review and insight additions
 - [ ] First-pass consistency check
 
-**Estimated Start:** After Phase 1 completion  
+**Resources:**
+- I→D→G outlines: `editorial/outlines/*-IDG.md`
+- Handoff doc: `agents/handoffs/HANDOFF_TO_SONNET_CONTENT_GENERATION.md`
+- Voice guide: `reference/BOOK_DNA_WRITING_GUIDE.md`
+
 **Estimated Duration:** 8-12 sessions
 
 ---
@@ -193,6 +191,44 @@
 
 ---
 
+### Session 2-5: January 10-18, 2026
+**Focus:** Foundation and Architecture completion
+
+**Accomplished:**
+- Entity extraction from all existing chapters
+- Knowledge graph and entity database built
+- Argument spine validated
+- Delta extraction system created
+- Chapter outlines created for all 13 sections
+
+---
+
+### Session 6: January 19, 2026
+**Focus:** I→D→G Voice Architecture Migration
+
+**Accomplished:**
+- Major voice pivot: G+T → I→D→G (Decision D008)
+- Converted all 13 chapter outlines to I→D→G format
+- Archived all G+T era materials:
+  - 13 old chapter outlines → `editorial/outlines/archive/`
+  - G+T reference docs → `reference/archive/`
+  - 6 OPUS/SONNET drafts → `manuscript/drafts/archived-g-t/`
+- Updated DECISION_LOG.md, README.md, handoff documents
+- Created archive READMEs explaining superseded content
+
+**Decisions Made:**
+- D008: Pivot from G+T to I→D→G voice architecture
+- Joshua's authentic authority is I+D (cannot prescribe T-domain actions)
+- New structure: Invention Opening → Discernment Middle → Galvanizing Close
+
+**Next Session Plan:**
+- Begin Phase 2 content generation
+- Generate first chapter using I→D→G outlines
+
+**Blockers:** None
+
+---
+
 ## METRICS & MILESTONES
 
 ### Key Performance Indicators
@@ -246,37 +282,35 @@
 ## NEXT ACTIONS (Immediate)
 
 **For Joshua:**
-1. Review foundation documents created so far
-2. Approve approach or suggest adjustments
-3. Prepare to set up new Claude.ai project
-4. Prepare to set up VS Code environment
+1. Review I→D→G outlines in `editorial/outlines/`
+2. Select starting chapter for content generation
+3. Provide any additional insights or examples needed
 
-**For Claude.ai Project:**
-1. Complete remaining foundation documents
-2. Create VS Code setup guide
-3. Create workflow protocols
-4. Create agent handoff procedures
+**For Content Generation (Sonnet):**
+1. Use `HANDOFF_TO_SONNET_CONTENT_GENERATION.md` as guide
+2. Follow I→D→G voice architecture from `BOOK_DNA_WRITING_GUIDE.md`
+3. Generate chapter drafts using `-IDG.md` outlines
+4. Apply PHASE structure: Invention (10-15%) → Discernment (60-70%) → Galvanizing (15-25%)
 
-**For VS Code Agents:**
-- Awaiting environment setup (no tasks yet)
+**For Final Review (Opus):**
+- Awaiting content generation completion
 
 ---
 
 ## NOTES & OBSERVATIONS
 
 **What's Working:**
-- Dependency-ordered approach prevents skipping critical steps
-- G+T focus provides clear content decision filter
-- Three-role division (Joshua, Claude.ai, VS Code) clarifies responsibilities
+- I→D→G voice architecture aligns with Joshua's authentic authority
+- Dependency-ordered approach prevented building on unstable foundations
+- Archive structure preserves history while keeping active workspace clean
 
 **What Needs Attention:**
-- Need to test entity extraction approach before committing to full workflow
-- VS Code agent handoff protocol needs careful design (Opus ↔ Sonnet transitions)
+- First I→D→G draft will validate the voice architecture in practice
+- May need voice calibration after initial generation
 
 **Questions to Resolve:**
-- What existing content should be migrated wholesale vs. regenerated?
-- How granular should entity extraction be?
-- What's the minimum viable knowledge graph for first content generation?
+- Which chapter to generate first (Prologue or Chapter 1)?
+- How to handle existing strong content (e.g., slug line story) during regeneration?
 
 ---
 
