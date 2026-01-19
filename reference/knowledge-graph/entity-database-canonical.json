@@ -11,10 +11,12 @@
         "definition": "A collection of task-oriented or dedicated systems that pool their resources and capabilities together to create a new, more complex system which offers more functionality and performance than simply the sum of the constituent systems",
         "definition_type": "technical_standard",
         "source": "Systems engineering",
-        "book_usage": "Applied to demonstrate that political ideologies often focused on control of the means of value production or the resulting economic measures of success (communism, socialism, capitalism, anarchy) have their roots in a complex set of human relationship phenomena and which themeselves are not competing systems but constituent systems operating together at different scales within a larger system of human relationship phenomena",
-        "first_mention": "Prologue, paragraph 57",
+        "book_usage": "Applied to demonstrate that political ideologies often focused on control of the means of value production or the resulting economic measures of success (communism, socialism, capitalism, anarchy) have their roots in a complex set of human relationship phenomena and which themselves are not competing systems but constituent systems operating together at different scales within a larger system of human relationship phenomena",
+        "source_manuscript_location": "Prologue, introduced through slug line example",
         "context": "Revealed as the key insight from the slug line experience - we live inside layered, overlapping systems rather than a single ideological framework",
-        "related_entities": ["Slug Line", "Four Habitats", "Scale"]
+        "related_entities": ["Slug Line", "Four Habitats", "Scale"],
+        "synthesized_explanation": "The slug line example reveals that we don't live under a single system—we live inside a layered, overlapping system of systems. The ride works because the state paved highways, public safety officers exist, and written HOV rules are enforced. It works because car manufacturers competed to build vehicles, people bought them in a market and employ them to suit individual goals and values. It works because strangers trust one another enough to get in and drive together. It works because informal norms emerged and are honored. No single ideology could claim it. No single system could have produced it alone. Each ideology sees something true—the voluntarism of markets, the public infrastructure of socialism, the self-organization of anarchy, the communitarian care of mutual aid. The trouble starts when any one of them insists on being the answer to everything. The central question becomes not 'Which system should win?' but 'At what scale does each system belong—and how do we help them work together instead of tearing each other apart?'",
+        "content_extracted": true
       },
       {
         "name": "Scale",
@@ -22,10 +24,11 @@
         "definition": "The size or scope of a social grouping, ranging from intimate (individual-to-individual) to massive (individual-to-population), which determines what organizational systems work effectively",
         "definition_type": "book_coined",
         "builds_on": "Common usage of 'scale' as size/scope, applied specifically to human social organization",
-        "first_mention": "Prologue, paragraph 63",
+        "source_manuscript_location": "Prologue, developed through Chapter 1",
         "context": "Proposed as the key variable that determines which systems are appropriate - 'different tools for different jobs'",
-        "chapter_1_examples": "Family (5), Neighborhood (500), City (500,000), Nation (300,000,000) - 'not just the same thing with more people. They are different kinds of creatures.'",
-        "related_entities": ["System of Systems", "Four Habitats", "Different Kinds of Creatures"]
+        "related_entities": ["System of Systems", "Four Habitats", "Different Kinds of Creatures"],
+        "synthesized_explanation": "We carry around unspoken knowledge about the different scales of human life. A family of five, a neighborhood of five hundred, a city of five hundred thousand, and a nation of three hundred million are not just the same thing with more people. They are different kinds of creatures. At the smallest scale, you can know everyone's name and story. You can track needs and gifts intuitively. You can afford messy, unbalanced generosity, because the circle is small and the relationships are thick. At the largest scale, that all breaks down. No president or parliament can know everyone's name. No central planner can feel the texture of each life. You need laws, institutions, and impersonal systems just to keep the traffic flowing and the lights on. Somewhere in the middle—among coworkers, friends, churches, clubs, neighborhood groups—something else happens. There, we build small worlds that are neither as intimate as a family nor as formal as a state. They run on trust and habit more than on statute. Each of these worlds runs on a different set of rules.",
+        "content_extracted": true
       },
       {
         "name": "Homo Economicus",
@@ -541,9 +544,23 @@
         "definition": "Foundational parable: A nail-maker working alone might make 8 nails while also growing food and building shelter. Specializing in nail-making produces 10,000 nails - far more than one person needs. This creates three piles: Necessities (must sell to live), Surplus (sell to capture security/reserves), and Excess (beyond what can be sold and so can be freely given or risked to explore the adjacent possible).",
         "definition_type": "book_original",
         "purpose": "Explains how specialization creates the conditions for both security and generosity - 'Abundance is what makes room for generosity without self-destruction'",
-        "first_mention": "Chapter 5, 'The Nail-Maker Parable' section",
+        "source_manuscript_location": "Chapter 5, 'The Nail-Maker and the Birth of Excess' section",
         "illustrates": ["Capitalism (as marketplace)", "Three-Pile Framework", "Obligation to Excess"],
-        "related_entities": ["Surplus", "Excess", "Specialization"]
+        "related_entities": ["Surplus", "Excess", "Specialization"],
+        "full_content": {
+          "opening": "When people talk about capitalism, the story often starts with greed and ends with regret. Let's start somewhere else, with a pile of nails.",
+          "before_specialization": "Imagine a village before there are factories. Everyone is mostly on their own. If you need nails, you have to make them yourself—from gathering ore to smelting metal to hammering out a few bent spikes in the course of a long day. If you're really good, maybe you turn out eight usable nails before the sun goes down. In that world, every task is a juggling act. You can't spend all day on nails; you still need to plant and harvest food, repair your roof, care for your kids, fetch water, patch clothes. You do a little bit of everything, because you have to.",
+          "specialization_moment": "Now imagine someone in that village decides to specialize. They discover they're better at making nails than at coaxing wheat out of the soil. They focus. They practice. They refine their tools and their technique. Over time, they get fast. Instead of eight nails a day, this person can now produce ten thousand. Nobody needs ten thousand nails a day for themselves. But in a village where everyone is trying to be their own blacksmith, carpenter, and farmer, there is real value in having a dedicated nail-maker.",
+          "three_piles": {
+            "first_pile": "First pile: Necessities. Suppose that, given the going price of nails, this person needs to sell the equivalent of five thousand nails a day to buy food, shelter, and basic tools—to keep themselves and their family alive and reasonably stable. That's the first pile: the 'must sell' nails. The ones that replace the hours they would otherwise have spent scratching out a living directly from the land.",
+            "second_pile": "Second pile: Surplus. Now imagine they can sell another four thousand nails a day beyond what they need for today's survival. That's surplus. Surplus is what lets them: Save for the winter. Set aside reserves in case they get sick or injured. Invest in better tools, so they can produce even more efficiently. Hire an apprentice. Surplus is security and leverage. It's what keeps a bad harvest or a broken arm from turning into a spiral of disaster.",
+            "third_pile": "Third pile: Excess. That leaves one last pile: the extra thousand nails the market doesn't really demand and the nail-maker doesn't really need for their own safety. Call this pile excess. Excess is different. If the nail-maker throws away those thousand nails, nothing vital collapses. If they give them away, they don't starve. If they reshaped them into something new and it all goes wrong, there is no existential crisis. Excess is the part of human effort that can be risked freely."
+          },
+          "what_excess_enables": "Now the story gets interesting. The nail-maker can use that excess to try things. They can bend some of the nails into loops and discover they make useful hooks. They can twist others into little clips to hold their papers together. They can give a handful to a group of kids who want to build elaborate stick toys but don't have anything to fasten the sticks with. Most of these experiments will go nowhere. A lot of hooks will be ugly. A lot of paper clips will be awkward. Most of the toys will fall apart. But every so often, something works. Maybe the paper clips turn out to be genuinely handy, and neighbors start asking for them. Maybe the kids' stick toys are so charming that a traveler offers to buy a few to take to the next town. Maybe the nail-maker discovers they enjoy teaching the kids how to build things as much as they enjoy hammering metal. None of those possibilities were obvious when the nail-maker was scraping together eight bent nails a day just to hold their own roof on.",
+          "key_insight": "It is the combination of specialization (ten thousand nails), surplus (the four thousand that build security), and excess (the last thousand nobody strictly needs) that opens up room for: Cheap trial and error. Unexpected discovery. Sustainable generosity. True, abundant generosity doesn't usually come from burning your last loaf of bread for a stranger. It comes from an obligation to excess—from a dedicated commitment to honing your gifts and your place in the world to the point where you reliably produce more than you personally need or can use meaningfully, and treating that 'more' as raw material for innovation and mercy rather than for hoarding.",
+          "word_count": 800,
+          "content_extracted": true
+        }
       },
       {
         "name": "Three-Pile Framework (Necessities/Surplus/Excess)",
@@ -634,7 +651,16 @@
         "purpose": "Primary example of emergent order in friendship/anarchy habitat",
         "first_mention": "Chapter 6, opening",
         "illustrates": ["Anarchy (as friendship)", "Emergent Order", "Trust/Reputation Infrastructure"],
-        "related_entities": ["Volunteer Networks", "Habitat Logic"]
+        "related_entities": ["Volunteer Networks", "Habitat Logic"],
+        "full_content": {
+          "the_call": "On a Tuesday night, long after respectable adults are supposed to be done with errands and logistics, your phone buzzes. 'Hey, I hate to ask this, but my lease is up Saturday and the truck just fell through. Any chance someone has a truck or time to help me move?'",
+          "the_response": "Within a few minutes the chat lights up. 'I've got a truck if we can do morning.' 'I can't lift much but I can watch kids.' 'I've got a dolly and some straps.' 'I can do a lunch run, what kind of pizza?' Nobody schedules a formal meeting. No one pulls up an org chart. There's no budget approval, no project code, no performance review at the end.",
+          "the_day": "By Saturday morning, a loose convoy forms in the parking lot: one friend with a truck, another with a hatchback full of boxes, a guy you've met twice who just shows up in work gloves. Somebody naturally takes the lead on logistics: 'Let's do the heavy stuff first while we've got energy.' Someone else becomes the unofficial safety officer: 'Take the drawers out before you lift that. Watch your back.' Another person is the social glue and comic relief, narrating the whole thing like a heist movie.",
+          "the_outcome": "It is not efficient in any industrial sense. People show up late. Somebody forgot the tape. The path from the apartment to the elevator to the truck is a maze of improvised decisions. But by midafternoon, the impossible thing—an entire life shoved into boxes and furniture—has moved from one place to another. No one sends an invoice. The only 'payment' is greasy pizza, sore backs, and the quietly satisfying sense that you belong to a web of people who will show up when you need them.",
+          "the_insight": "Nobody was really in charge, but it still worked. You live inside systems like this all the time: moving crews, group chats, yard-project workdays, meal trains, pick-up games, volunteer teams. We don't usually call them systems. We just call them 'friends,' 'the guys,' 'the group,' 'my people.' But they are systems nonetheless—organized patterns of cooperation that somehow hold together with no badge, no payroll, and no constitution.",
+          "word_count": 350,
+          "content_extracted": true
+        }
       },
       {
         "name": "Friendship Backstops Municipality",
@@ -708,7 +734,18 @@
         "purpose": "Accessible domestic example of hybrid operation - 'small on purpose'",
         "first_mention": "Chapter 7, 'Communist Christmas: A Holiday Hybrid' section",
         "illustrates": ["Hybrids", "Obligation to Excess", "Three-Pile Framework"],
-        "related_entities": ["Communism (as family)", "Capitalism (as marketplace)", "Anarchy (as friendship)"]
+        "related_entities": ["Communism (as family)", "Capitalism (as marketplace)", "Anarchy (as friendship)"],
+        "full_content": {
+          "origin": "A few years ago, my extended family and I got tired of the annual gift arms race—the exhausting attempt to find the perfect individualized thing for every cousin, aunt, sibling, and in-law. We tried the polite, respectable alternatives ('let's do a Secret Santa,' 'let's set a spending limit,' 'let's do gifts for kids only'), and somehow they still produced a weird mix of disappointment and receipts.",
+          "the_rules": "The rules are simple. Each person chooses one thing they genuinely loved that year—a particular coffee, a book, a tool, a ridiculous snack, a pair of socks that survived the dryer, a board game everyone should know about—and buys that same item for everyone. On Christmas eve we go around the circle. Each person tells the story of their 'favorite thing,' and then we all unwrap the exact same gift at the same time.",
+          "the_experience": "It's funny in the way families are funny: half the room ends up genuinely delighted, and the other half ends up politely trying to look delighted about new rainbow sandals, Sambuca Italian anise-flavored liqueur, or care package full of blue-light amber glasses, Reign Energy Drinks, and a 20,000mah battery pack. But by the end of it, everyone has a small pile that represents everyone else's year. The gifts don't say, 'I guessed your personality correctly.' They say, 'Here's what mattered to me.'",
+          "the_market_layer": "The market is doing market things: all those goods exist because somebody specialized, took a risk, tried something, built a supply chain, and offered it for sale. All those gifts are there because they represented specific value to someone in the marketplace. Without that surplus engine, and value exchange there is no pile of coffee and novels and socks.",
+          "the_family_layer": "But the distribution inside the circle isn't market logic at all. No one walks away with 'what they paid for.' The teenager who can afford almost nothing and the uncle with a comfortable salary end the hour holding roughly the same stack. If your year was lean, you bring what you can. If your year was rich, you quietly bring more. The system adjusts itself—blending from-each-to-each and everyone benefits regardless of contribution size—without speeches.",
+          "the_anarchy_layer": "And the whole thing runs on an anarchic layer—informal norms, not enforcement. Nobody audits receipts. Nobody appoints a gift czar. It works because everyone agrees, voluntarily, that this is what we're doing, and because everyone knows the point isn't optimization. The point is belonging.",
+          "the_excess_connection": "It's also, in miniature, a way of dealing with excess. You can spend your extra money on yourself and declare 'Treat Yourself!' and sometimes that's fine. Or you can convert a little of your excess into shared joy and shared memory—into something that makes the family feel more like a 'we' again.",
+          "word_count": 450,
+          "content_extracted": true
+        }
       },
       {
         "name": "The Ring Compass",
@@ -913,25 +950,48 @@
         "type": "story_example",
         "description": "Washington DC's self-organizing carpool system where strangers share rides near initially to and from the Pentagon (now drastically expanded to destinations across the city) to access HOV lanes, demonstrating how public infrastructure, private incentives, social trust, and emergent norms work together",
         "illustrates": ["System of Systems", "Emergent Order", "Four Habitats", "Anarchy", "One-Size-Fits-All Ideology (failure of)", "The Broken Line"],
-        "location": "Prologue, opening through entire chapter",
+        "source_manuscript_location": "Prologue (primary), recurring throughout all chapters",
         "usage_pattern": "primary_example",
-        "related_entities": ["Witching Hour", "HOV Lanes", "Pentagon"],
+        "related_entities": ["Witching Hour", "HOV Lanes", "Pentagon", "The Green Acura Driver"],
         "narrative_arc": "Personal experience → puzzle of 'irrational' generosity → reveals system of systems insight",
-        "chapter_1_insight": "'A hybrid system out of public infrastructure, private incentives, communal trust, and emergent norms. No one ideology can fully claim it. It's part market, part shared-service, part informal anarchy.'",
-        "chapter_2_application": "Refuses to sit on the left/right line - 'an embarrassment' to the standard spectrum. 'Is the slug line capitalist? In one sense, yes... Is it socialist? Also yes... Is it anarchic? In a sense, yes.' Proves real systems blend logics that ideological jerseys tell us belong to rival tribes.",
-        "chapter_3_insight": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat. 'The little anarchy of the slug line and the quiet communism of the family both floated on top of that river of earned surplus.'",
-        "chapter_4_safety_assumptions": "Makes explicit the safety infrastructure underlying the system: 'that if a driver assaults a passenger, there are systems to respond; that if a car crashes, an ambulance can get to the HOV lane; that if someone disappears, there are detectives who will care.'",
-        "chapter_6_all_habitats": "Chapter 6 shows slug line as exemplar of all four habitats operating simultaneously: (1) Municipality commonwealth needs - 'transportation infrastructure, public safety policy and enforcement, and emergence rescue'; (2) Market engine - 'a creative innovation shortening commute times, reducing scheduling and planning complexities, and reducing cost of commuting'; (3) Friendship/anarchy - 'drivers and riders getting in various cues, hand made signs visually communicating desitinations, expectation of radio stations playing, cues on when to talk or not talk during the ride, '; (4) Family commune - 'tiny acts of courtesy, generosity of free ride after the witching hour, correcting etiquette violations, picking up fourth rider on a bitter cold day for a HOV-3.' 'The reality is not four ideologies locked in combat.'",
-        "chapter_8_category_error": "Chapter 8 opens with slug line 'category error' scene: Driver offers 'five bucks each?' - 'It's not the price that's offensive. It's the category error. Slugging isn't Uber-without-the-app.' The line refuses entry based on 'shared understanding of what game we're playing.' Also shows 6 PM habitat shift: 'The anarchy, socialism, and communism habitats have not disappeared—the ring simply turns and the needle now points to another part of the ring.'"
+        "full_content": {
+          "origin_story": "When the high-occupancy vehicle (HOV) lanes were first opened on I-95 and I-395, they came with a rule: three people in the car and you get to fly past the parking lot on the other side of the barrier. Drivers who faced an hour-plus commute began looking for ways to find those extra warm bodies. Where do you find people who are definitely headed to the same place every morning? At the bus stop. Drivers started pulling over near commuter lots and Pentagon-bound stops, rolling down windows, and asking the most trustworthy-looking people in Washington, D.C.—which, if we're being honest, usually meant uniformed service members—'You going to the Pentagon?' If the answer was yes, everyone won. The driver got to qualify for the HOV lane. The passengers got a quieter, faster ride instead of a crowded bus. This wasn't organized by a task force. There was no charter, no budget line, no branding campaign. It just happened, the way certain simple rules interacting with human ingenuity almost inevitably produce something new.",
+          "naming": "Bus drivers started pulling up to their stops and finding their passengers missing. People were still at the stop—but not where the buses were supposed to pull in. Instead, they clustered a bit further down, near the spot where private cars would peel off the main road to scoop up riders. These people looked like bus passengers. They had been waiting like bus passengers. But when the official bus opened its doors, they waved off the driver. They weren't 'real' passengers anymore. They were something else. Driver slang for non-paying riders is 'slugs,' from fake coins or tokens that trick vending machines and toll booths. The label stuck. Those improvised carpoolers, willing to wait for a faster free ride instead of a slower paid one, became slugs.",
+          "system_description": "A complete stranger could walk up to a slug line for the first time, watch for five minutes, and figure out what to do. Later, signs, websites and forums emerged to facilitate this adjacent ecosystem—but not initially. The pieces were there. Human phenomena put them to use. There are no uniforms, no official badges, no ticket machines. There is no central dispatcher, no posted schedule. If a line gets too long and drivers for that destination are scarce, people quietly adjust their plans: they join a different line, arrange a different route, or text someone about a delay. The whole thing looks, from a distance, remarkably like a formal transportation system. It moves thousands of people each day. It has norms, expectations, and feedback loops. It can respond to changes in traffic, policy, and demand. But there is no 'slug line authority.' No one is in charge.",
+          "four_ingredients": "First, there is public infrastructure: the highway itself, built and maintained with tax dollars; the HOV lanes with their rules; the commuter lots and bus stops that provide natural gathering points. Second, there is private property and individual incentive: the cars, bought and maintained by drivers who want to save time and fuel; the commuters, each with a personal schedule, a job, a family rhythm they are trying to protect. Third, there is trust and social norm: the feeling that it is acceptable to get into a stranger's car; the expectation that drivers will take you where they said they would; the unspoken rule that you don't pay cash, you don't hassle the driver, you don't make things weird. Fourth, there is something like anarchy, in the original sense of the word: no formal ruler. Slugging is voluntary, self-organizing, and astonishingly robust given its lack of official structure.",
+          "ideological_puzzle": "Is slugging capitalist? No one is forced to participate. Everyone is pursuing their own self-interest: a faster commute, a cheaper trip, a more predictable schedule. There is private property, voluntary exchange, and a kind of informal marketplace of rides. Is slugging socialist? It emerges from a backbone of shared public investment. The highways, ramps, and lots are financed collectively. The HOV incentive is a policy decision: a deliberate choice to trade lane space for fewer cars and faster trips for high-occupancy vehicles. Is slugging anarchic? There is no boss, no central committee, no formal enforcement. People queue and ride based on a web of customs and habits they could, in theory, ignore without fear of written penalty. Yet by and large, they don't. Is slugging communitarian, tribal, charitable? Strangers often go out of their way to help. Riders share tips and unwritten rules. Drivers will sometimes take small detours to drop someone closer to home. There is a quiet ethic of looking out for one another during snowstorms, emergencies, or breakdowns. If you are very committed to one ideology, you can squint hard and claim slugging as a victory for your team. But the truth is less satisfying to partisans and more interesting to everyone else. Slugging is not any one of these things. It is all of them at once.",
+          "system_of_systems_insight": "It is public and private, selfish and generous, structured and improvised. It relies on the state to set broad conditions, on markets to make cars available and gas worth saving, on social trust to make stepping into a stranger's sedan feel normal, and on emergent order to keep thousands of daily interactions from dissolving into chaos. In other words, it is a system of systems.",
+          "category_error_scene": "A driver pulls up. A few of us step forward. Then the driver asks the question that detonates the whole arrangement: 'So...five bucks each?' It's not the price that's offensive. It's the category error. Slugging isn't Uber-without-the-app. It isn't a cash business. It isn't a favor you owe, or a debt you're incurring. It's a strange little pocket ecosystem where everyone is trying to solve a transportation problem together—drivers want the HOV lanes, riders want the ride, and everyone wants to get home with their dignity intact. So someone says it, usually calmly, sometimes not: 'That's not how this works.' And the line...just doesn't get in. No formal rules. No enforcement arm. No fines. No customer support chat. The system survives on something we don't talk about enough: shared understanding of what game we're playing.",
+          "word_count": 1200,
+          "content_extracted": true
+        },
+        "chapter_development": {
+          "prologue": "Primary example introducing system of systems insight",
+          "chapter_1": "'A hybrid system out of public infrastructure, private incentives, communal trust, and emergent norms. No one ideology can fully claim it.'",
+          "chapter_2": "Refuses to sit on the left/right line - 'an embarrassment' to the standard spectrum",
+          "chapter_3": "Floats on layered infrastructure - roads from taxes, safety from public systems, paychecks from market habitat",
+          "chapter_4": "Makes explicit the safety infrastructure underlying the system",
+          "chapter_6": "Exemplar of all four habitats operating simultaneously",
+          "chapter_8": "Category error scene opens the chapter; shows 6 PM habitat shift"
+        }
       },
       {
         "name": "The Green Acura Driver",
         "type": "story_example",
         "description": "Anonymous driver who picked up the author after the witching hour despite having no HOV incentive, demonstrating behavior that contradicts homo economicus",
         "illustrates": ["Homo Economicus (contradiction)", "Generosity", "System of Systems"],
-        "location": "Prologue, opening scene",
+        "source_manuscript_location": "Prologue, opening scene",
         "usage_pattern": "recurring",
-        "related_entities": ["Slug Line", "Witching Hour"]
+        "related_entities": ["Slug Line", "Witching Hour"],
+        "full_content": {
+          "opening_scene": "By the time the green Acura pulled up beside me, I had already resigned myself to the slow way home. It was late enough that the evening light had given up and the office towers in Crystal City were doing most of the work. The wind coming down from the river had that particular D.C. talent for finding the gap between your collar and your neck. I was walking along the north edge of Crystal City toward the Pentagon bus stop, chewing on the mildly bitter taste of a missed ride home and an overlong workday.",
+          "the_offer": "That's when the Acura eased over, window down. 'You know it's past the witching hour,' the driver called out. He said it like we were co-conspirators in some small, shared secret. It wasn't quite a question, not quite a warning. It was more like a diagnosis: you're out here late, and you know what that means. I knew exactly what he meant. Once the HOV lanes open to general traffic, the incentives change. No one needs extra passengers. No more reason to pick up strangers. 'I'm headed to the Pentagon for the bus,' I said, pointing down the street as if he couldn't see the massive five-sided building glowing a short distance away. He shrugged. 'Don't worry about it,' he said. 'Jump in. I can get you to Tackett's Mill.'",
+          "the_calculus": "In that moment I did the quick calculus every slug in northern Virginia does dozens of times a year. The math is not written on any sign, but you learn it by heart: risk, reward, vibe check. Was he sober? Did he sound sane? Did the car look roughly as if it had passed a recent inspection and had not been used for anything an FBI agent might ask about later? At that hour there were no five-star ratings on a phone screen, no app making soft chimes of reassurance. It was just two humans eyeing each other across a small gulf of uncertainty. The car looked fine. The driver sounded normal. I pulled the door handle and got in.",
+          "the_puzzle": "For him, with the restriction lifted, there was no special advantage left in having me in the passenger seat. Which is what made his offer so strange. From a certain kind of economics, the kind we distill into neat diagrams and multiple-choice questions, what he was doing didn't make much sense. He was paying for gas. Adding a full-grown adult to the vehicle meant more weight, more fuel burned, more wear and tear on the car. I was not reimbursing him. There was no cash exchanged, no formal carpool, no government voucher to be redeemed. He was paying in time, too. Socially, there was no point system, no punch card, no cosmic ledger where he could log this as a credit against future favors. We were strangers. The odds that we would recognize each other in a grocery store a year later were close to zero. On paper, the whole move was irrational.",
+          "the_insight": "Sitting in the passenger seat that night, sliding past the red glow of slower lanes, I found my attention drifting away from small talk and toward that driver's decision. He had picked me up after the witching hour. He had already gotten what the policy promised him: unrestricted access to the fast lane. I was now, in purely instrumental terms, unnecessary cargo. Yet he still rolled down his window and invited me in. Why? Maybe he just wanted the company. Maybe he was in the habit and didn't think much about it. Maybe he remembered what it felt like to be the guy stuck at the bus stop. The truth is, I don't know his reasons. What I do know is that his simple, slightly irrational act forced a crack in the way I had been taught to think about social and economic systems.",
+          "word_count": 650,
+          "content_extracted": true
+        }
       },
       {
         "name": "Nietzsche's Horse",
@@ -941,7 +1001,17 @@
         "purpose": "Illustrates that 'power alone is not enough. At some point, it must answer to love — or an enduring commitment to the good of another not dependent on self-interest or reciprocity but rather the identify of the one making the promise.' Applied to capitalism: the engine is not the whole story.",
         "extended_meaning": "Nietzsche's sister later distorted his work into 'The Will to Power' used by Nazis - 'A complex, conflicted thinker who wrestled with meaning and suffering was flattened into a cartoon prophet of brute strength.' Same flattening can happen to capitalism as survival of the fittest or winner take all dynamics.  Those who say, 'All is fair love and war neither know love nor war.'",
         "first_mention": "Chapter 5, 'The Horse in the Square' section",
-        "related_entities": ["Capitalism (as marketplace)", "When the Engine Eats the House"]
+        "related_entities": ["Capitalism (as marketplace)", "When the Engine Eats the House"],
+        "full_content": {
+          "the_scene": "In January of 1889, in Turin, the philosopher who wrote about the will to power suffered a mental collapse. The story goes that he saw a coachman whipping a horse that could not pull its load, rushed to the animal, threw his arms around its neck, and sobbed, 'I understand!' before collapsing himself. Historians will tell you the details are messy. The scene is certain in outline—a breakdown in a public square, a horse at the center—but the precise words are probably embroidered after the fact.",
+          "the_parable": "As a parable, though, it's hard to beat. A man who had spent much of his career writing about strength, overcoming, and hardness is undone by the suffering of a powerless creature. He does not shout at the coachman about justice. He does not deliver a lecture on ethics. He breaks down and embraces the animal.",
+          "the_insight": "Power mattered to Nietzsche. He was not wrong about that. Power matters in physics, in politics, in economics. It matters in nail-making. But if the horse story captures anything true about him, it is this: power alone is not enough. At some point, it must answer to love—or to something like it.",
+          "the_warning": "After Nietzsche's collapse, his sister, who was drawn to nationalism and antisemitism, took control of his literary estate. She edited, curated, and sometimes distorted his unpublished notes into a book called The Will to Power, which later readers—especially the Nazis—treated as scripture for a brutal, racialized doctrine of domination. A complex, conflicted thinker who wrestled with meaning and suffering was flattened into a cartoon prophet of brute strength. That is not just an unfortunate footnote in intellectual history. It is a warning.",
+          "application_to_capitalism": "Something similar can happen with capitalism. If all you see is the will to power in economic form—firms competing, winners taking all, losers falling behind—you can turn capitalism into a simple, brutal creed: the strong deserve to rule because they are strong. The market becomes a kind of secular judgment day. The winners are the elect. The real engine is more complicated than that. Like Nietzsche's original reflections on power, capitalism tells us something important about how the world works. Differentiated effort, risk, and exchange do matter. They shape history. They build cereal aisles and fire trucks. But the engine is not the whole story. Power needs a purpose. Excess needs a 'for.'",
+          "the_moment": "The moment you stand in front of the 'horse'—the exhausted worker, the flooded town, the choked river, the burned-out neighborhood, or your own hungry child—and let yourself see what is happening, you are rediscovering a simple fact: The value of the engine depends on what it is serving.",
+          "word_count": 450,
+          "content_extracted": true
+        }
       },
       {
         "name": "The Grocery Aisle Insight",
@@ -951,17 +1021,97 @@
         "builds_on": "Hayek's knowledge problem / price mechanism",
         "purpose": "Makes visible the invisible coordination of market system",
         "first_mention": "Chapter 5, 'Four Moving Parts' section",
-        "related_entities": ["Capitalism (as marketplace)", "Emergent Order"]
+        "related_entities": ["Capitalism (as marketplace)", "Emergent Order"],
+        "full_content": {
+          "the_setting": "You're in an ordinary supermarket on an ordinary Thursday night. You are tired. You are here out of obligation more than joy. You push a cart that squeaks in protest. You turn down the aisle and stop. There are dozens, maybe hundreds, of options. Flakes, clusters, bran, sugar, whole grain, chocolate, almonds, raisins, kids' mascots, 'heart-healthy' labels, organic, store brand, family-size bags, single-serve cups. If you pulled your great-grandparents into this aisle, they'd think they'd been abducted.",
+          "the_invisible_system": "Most of the time, you don't think about how any of this got here. You grab the same box you grabbed last time, mumble about the price being up again, and move on. But tucked inside every one of those boxes is a story much like our nail-maker's, just more complicated and automated. Somewhere, people specialize in plant genetics and soil science and mechanized harvesters. Others specialize in milling and packaging and graphic design. Others build the machines that stamp out cardboard, the trucks that haul pallets, the software that tracks inventory and predicts when you are likely to run out. Entire careers are spent tweaking how crunchy the flakes are after twelve minutes in milk.",
+          "the_choreography": "Behind that box is an invisible choreography of: Farmers and factory workers. Truck drivers and dock workers. Sales reps and data analysts. Engineers and marketers. Investors and regulators. Each of them is, in some sense, a nail-maker: focused on their piece of the puzzle, trading their specialized effort into a wider system of exchange.",
+          "the_price_signal": "You do not need to know any of them. You do not need to vote on which cereals should exist. You do not need a central committee in the capital city to authorize new flavors. You need one piece of information: the price. A price is a little bundle of signals: about supply, demand, transportation costs, weather disruptions, and a dozen other things you will never see. You respond to that signal—you buy, or you don't. The store responds to your response. The manufacturer responds to the store. Farmers respond to the manufacturer. Over time, the entire system flexes.",
+          "the_insight": "The cereal aisle is not a moral argument. It does not tell you what is good or bad. It does tell you that you live inside a civilization that has built an astonishingly powerful engine for turning differentiated work into coordinated abundance.",
+          "word_count": 400,
+          "content_extracted": true
+        }
       },
       {
         "name": "Fire Truck Budget Meeting",
         "type": "story_example",
-        "definition": "Scene of city budget meeting debating $812,000 fire truck purchase. Serves as chapter frame connecting municipality (Chapter 4) to marketsplace (Chapter 5) - the truck is 'protection turned into a line item' that requires taxable market surplus to purchase.",
+        "definition": "Scene of city budget meeting debating $812,000 fire truck purchase. Serves as chapter frame connecting municipality (Chapter 4) to marketplace (Chapter 5) - the truck is 'protection turned into a line item' that requires taxable market surplus to purchase.",
         "definition_type": "book_original",
-        "purpose": "Bridge between chapters showing how municipality habitat depends on marketplace habitat for funding and is obligate to the marketplace for restraint and efficiency.  A municiplaity that grows to consume all marketplace surplus starves the family, the friendship and the marketplace it intends to protect",
-        "extended_meaning": "Council members 'counting on a capitalist engine humming in the background — businesses creating jobs, employing marketplace specialists creating value and exchanging for wages, marketplace transactions generating enough surplus and excess that a portion of it, taxed and pooled, can be turned into ladders and pumps while not damging the family, friendships or innovation and discovery it intends to protect.'",
-        "first_mention": "Chapter 5, opening and closing sections",
-        "illustrates": ["Underwriting the Other Habitats", "Socialism (as municipality)", "Capitalism (as marketplace)"]
+        "purpose": "Bridge between chapters showing how municipality habitat depends on marketplace habitat for funding and is obligate to the marketplace for restraint and efficiency. A municipality that grows to consume all marketplace surplus starves the family, the friendship and the marketplace it intends to protect",
+        "source_manuscript_location": "Chapter 5, opening and closing sections",
+        "illustrates": ["Underwriting the Other Habitats", "Socialism (as municipality)", "Capitalism (as marketplace)"],
+        "full_content": {
+          "key_insight": "Council members 'counting on a capitalist engine humming in the background—businesses creating jobs, employing marketplace specialists creating value and exchanging for wages, marketplace transactions generating enough surplus and excess that a portion of it, taxed and pooled, can be turned into ladders and pumps while not damaging the family, friendships or innovation and discovery it intends to protect.'",
+          "chapter_4_connection": "The fire truck itself represents 'protection turned into a line item.' The municipality needs the truck to fulfill its safety commons function, but it can only purchase the truck because the market habitat has generated sufficient surplus to tax.",
+          "dependency_chain": "A fire department can be honorable and brave and still be incapable of responding if its trucks are rusting out and its radios don't work. Safety systems depend on advancing technology and production capacity that can meet the commonwealth scale of needs—funded by surplus generated by the market habitat through individual-to-population exchanges.",
+          "word_count": 150,
+          "content_extracted": true
+        }
+      },
+      {
+        "name": "The 3:17 AM Fire Response",
+        "type": "story_example",
+        "definition": "Opening scene of Chapter 4 depicting a family awakened by smoke alarm and the emergency response system that activates. Demonstrates why safety systems must be collectively funded and universally available.",
+        "definition_type": "book_original",
+        "purpose": "Visceral illustration of why the safety commons cannot operate on market logic - emergencies are a bad time for shopping",
+        "source_manuscript_location": "Chapter 4, opening section",
+        "illustrates": ["Socialism (as municipality)", "Safety Commons", "Impartiality"],
+        "full_content": {
+          "the_scene": "At 3:17 a.m., the world shrinks to the sound of a smoke alarm. Somewhere on a quiet street, a family lurches awake into confusion. The hallway is haze and blinking red LEDs. Someone coughs. Someone shouts something that doesn't make sense. The toddler doesn't know why she's being yanked out of bed. The dog is barking at the wrong threat. Nobody is thinking about political theory. 'Call 911.'",
+          "the_system": "It's as automatic as breathing. One hand fumbles for the kids, another for the phone. The number is muscle memory. Three digits, nothing more. Nobody stops to Google which fire department has the best online reviews. Nobody negotiates a price per gallon of water. Nobody pulls up a spreadsheet to see whether this month's subscription dues are current.",
+          "the_response": "A dispatcher answers before the second ring. On another side of town, in a room that never really gets dark, a headset is already on, a cursor blinking in a computer-aided dispatch system. The call-taker's voice is absurdly calm for the hour. 'Nine-one-one, what's the address of your emergency?' The caller's words are a mess—'smoke' and 'kids' and 'I think it's the kitchen'—but the address comes out clean. It always does. The dispatcher taps keys, drops tones over the radio. In a nearby firehouse, an alarm blares. A red LED strip snaps on along the floor. Boots slam onto concrete. Someone's dreams hit the wall on the way out the door. Forty-five seconds ago, half the crew was unconscious. Now they're in the truck, buckled in, eyes still burning from sleep, running through the mental checklist they've performed a thousand times.",
+          "the_assumption": "In that house, in that moment, the entire world divides cleanly into two categories: the people you love and the strangers you hope will come save them. You are not negotiating with those strangers. You are not haggling over the price of diesel or turnout gear or medical training. You are not wondering whether your family is 'worth' the cost of the truck that is about to park itself in front of your house. You are, without consciously thinking about it, leaning on a quiet assumption: There is a system that will come when it's needed, for anyone, every time, whether or not anybody loves them.",
+          "word_count": 400,
+          "content_extracted": true
+        }
+      },
+      {
+        "name": "The Quarterly Performance Review of a Four-Year-Old",
+        "type": "thought_experiment",
+        "definition": "Opening absurdist scenario of Chapter 1 demonstrating that family logic cannot be replaced by market logic. A parent treating their toddler like an underperforming sales rep is not merely bad parenting—it's categorically wrong.",
+        "definition_type": "book_original",
+        "purpose": "Visceral illustration that different scales of life require different operating systems - 'whatever rules we think should govern the wider world, they cannot simply be copied and pasted into every corner of life'",
+        "source_manuscript_location": "Chapter 1, opening section",
+        "illustrates": ["Scale Error", "Communism (as family)", "Natural and Unnatural Habitats"],
+        "full_content": {
+          "the_scene": "Imagine calling a family meeting to the dining room table. You've printed out a stapled packet for each person with their name in the top-right corner. There are bullet charts and trend lines. Your youngest has a coloring sheet and a cup of crayons—because, as you explained, you want to be age-appropriate about this. You clear your throat. 'Alright team,' you begin, in the voice of a mid-level manager who has read exactly one leadership book. 'Let's walk through last quarter's performance.'",
+          "the_absurdity": "You turn to your four-year-old. 'In Q2, you consumed thirty-seven juice boxes, two and a half gallons of milk, and roughly a metric ton of chicken nuggets. In return, you contributed zero dollars of revenue. We need to see improvement here.' Your child blinks at you, then asks if they can have another chicken nugget. You push on. 'Going forward, we're implementing a family pay-for-performance plan. You'll receive basic room and board, but additional snacks and bedtime stories will be tied to your household productivity. Any questions?' There is a long silence. It's broken only by the sound of a crayon rolling off the table.",
+          "the_insight": "You don't need an economics degree to know that something has gone terribly wrong in this imaginary scene. You can feel it in your bones. This is not just bad parenting; it's categorically wrong. Treating your child like an underperforming sales rep doesn't merely violate some unwritten social code. It violates something deeper about what a family is for. We don't run families as if they were sales teams. Most of us don't sit down and articulate why. We don't formulate a formal theory of 'household political economy.' We simply know, at a level below words, that a home is not supposed to work that way. Parents give more than they receive. Small children receive more than they give. The accounting books are gloriously uneven, and we would be horrified if they weren't.",
+          "word_count": 350,
+          "content_extracted": true
+        }
+      },
+      {
+        "name": "The President As Your Dad",
+        "type": "thought_experiment",
+        "definition": "Reverse scale error thought experiment: A president treating 300 million citizens as if they were his children—personally deciding jobs, housing, speech 'for their own good.' Demonstrates that nation-scale systems cannot operate on family logic.",
+        "definition_type": "book_original",
+        "purpose": "Shows that the intimate care of family becomes tyranny at nation scale - 'A government large enough to act like a parent would also be large enough to confiscate your car keys and ground you indefinitely'",
+        "source_manuscript_location": "Chapter 1, 'The President of the United States, As Your Dad' section",
+        "illustrates": ["Scale Error", "Communism (as family)", "Natural and Unnatural Habitats"],
+        "full_content": {
+          "the_scene": "Picture a president stepping up to a podium and speaking to three hundred million citizens as if they were all his children. He explains that he loves everyone very much, and because of that love, he will personally decide what jobs people take, where they live, and what they are allowed to say in public—'for their own good.' He will decide what information they are mature enough to handle. He will correct them sternly when they misbehave.",
+          "the_recoil": "If you grew up in a relatively free society, everything in you recoils at this. We don't want to be 'parented' by distant officials. Whatever kind of care a nation owes its citizens, it is not the intimate, boundary-crossing, all-encompassing care of a mom or dad. A government large enough to act like a parent in that way would also be large enough to confiscate your car keys and ground you indefinitely.",
+          "the_insight": "Again, we rarely spell this out in philosophical language. We just know it doesn't fit. The scale is wrong. The tools are wrong. The relationship is wrong. Families and nations are both real. Both matter. But they live at different scales of human life, and they need different operating systems.",
+          "word_count": 250,
+          "content_extracted": true
+        }
+      },
+      {
+        "name": "When Friendship Gets an HR Department",
+        "type": "thought_experiment",
+        "definition": "Third scale error thought experiment: A friend group implementing mandatory scheduling apps, multi-page codes of conduct, safety briefings, and third-party dispute reviewers. Demonstrates that friendship operates on looser, emergent norms that bureaucracy destroys.",
+        "definition_type": "book_original",
+        "purpose": "Shows that friendships run on voluntary, emergent order that formal HR processes would suffocate - 'Turn that into a formal Human Resources process and you don't get a better friendship. You get a very bad workplace.'",
+        "source_manuscript_location": "Chapter 1, 'When Friendship Gets an HR Department' section",
+        "illustrates": ["Scale Error", "Anarchy (as friendship)", "Natural and Unnatural Habitats"],
+        "full_content": {
+          "the_scene": "Imagine your closest group of friends deciding that, in the name of 'professionalizing' your time together, all future hangouts will be scheduled via a mandatory app. To join the group, you'll need to sign a multi-page code of conduct, complete with signature blocks and a checkbox acknowledging you've read the privacy policy. Every game night will begin with a short safety briefing. If two people have a disagreement, they will be assigned a neutral third-party reviewer who will file a report.",
+          "the_insight": "Nobody is against safety. Nobody is against clear expectations. But at some point, the bureaucracy itself suffocates the friendship it is supposed to protect. What makes a friend group work is something looser, stranger, harder to chart in Excel. People drift in and out. Different people lead depending on the topic. The 'rules' are mostly unspoken but strongly felt. Turn that into a formal Human Resources process and you don't get a better friendship. You get a very bad workplace.",
+          "the_pattern": "Here again, our instincts are doing quick pattern-recognition. We know, without drafting a white paper, that friendships and offices live in different worlds. They call for different kinds of structure, different expectations, different kinds of authority. Copying and pasting the tools from one world into the other doesn't just feel awkward. It feels wrong.",
+          "word_count": 280,
+          "content_extracted": true
+        }
       }
     ],
     "definitions": [
