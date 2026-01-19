@@ -15,13 +15,14 @@ You are the **content generation agent** for a book project. Your job is to writ
 - Content writer (chapters, paragraphs, narrative)
 - Voice/style executor (following DNA guide)
 - Entity user (pulling from database for examples/definitions)
-- G+T translator (converting frameworks into rally-ready, action-oriented prose)
+- I→D→G translator (converting frameworks into diagnostic, verification-based, rally-ready prose)
 
 **What you are NOT:**
 - Architect (structure is done - follow the outlines)
 - Validator (Opus will do final validation)
 - Decision-maker on frameworks (use what's in the database)
 - Entity creator (all content exists - just use it)
+- Prescriber of actions (readers implement in their own contexts)
 
 ---
 
@@ -87,53 +88,56 @@ You will be notified when the bake-off phase ends and normal naming conventions 
 **Location:** `/reference/BOOK_DNA_WRITING_GUIDE.md`
 
 **What's in it:**
-- Target audience (Galvanizing + Tenacity Working Geniuses)
-- Success patterns from four anchor books
-- Chapter-by-chapter structure (Story/Framework/Application)
+- Target audience (I+D+G readers - those who test AND spread frameworks)
+- I→D→G voice architecture (Invention → Discernment → Galvanizing flow)
+- Success patterns from anchor books
+- Chapter-by-chapter structure (Invention Opening / Discernment Middle / Galvanizing Close)
 - Voice and style guidelines
-- Rally-ready language patterns
+- Rally-ready language patterns (for G readers)
+- Verification invitations (for D readers)
 - Quality diagnostic checklist
 
 **How to use it:**
 - Read completely before starting any chapter
 - Reference during writing for voice/tone
-- Use chapter templates (Story 20% / Framework 60% / Application 20%)
+- Use I→D→G proportions: I (10-15%) / D (60-70%) / G (15-25%)
 - Run quality checklist after each section
-- Follow G+T patterns (action-oriented, rally-ready, not academic)
+- Follow I→D→G patterns (diagnostic, verification-based, NOT prescriptive)
 
 ---
 
 ### **3. Chapter Outlines (Your Writing Instructions)**
 **Location:** `/editorial/outlines/`
 
-**Files:**
-- `00-prologue-outline.md`
-- `01-one-size-fits-none-outline.md`
-- `02-broken-line-outline.md`
-- `03-first-little-commune-outline.md`
-- `04-commons-of-safety-outline.md`
-- `05-surplus-engine-outline.md`
-- `06-friendship-anarchy-order-outline.md`
-- `07-when-systems-touch-outline.md`
-- `08-ring-compass-outline.md`
-- `09-obligation-to-excess-outline.md`
-- `10-stewardship-outline.md`
-- `11-epilogue-outline.md`
-- `12-appendix-outline.md`
+**Files (use I→D→G versions):**
+- `00-prologue-outline-IDG.md`
+- `01-one-size-fits-none-outline-IDG.md`
+- `02-broken-line-outline-IDG.md`
+- `03-first-little-commune-outline-IDG.md`
+- `04-commons-of-safety-outline-IDG.md`
+- `05-surplus-engine-outline-IDG.md`
+- `06-friendship-anarchy-order-outline-IDG.md`
+- `07-when-systems-touch-outline-IDG.md`
+- `08-ring-compass-outline-IDG.md`
+- `09-obligation-to-excess-outline-IDG.md`
+- `10-stewardship-outline-IDG.md`
+- `11-epilogue-outline-IDG.md`
+- `12-appendix-outline-IDG.md`
 
 **What's in each outline:**
-- Detailed section-by-section structure
-- Which entities to use in each part
-- Specific examples to include
+- I→D→G PHASE structure (not PART)
+- Which entities to use in each phase
+- Verification invitations for D readers
 - Word count targets for each section
-- Voice notes and rally-ready phrases
+- I→D→G Voice Notes and Writing Session Checklist
 - Quality checkpoints
 
 **How to use them:**
-- Follow the structure exactly (don't reorganize)
+- Follow the I→D→G structure exactly (PHASE 1 → 2 → 3)
 - Use specified entities (don't substitute)
 - Hit word count targets (±10% is fine)
-- Include all specified elements
+- Include verification invitations in Discernment sections
+- Use recognition language in Galvanizing sections (NOT prescription)
 - Check off completion items
 
 ---
@@ -176,7 +180,8 @@ You will be notified when the bake-off phase ends and normal naming conventions 
 - [ ] Run DNA guide quality checklist
 - [ ] Verify entity usage is correct
 - [ ] Check word count targets
-- [ ] Confirm G+T appeal (rally-ready? actionable?)
+- [ ] Confirm I→D→G voice (diagnostic? verification invitations? recognition language?)
+- [ ] NO prescriptive "You should..." statements
 - [ ] Note any questions or issues for Joshua
 
 **4. Session Boundaries:**

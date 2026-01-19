@@ -21,11 +21,16 @@ Political ideologies (communism, socialism, capitalism, anarchy) are not rival t
 Most political discourse treats these as competing religions. This book shows they're **complementary tools in a shared toolbox**—and that we already use all of them every day without realizing it.
 
 ### Target Impact
-Reach **Galvanizing + Tenacity Geniuses** (Working Geniuses framework) who will:
-- Rally others around these insights (Galvanizing)
-- Drive implementation and systemic change (Tenacity)
+Reach **I+D+G readers** (Working Geniuses framework) who will:
+- Test and verify the frameworks (Discernment)
+- Spread verified ideas to others (Galvanizing)
+- Implement in their own contexts (readers with Tenacity find their own applications)
 
-**Not targeting:** Fellow Invention/Discernment types who would understand but not act.
+**Voice Architecture:** I→D→G (Invention → Discernment → Galvanizing)
+- Author provides diagnostic tools (I+D domain)
+- Readers verify against their experience (D invitation)
+- Readers spread what they've verified (G activation)
+- Readers implement in their own T-domain contexts
 
 ---
 
@@ -103,12 +108,12 @@ LAYER 1: FOUNDATION (Joshua + Claude.ai Project)
 ├─ Systems frameworks and insights
 ├─ Entity/relationship extraction from existing content
 ├─ Knowledge graph (GraphRAG foundation)
-├─ Target audience research (Galvanizing + Tenacity)
+├─ I→D→G voice architecture research
 └─ Strategic planning and structure
 
 LAYER 2: EXECUTION (VS Code Agents)
 ├─ Opus: Structure and validation
-├─ Sonnet: Content generation
+├─ Sonnet: Content generation (I→D→G voice)
 └─ Handoffs between agents
 
 LAYER 3: OUTPUT (Amazon KDP)
@@ -120,7 +125,7 @@ LAYER 3: OUTPUT (Amazon KDP)
 ### Knowledge Flow
 
 ```
-Joshua's Insights
+Joshua's Insights (Invention)
     ↓
 Entity/Relationship Extraction
     ↓
@@ -128,15 +133,15 @@ Knowledge Graph (GraphRAG)
     ↓
 Opus Validates Structure
     ↓
-Sonnet Generates Content
+Sonnet Generates Content (I→D→G Voice)
     ↓
 Claude.ai Project Integrates
     ↓
 Finished Book → Amazon KDP
     ↓
-Galvanizing + Tenacity Readers
+I+D+G Readers (Test → Spread)
     ↓
-Real-world Implementation
+T Readers Implement in Their Contexts
 ```
 
 ---
@@ -146,19 +151,20 @@ Real-world Implementation
 ### Phase-Based Execution
 
 #### **Phase 0: Foundation (Current)**
-- [ ] Set up Claude.ai project as command center
-- [ ] Set up VS Code local environment
-- [ ] Research Working Geniuses framework (G+T focus)
-- [ ] Extract entities/relationships from existing content
-- [ ] Build knowledge graph schema
-- [ ] Define content strategy for target audience
+- [x] Set up Claude.ai project as command center
+- [x] Set up VS Code local environment
+- [x] Research Working Geniuses framework (I→D→G voice architecture)
+- [x] Extract entities/relationships from existing content
+- [x] Build knowledge graph schema
+- [x] Define I→D→G voice architecture for target audience
 
 #### **Phase 1: Architecture**
-- [ ] Opus validates systems frameworks
-- [ ] Build complete argument spine
-- [ ] Map entity relationships
-- [ ] Define chapter purposes and flow
-- [ ] Create style guidelines for G+T audience
+- [x] Opus validates systems frameworks
+- [x] Build complete argument spine
+- [x] Map entity relationships
+- [x] Define chapter purposes and flow
+- [x] Create style guidelines for I→D→G voice
+- [x] Convert all 13 chapter outlines to I→D→G format
 
 #### **Phase 2: Content Generation**
 - [ ] Sonnet generates chapters from frameworks

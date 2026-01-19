@@ -270,7 +270,15 @@
 
 ## SUPERSEDED DECISIONS
 
-*(None yet - will track here when decisions are revised)*
+### D002: Target Galvanizing + Tenacity Geniuses (Not I+D)
+**Date:** January 10, 2026  
+**Status:** ⛔ SUPERSEDED by D008 (January 19, 2026)
+
+**Original Decision:** Write specifically for readers with Galvanizing and/or Tenacity Working Geniuses, NOT for fellow Invention/Discernment types.
+
+**Why Superseded:** Joshua's authentic authority is I+D, not T. The G+T target was pulling the book toward prescriptive advice the author cannot authoritatively give. D008 pivots to I→D→G voice architecture that aligns with Joshua's actual genius profile.
+
+**See D008 for current approach.**
 
 ---
 
@@ -278,7 +286,7 @@
 
 **Standing Rules We've Established:**
 
-1. **Audience First:** Every content decision filtered through "will this work for G+T readers?"
+1. **I→D→G Voice First:** Every content decision filtered through "Does this match I→D→G voice architecture?" (Invention frames, Discernment verifies, Galvanizing spreads)
 
 2. **Dependency Awareness:** Build foundations before dependent pieces, no skipping layers.
 
@@ -286,9 +294,11 @@
 
 4. **Consistency Over Novelty:** Preserve established entities and relationships; change only when necessary.
 
-5. **Action-Oriented:** Book must inspire and enable action, not just provide understanding.
+5. **Diagnostic Over Prescriptive:** Book provides recognition and diagnostic tools, NOT action prescriptions. T-domain implementation left to T-genius readers.
 
 6. **Evidence-Based:** Track what works, adjust based on results, log the reasoning.
+
+7. **Authority Limits Acknowledged:** Don't claim expertise outside Joshua's I+D domain. Acknowledge what the author can and cannot prescribe.
 
 ---
 
