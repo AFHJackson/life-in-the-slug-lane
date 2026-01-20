@@ -522,6 +522,8 @@ Here's the map I've been using. I call it The Ring.
 | **Market** | Anonymous exchange | "Voluntary trade, price signals" | Capitalism |
 | **Network** | Peer relationships | "Voluntary association, emergent order" | Anarchy |
 
+![The Ring - Four Habitats](Cover Graphic.png)
+
 Before you recoil at any of those labels in the right column—I know. I felt the same way. Communism? Anarchy? Those are fighting words. Those are ideologies that failed spectacularly, that killed millions, that we're supposed to have moved beyond.
 
 But here's what changed my mind: You already use all four of these systems. Every single day. You navigate all four without thinking about it.
@@ -862,6 +864,8 @@ The room is arranged the way you'd expect for an 18th-century legislative body: 
 The people who support the king—mostly nobles, some conservative clergy—have ended up sitting predominantly on the right side of the chamber. The people who support limiting royal power—mostly commoners, some radical clergy, a few reform-minded nobles—have ended up sitting predominantly on the left.
 
 A seating chart became a spectrum.
+
+![The Left/Right Line](The Line.png)
 
 That's it. That's the origin. The most powerful political framework of the last 200 years—the organizing principle for virtually every political conversation in the democratic world—started because people who thought similarly gravitated toward each other in a room, and someone noticed that they'd sorted themselves spatially.
 

@@ -82,9 +82,12 @@ Tools for wise operation:
 
 ## Graphics Notes
 
-Two graphics are referenced in the manuscript:
-1. **Cover Graphic.png** - Should appear on title page
-2. **The Line.png** - May be referenced in Chapter 2 (currently as concept, could insert image)
+Three graphics are embedded in the manuscript:
+1. **Cover Graphic.png** - Front cover title page (also serves as The Ring diagram)
+2. **Cover Graphic.png** - Chapter 1 after The Ring table (showing the four-habitat framework)
+3. **The Line.png** - Chapter 2 during discussion of left/right spectrum origins
+
+**Note:** The Cover Graphic showing the ring is used twice - once on the cover and once to illustrate The Ring framework in Chapter 1.
 
 If converting with Pandoc, ensure both PNG files are in the same directory as the markdown file.
 
