@@ -1,0 +1,21 @@
+﻿=== SYNC ANALYSIS REPORT ===
+
+OLD CONTENT (should be removed/changed in MD):
+  911 reference: STILL IN MD - needs update
+  I vs we call: Removed from MD - OK
+  Direction 1 section: Removed from MD - OK
+  Direction 2 section: Removed from MD - OK
+  Direction 3 section: Removed from MD - OK
+  Direction 4 section: Removed from MD - OK
+  Formal vs Uniform: STILL IN MD - needs update
+  right tool phrasing: STILL IN MD - needs update
+  map broken phrasing: Removed from MD - OK
+  worlds vs ways: Removed from MD - OK
+
+NEW CONTENT (should be added to MD):
+  roadways phrasing: In MD - OK
+  we call Hammer: In MD - OK
+  old map phrasing: In MD - OK
+  Uniform accountability: MISSING from MD - needs update
+  wrong setting phrasing: MISSING from MD - needs update
+  serving each other: In MD - OK

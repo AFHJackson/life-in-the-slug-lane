@@ -489,25 +489,25 @@ You’re not confused. The old map is broken. Life looks less like a line and mo
 
 ## Scale Errors: The Diagnostic
 
-A scale error is when you apply the right tool at the wrong scale. The tool isn't broken. The fit is wrong.
+A scale error is when you apply a good tool (or logic) in the wrong setting (or habitat). The logic isn't broken. The fit is wrong.
 
-Think back to the quarterly performance review of a four-year-old. Market logic isn't wrong. It's incredibly useful in the right context. When adults with options are negotiating compensation for their labor, price signals and performance metrics can coordinate complex activity across strangers who will never meet. But apply it to a family (a scale where people are bound by biology, history, and unconditional obligation), and it becomes monstrous. It turns love into transaction. It turns care into invoice. It takes the thing that makes family work (uneven giving without scorekeeping) and destroys it.
+Think back to the quarterly performance review of a four-year-old. Market logic isn't bad. It's incredibly useful in the right context. When adults with options are negotiating compensation for their labor, price signals and performance metrics can coordinate complex activity across strangers who will never meet. But apply it to a family (a scale where people are bound by biology, history, and unconditional obligation), and it becomes monstrous. It turns love into transaction. It turns care into invoice. It takes the thing that makes family work (uneven giving without scorekeeping) and destroys it.
 
-Or the president treating citizens like children. Family logic isn’t wrong. It’s the most beautiful logic we have for raising kids, serving each other, and caring for our parents.  The parent who gives more than they receive, who loves unconditionally, who provides without demanding payment, that's not exploitation. That's what makes childhood possible. But scale it up to three hundred million strangers, and it becomes tyranny. It becomes paternalism. It becomes the state telling adults what they're allowed to say, think, read, do, "for their own good." A government large enough to parent you is large enough to control you.
+Or the president treating citizens like children. Family logic isn’t wrong. It’s the most beautiful logic we have for raising kids, serving each other, and caring for our parents.  The parent who gives more than they receive, who loves sacrificially and unconditionally, who provides without demanding payment, that's not exploitation. That's what makes childhood possible. But scale it up to three hundred million strangers, and it becomes tyranny. It becomes paternalism. It becomes the state telling adults what they're allowed to say, think, read, do, "for their own good." A government large enough to parent you is large enough to control you.
 
-Or the friend group with an HR department. Formal accountability isn't wrong. It's essential in workplaces where strangers coordinate complex tasks with real stakes, where people need to rely on each other but don't have the trust that comes from years of relationship. Rules, procedures, documentation: these things make coordination possible when you can't depend on friendship. But apply them to voluntary relationships where trust and flexibility are the entire point, and you suffocate what you're trying to protect. You turn friendship into work. You kill spontaneity. You make people want to exit.
+Or the friend group with an HR department. Uniform accountability isn't wrong. It's essential in workplaces where strangers coordinate complex tasks with real stakes, where people need to rely on each other but don't have the trust that comes from years of relationship. Rules, procedures, documentation: these things make coordination possible when you can't depend on a trusted network of friendships. But apply them to voluntary relationships where trust and flexibility are the entire point, and you suffocate what you're trying to protect. You turn friendship into work. You kill spontaneity. You make people want to exit.
 
-Each ideology makes the same mistake. Each one takes a tool that works beautifully at one scale and insists it should work everywhere.
+Each ideology makes the same mistake. Each one takes a logic that works beautifully at one scale and insists it should work in all of life's habitats.
 
-The free-market purist who insists you should charge your kids rent is making a scale error. The socialist who wants to nationalize every industry (including your local coffee shop and the guy who mows lawns in your neighborhood) is making a scale error. The communitarian who wants every relationship formalized in shared governance is making a scale error. The libertarian who thinks every public good should be privatized (including the fire department and the roads and the military) is making a scale error.
+The free-market purist who insists you should charge your young children or elderly mother rent is making a scale error. The socialist who wants to nationalize every industry (including your local coffee shop and the guy who mows lawns in your neighborhood) is making a scale error. The communitarian who wants every relationship formalized in shared governance under the centralized authority of an expert is making a scale error. The libertarian who thinks every public good should be privatized (including the fire department and the roads and the military) is making a scale error.
 
-They're all pointing at something real. They're all identifying a tool that works somewhere. But they're all trying to hammer nails with screwdrivers, trying to tighten bolts with wrenches designed for a completely different size, and then blaming the material when it doesn't work.
+They're all pointing at something real. They're all identifying a logic that works somewhere. But they're all trying to hammer nails with screwdrivers, trying to tighten bolts with a water glass which is effective for a completely different function, and then blaming the tool when it doesn't work.
 
 ## Limits Acknowledged: What This Framework Doesn't Do
 
 Before we go further, let's be clear about what The Ring is and isn't.
 
-This is a map, not the territory. It's a tool for navigation, not a blueprint for policy. It won't tell you the correct tax rate or the right healthcare system or whether your city should zone for more housing. Those are questions that require local knowledge, democratic deliberation, and trade-offs that this framework can resolve for you.
+This is a map, not the territory. It's a tool for navigation, not a vehicle itself. It won't tell you the correct tax rate or the right healthcare system or whether your city should zone for more housing. Those are questions that require local knowledge, democratic deliberation, and trade-offs that this framework will not perform for you.
 
 The Ring won't settle every argument. It won't make difficult choices easy. It won’t eliminate legitimate disagreements about which habitat is primary with the others supporting in a given situation. Where exactly does family scale end and community scale begin? When should something be provided collectively versus left to voluntary coordination? How much market is too much in contexts that aren't pure exchange? These are real questions. They're hard for good reasons.
 
@@ -529,31 +529,31 @@ And sometimes the answer is: we need multiple tools at once. That's not confusio
 
 Once you can recognize scale errors, you'll start seeing them everywhere.
 
-You'll notice when politicians promise to run the government "like a business," and you'll catch the scale error. Government isn't a business. It operates at a different scale, with different obligations, serving people who can't exit the way customers can.
+You'll notice when politicians promise to run the government "like a business," and you'll catch the scale error. Government isn't a business. It operates in the Commons, with different obligations, serving people who can't exit the way customers can.
 
-You'll catch when activists demand that companies act "like a family," and you'll see the mismatch. Companies aren't families. They operate on different logic, at a different scale, with voluntary participation and price signals instead of unconditional obligation.
+You'll catch when activists demand that companies act "like a family," and you'll see the mismatch. Companies aren't families. They operate on different logic, in the Market, with voluntary participation and price signals instead of unconditional obligation.
 
 You'll spot when bureaucracies try to formalize what should stay informal, or when markets try to price what should stay priceless, or when voluntary networks try to handle what requires mandatory coordination.
 
-You'll have language for something you've always felt but couldn't quite name. You'll be able to say: "I see what you're pointing at. And I see the three other systems you're ignoring."
+You'll have language for something you've always felt but couldn't quite name. You'll be able to say: "I see what you're pointing at is the priority. And I see the three other systems that are contributing outcomes that you're ignoring."
 
 The next time someone tells you that people are fundamentally selfish, you can point to your family and your friendships and ask: "Selfish where? At what scale?" The next time someone insists we need more government, you can ask: "For what? At which scale? To coordinate what kind of activity?" The next time someone demands we privatize everything, you can ask: "Including what? At every scale? Even the things that fail when organized by markets?"
 
-You'll have a way to see that most political arguments aren't really about values. They're about scale. Both sides are often pointing at something real: a tool that works somewhere. But they're fighting because they can't see that the other person is looking at a different scale, a different context, a different kind of coordination problem.
+You'll have a way to see that most political disagreements aren't really about values. They're about scale (habitat we're in + logic we're using). Both sides are often pointing at something real: a logic that works somewhere. But they're fighting because they can't see that the other person is looking at a different habitat, maybe a different part of the context, a different kind of coordination problem.
 
 ## Three Questions to Ask
 
 Here are three diagnostic questions you can use to spot a scale error:
 
-1. **What habitat are we in?** (Family, Commons, Market, or Network?)
-2. **What scale does this system naturally operate at?** (Intimate, community, anonymous, or voluntary?)
-3. **What happens if we try to scale this logic beyond its natural habitat?**
+1. **What habitat(s) are we in?** (Family, Commons, Market, or Network?)
+2. **What logic are we using?** (Family, Commons, Market, or Network?)
+3. **Are we dealing with a scale error?** (Multiple habitats but single logic, mismatched habitat to logic, shifted habitat but kept previous logic?)
 
 These questions don't give you the answer. But they let you see the terrain. They let you diagnose when someone is trying to use the wrong tool at the wrong scale. And they let you navigate toward solutions that fit the scale you're actually operating in.
 
 You already do this. You already know not to run your family like a business or treat your friends like employees. You already know that some things work better at the neighborhood level and some things need to be national. The Ring just gives you language for what you're already doing.
 
-It gives you permission to be complex. To believe different things at different scales. To recognize that human social organization isn't a line from left to right, but a set of complementary systems that work together when they're each used at the right scale.
+It also gives you permission to be complex. To believe different things at different scales. To recognize that human social organization isn't a line from left to right, but a set of complementary systems that work together when they're each used at the right scale.
 
 You're not confused. You're a Ring navigator. And the world needs more of those.
 
@@ -561,7 +561,7 @@ You're not confused. You're a Ring navigator. And the world needs more of those.
 
 We don't have an ideology problem. We have a scale problem.
 
-We've been trying to flatten four dimensions onto one axis. We've been forcing people to pick teams when they should be picking tools. We've been treating complementary systems as competing ideologies, and then wondering why nothing works.
+We've been trying to flatten multiple dimensions onto one axis. We've been forcing people to pick teams when they should be picking tools. We've been treating complementary systems as competing ideologies, and then wondering why nothing works.
 
 The Ring shows us something different. It shows us that humans have developed multiple systems for multiple scales. That we navigate all of them every day. That the question isn't which system is right. It's which system fits which scale.
 
