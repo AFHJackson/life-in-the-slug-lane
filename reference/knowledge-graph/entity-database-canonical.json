@@ -432,8 +432,78 @@
           "Tribe: Family vs. Class vs. Nation vs. Religion vs. Party vs. Online community"
         ],
         "purpose": "Reveals why the left/right line fails - it treats orthogonal questions as if they were the same question",
+        "role_clarification": "DIAGNOSTIC framework for Chapter 2 - explains what the broken line flattens. Distinct from the OPERATIONAL 'Ring Operating Dimensions' which describe how the habitats themselves actually work. The Four Flattened Dimensions autopsy the old map; the Ring Operating Dimensions describe the new one.",
         "first_mention": "Chapter 2, Section 'What the Line Flattens'",
-        "related_entities": ["Flattening", "The Broken Line", "Scale", "Habitat Logic"]
+        "related_entities": ["Flattening", "The Broken Line", "Scale", "Habitat Logic", "Ring Operating Dimensions"]
+      },
+      {
+        "name": "Ring Operating Dimensions",
+        "type": "framework",
+        "definition": "The five spectrums that describe how the four habitats actually operate - distinct from the Four Flattened Dimensions which diagnose why the left/right line fails. These are the operational characteristics that differentiate the habitats and explain why each works at its proper scale.",
+        "definition_type": "book_original",
+        "role_clarification": "OPERATIONAL framework - describes how the Ring actually works. The Four Flattened Dimensions explain what the broken line compresses; the Ring Operating Dimensions describe the real territory the Ring maps.",
+        "components": [
+          {
+            "name": "Relationship Scale Spectrum",
+            "definition": "The type of relationships an individual experiences in a given habitat, ranging from individual-to-individual to individual-to-population.",
+            "poles": {
+              "individual_to_individual": "Anarchy and Communism habitats. The individual interacts with another person closely. They make guesses, take action, see results, and can adjust course. They can see how the same action plays out differently in different relationships. Real OODA loops operate here.",
+              "individual_to_population": "Capitalism and Socialism habitats. So many individual-to-individual relationships happen at once that the signals we use well in personal relationships start to cancel out and amplify like electromagnetic waves blending and changing each other in ways we cannot understand the original context. We must change our operation at this scale to draw from our given and formed identities as instrumentation that guide our actions while observing major land features (marketplace responses to specialized contributions, commons seams and margins) rather than tailoring interactions on an individual relationship basis."
+            },
+            "habitat_mapping": "Anarchy/Communism = individual-to-individual | Capitalism/Socialism = individual-to-population"
+          },
+          {
+            "name": "Authority-Sacrifice Proportionality Spectrum",
+            "definition": "The degree of centralization of authority, which runs proportionally with the level of sacrifice given in exchanges of value. The one who sacrifices most holds the authority.",
+            "poles": {
+              "decentralized_authority": "Anarchy habitat. Total decentralization. Individual authority and preference are commensurate with being the one who gets or fails to get what you want out of the exchange, with the ability to engage, withdraw, or change the terms of your offer as you see fit.",
+              "centralized_authority": "Communism/Family habitat. Near-total centralization. The parent defines and determines the terms of the exchange and its meaning, prioritizing and organizing exchanges. But they are also on the hook to maximally sacrifice and minimally gain - their good and return has been moved across the table and is now measured completely in the growth and benefit of the one in their charge."
+            },
+            "middle_positions": {
+              "marketplace": "Some authority centralization in regulations and policies, but individual actors retain substantial discretion",
+              "municipality": "Much more centralization in standardization of commons, but still accountable to those served"
+            },
+            "key_principle": "Authority must remain commensurate with sacrifice. High authority with low sacrifice = predation. High sacrifice with low authority = exploitation.",
+            "habitat_mapping": "Anarchy (decentralized) → Capitalism (partially decentralized) → Socialism (partially centralized) → Communism (highly centralized)"
+          },
+          {
+            "name": "Meaning of Exchange Spectrum",
+            "definition": "The degree to which the meaning and value of exchanges is individually determined vs. universally fixed by human nature.",
+            "poles": {
+              "individualized_meaning": "Capitalism and Anarchy side. The meaning of exchange is highly individualized, based on a complex mix of factors that can realistically only be measured by the individual and must be continuously updated as the environment they are subject to changes. Only YOU know what the $5.50 latte means in your specific context.",
+              "universal_meaning": "Socialism and Communism side. The truths of human species - we need food, water, shelter, clean air, safety, transportation - that do not change with age, culture, generation, or context. These are shared needs anchored in our common humanity."
+            },
+            "habitat_mapping": "Capitalism/Anarchy = individual preferences determine value | Socialism/Communism = shared human needs determine value"
+          },
+          {
+            "name": "Identity Role Spectrum (Formation vs. Function)",
+            "definition": "The degree to which identity is being formed vs. operating as an instrument for action.",
+            "poles": {
+              "identity_formation": "Anarchy and Communism habitats. Humans are having their identity crafted or created - by their family in childhood, or as they mature by their own choices, experiments, and goals in friendships and voluntary networks. Identity is being built.",
+              "identity_function": "Capitalism and Socialism habitats. Formed identities are operating as key action drivers and decision-making sources within specialization (marketplace) and commonwealth actions (municipality). Like instruments on the console of an aircraft blinded by fog or cloud, these formed identities allow the individual to still achieve goals and roles effectively where their natural individual-to-individual means are made insufficient by scale."
+            },
+            "key_insight": "You cannot skip the identity-forming habitats and expect to operate well in the identity-functioning habitats. Friendship is the practice ground for market and municipal life.",
+            "habitat_mapping": "Communism/Anarchy = identity being formed | Capitalism/Socialism = identity in operation"
+          },
+          {
+            "name": "Human Creation vs. Investment Spectrum",
+            "definition": "The degree to which a habitat serves as the location of human creation and development vs. human expression and investment. Unlike the authority-sacrifice spectrum which operates proportionally, this relationship is INVERSE.",
+            "poles": {
+              "creation_and_protection": "Family/Communism habitat. Maximum creation and formation of humans. Maximum protection. But MINIMUM expression of what someone will do and accomplish. The family is where humans are made, not where they shine.",
+              "expression_and_investment": "Anarchy/Friendship habitat. Maximum expression and investment of the formed person. Minimum creation (identity already formed). The expressions and investments of the formed person take full form through friendships and innovations."
+            },
+            "middle_positions": {
+              "commons_municipality": "Some protection (less than family), some expression beginning to appear",
+              "marketplace": "Specialization and contributions begin to light up expression and investment of formed identity"
+            },
+            "inverse_relationship": "The degree to which a habitat serves human creation is INVERSE to the degree it serves human expression. High creation = low expression. High expression = low creation.",
+            "habitat_mapping": "Communism (max creation, min expression) → Socialism → Capitalism → Anarchy (min creation, max expression)"
+          }
+        ],
+        "relationship_to_ring_compass": "These five spectrums inform and ground the four dials of the Ring Compass (Resolution, Value Basis, Authority Shape, Identity Carrier). The Ring Compass is the practical diagnostic tool; these spectrums are the deeper theory explaining why the compass works.",
+        "first_mention": "Developed for Chapters 7-10 navigation content",
+        "future_chapter_usage": "Chapters 7 (When Systems Touch), 8 (Ring Compass), 9 (Obligation to Excess), 10 (Stewardship)",
+        "related_entities": ["The Ring", "Habitat Logic", "Four Compass Dials", "The Ring Compass", "Four Flattened Dimensions", "Scale", "Instrument Flying"]
       },
       {
         "name": "Jersey Metaphor",
