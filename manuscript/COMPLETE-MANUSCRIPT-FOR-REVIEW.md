@@ -1428,15 +1428,19 @@ And this is also why the commons fails catastrophically when you try to stretch 
 
 The four rules don't just tell you when to use the commons. They tell you when to stop.
 
-## Section 2: Why This Scale Works
+## Section 2: Why This Logic Works
 
-The fire department works because it operates at exactly the right scale. Big enough to pool resources across enough households that the math works. Small enough that accountability is real, that responsiveness is fast, that coordination is possible.
+The fire department works because it applies the right logic to the right problem. It meets all four rules: shared need (humans need protection from fire), resource pooling (no individual could maintain standby capacity), impartiality (we will come, whoever you are), standardization (same protocols, same equipment, same response everywhere).
 
-Your city has maybe 200,000 people. That's large enough to fund professional full-time fire crews. Large enough that fires happen often enough to maintain skills and justify equipment. Large enough that resource pooling makes sense (no single household could afford the standby capacity, but 200,000 households together can).
+That's why fire departments work at the municipal level. And it's why national defense works at the federal level. And it's why the Coast Guard works across jurisdictions. The population size isn't what makes these systems work. The *logic* is what makes them work. The four rules apply whether you're protecting a town of 10,000 or a nation of 330 million.
 
-But it's small enough that response time matters. Small enough that you can still map the territory. Small enough that "we will come" is a real promise, not an abstract principle. Small enough that your vote on the fire department budget matters, that you can attend city council meetings if you want, that accountability isn't lost in bureaucratic distance.
+This is the crucial point: "scale" in this book doesn't mean population size. It means *which habitat's logic applies*. A scale error isn't using the wrong number of people. A scale error is using the wrong system's rules.
 
-Fire departments. Police departments. Sewage systems. Water treatment. Street lights. Parks. Libraries. National defense. Coast Guard. Interstate highways. These are the safety commons: the systems we fund collectively because they meet the four rules (shared needs, resource pooling, impartiality, standardization), because they operate at scales where collective funding makes sense, because they protect the ordinary functioning of daily life.
+Your local fire department and the Department of Defense both belong in the safety commons. Not because they're the same size (they're wildly different sizes). Because they meet the same four rules. Shared human need. Resource pooling that individuals couldn't achieve alone. Impartial provision regardless of who you are. Standardized delivery that works the same way every time.
+
+The military protects 330 million people. Your fire department protects 20,000. Both are socialist services. Both are correctly placed in the safety commons. The scale that matters isn't the headcount. It's the habitat.
+
+Fire departments. Police departments. Sewage systems. Water treatment. Street lights. Parks. Libraries. National defense. Coast Guard. Interstate highways. These are the safety commons: the systems we fund collectively because they meet the four rules (shared needs, resource pooling, impartiality, standardization), because applying commons logic to these domains produces good outcomes, because they protect the ordinary functioning of daily life.
 
 They're not glamorous. They're not ideologically charged. They're just infrastructure. The background hum of civilization. The reason you can sleep at night knowing that if something goes wrong, there's a system in place that will respond.
 
@@ -1777,7 +1781,7 @@ But where did the resources that BECAME taxes originally come from?
 
 From the surplus engine. From market activity. From people making things and selling things and buying things. From specialists trading with strangers through price. From the nail-maker selling ten thousand nails and paying taxes on the income. From the wheat farmer selling a hundred tons of grain. From the weaver selling a thousand shirts. From every transaction in the entire economy that generated surplus beyond the necessities and created enough discretionary resources that taxing them was possible.
 
-The fire truck is underwritten by markets. The safety commons is funded by surplus. Socialism (at municipal scale) works because capitalism (at population scale) generates enough excess that collective pre-funding becomes affordable.
+The fire truck is underwritten by markets. The safety commons is funded by surplus. The safety commons works (whether at the city level for fire departments or the national level for defense) because markets generate enough excess that collective pre-funding becomes affordable.
 
 This is the connection between habitats. The engine underwrites the commons. Markets fund safety. Surplus enables collective investment in readiness.
 
@@ -2117,9 +2121,9 @@ This is The Ring. Four distinct systems. Four different scales. Four different l
 
 You woke up this morning in family (maybe your own, maybe the one you built, maybe the one you're part of). Someone made breakfast. Someone else cleaned up. The books were uneven. Nobody counted. That's communism, at its proper scale, working exactly as it should.
 
-You drove to work on roads paid for by taxes. You stopped at traffic lights. You trust that fire trucks sit ready even though they're idle. You benefit from sewage treatment and water safety and the thousand invisible systems that make daily life possible. That's socialism, at municipal scale, working exactly as it should.
+You drove to work on roads paid for by taxes. You stopped at traffic lights. You trust that fire trucks sit ready even though they're idle. You benefit from sewage treatment and water safety and the thousand invisible systems that make daily life possible. That's socialism, applying commons logic to shared needs, working exactly as it should.
 
-You work at a job where you trade your labor for money. You buy things from strangers. You coordinate across vast supply chains through price signals. You benefit from specialization and surplus and the abundance created by markets. That's capitalism, at population scale, working exactly as it should.
+You work at a job where you trade your labor for money. You buy things from strangers. You coordinate across vast supply chains through price signals. You benefit from specialization and surplus and the abundance created by markets. That's capitalism, applying market logic to stranger coordination, working exactly as it should.
 
 And tonight you'll text a friend about dinner. Or scroll through a community you chose. Or volunteer for something you care about. Or coordinate something with people who could leave but choose to stay. That's anarchy, at friendship scale, working exactly as it should.
 
