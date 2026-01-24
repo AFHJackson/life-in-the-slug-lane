@@ -585,17 +585,49 @@
       {
         "name": "Four Rules of Socialism",
         "type": "framework",
-        "definition": "The four rules that focus safety services for collective funding: (1) Risk Pooling - sizing for worst days not average, (2) Time Pressure - emergencies are bad for shopping, (3) Impartiality - 'we will come, whoever you are', (4) Standardization - drilled competence that works in the dark",
+        "definition": "The four diagnostic rules for when commons provision is appropriate: (1) Shared Needs - species-level human needs, not individual preferences, (2) Resource Pooling - not feasible individually, achievable at commonwealth scale, (3) Impartiality - 'because we're humans together', (4) Standardization - consistent solutions deployable universally",
         "definition_type": "book_original",
         "components": [
-          "Risk Pooling: 'We build a shared system sized for the worst days, not the average ones'",
-          "Time Pressure: 'When your kid isn't breathing, you're not in a negotiation mood'",
-          "Impartiality: 'If you are in danger, we will come - whoever you are'",
-          "Standardization: 'You want the same CPR in every living room'"
+          "Shared Needs: 'Things humans need because they're human, not because of situation or preference'",
+          "Resource Pooling: 'Not feasible individually, but affordable through collective investment'",
+          "Impartiality: 'Because we're humans together - the family DNA at commonwealth scale'",
+          "Standardization: 'Consistent, reliable solutions that work the same way for everyone'"
         ],
-        "purpose": "Explains WHEN shared needs should be socialized - not ideology, but practical necessity",
-        "first_mention": "Chapter 4, 'When To Be Socialized' section",
-        "related_entities": ["Socialism (as municipality)", "Natural and Unnatural Habitats"]
+        "examples": [
+          "National defense: shared need for protection, pooled military funding, impartial defense of all citizens, standardized protocols",
+          "Wastewater treatment: shared need for waste processing, pooled infrastructure funding, impartial service to all residences, standardized treatment",
+          "Roads: shared need for transportation, pooled construction funding, impartial access, standardized engineering",
+          "Emergency response: shared need for rescue, pooled standby capacity, impartial response, standardized protocols",
+          "Police/public safety: shared need for order, pooled enforcement funding, impartial protection, standardized legal frameworks"
+        ],
+        "purpose": "Explains WHEN shared needs should be provided through commons - not ideology, but diagnostic criteria",
+        "first_mention": "Chapter 4, 'Four Rules of Socialism' section",
+        "related_entities": ["Socialism (as municipality)", "Natural and Unnatural Habitats", "Safety Commons", "Services vs Framework Distinction"]
+      },
+      {
+        "name": "Services vs Framework Distinction",
+        "type": "framework",
+        "definition": "The critical distinction between government *services* (fire departments, water treatment, national defense - specific functions that meet the four rules) and the *political framework* (legislative, judicial, constitutional structures that enable all habitats to operate). Services belong in the safety commons; the framework is not a service but the meta-structure within which services and all other habitats operate.",
+        "definition_type": "book_original",
+        "components": [
+          "Services: Specific functions government performs - fire, police, water, defense, roads. These are collectively funded, impartially delivered, standardized. Service logic applies.",
+          "Framework: The political order itself - legislative (deliberation), judicial (judgment), constitutional (rights). Not delivered TO citizens but constituted BY citizens. 'Of the people, by the people, for the people.'",
+          "Executive vs Framework: Services live in the executive branch but exist to serve the framework, not replace it."
+        ],
+        "key_distinctions": [
+          "Services are *received*; framework is *authored* by citizens",
+          "Fire departments should be standardized; legislatures should NOT be standardized",
+          "Courts are impartial differently than fire departments - justice requires attention to particulars, not identical treatment",
+          "Democracies exist TO debate; fire departments execute without debating"
+        ],
+        "scale_error_connection": {
+          "left_wing_error": "Collapses framework into service logic - runs the nation like a fire department, eliminating deliberation, rights, and limits on power",
+          "right_wing_error": "Dissolves framework into market logic - fails to recognize that markets need courts, property rights, and contract enforcement to exist"
+        },
+        "key_insight": "Government isn't socialist just because it runs socialist services. A democratic republic can have fire departments. The framework is the container; the habitats are what's inside.",
+        "purpose": "Prevents the catastrophic confusion of treating all of government as a service (leading to totalitarianism) or treating framework functions as unnecessary (leading to warlordism)",
+        "first_mention": "Chapter 4, 'Services Within Government, Not Government Itself' section",
+        "related_entities": ["Four Rules of Socialism", "Scale Error", "Safety Commons", "Political Framework"]
       },
       {
         "name": "Uber for House Fires",
