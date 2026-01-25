@@ -1584,7 +1584,7 @@ The fire truck doesn't generate wealth. It protects the systems that do. When a 
 
 But it's dependent. The commons needs something else to feed it. Something that runs on completely different logic.
 
-Where does surplus come from?
+How are we supposed to make them work together?
 
 ## Phase 3: You Already Are
 
@@ -1608,7 +1608,7 @@ That's the deal. The commons of safety. Socialism, services within a framework t
 
 And it only works because something else generates the surplus that funds it.
 
-How are we supposed to make them work together?
+So where does surplus come from?
 
 ---
 
