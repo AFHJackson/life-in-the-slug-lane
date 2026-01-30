@@ -800,6 +800,23 @@
         "related_entities": ["Anarchy (as friendship)", "Obligation to Excess"]
       },
       {
+        "name": "Identity-Habitat Dependency Chain",
+        "type": "framework",
+        "definition": "The mutual dependency where each habitat both provides something essential to another habitat AND receives something essential in return. Family gives safety commons the concept of shared humanity; safety commons gives family the protection to exist. Friendship gives markets a self that knows what it values; markets give friendship the specialization to make voluntary help powerful.",
+        "definition_type": "book_original",
+        "builds_on": "Identity Formation Through Friendship, Underwriting the Other Habitats",
+        "components": [
+          "Family → Safety Commons: Family teaches that human beings have worth before production, creating the moral foundation for 'we will come, whoever you are'",
+          "Safety Commons → Family: Protection enables families to exist and flourish without constant threat",
+          "Friendship → Markets: Chosen identity through voluntary relationships gives participants preferences and self-knowledge to bring to market exchanges",
+          "Markets → Friendship: Specialization developed in marketplace provides skills that make voluntary help valuable in friendship networks"
+        ],
+        "key_insight": "Individual-to-individual relationships (family and friendship) make individual-to-population systems (safety commons and markets) possible. Without the identity formed in intimate relationships, population-scale coordination would have no moral foundation or preference structure to work with.",
+        "chapter_5_location": "Chapter 5, 'Families and Friendships' section under 'When the Engine Eats the House'",
+        "first_mention": "Chapter 5 (extended treatment); referenced in Chapters 6, 8, 9",
+        "related_entities": ["Identity Formation Through Friendship", "Underwriting the Other Habitats", "When the Engine Eats the House", "Scale Error", "The Ring"]
+      },
+      {
         "name": "The Cajun Navy",
         "type": "story_example",
         "definition": "Example of friendship/anarchy backstopping safety: 'loose network of boat owners coordinating via social media and handheld radios' during floods and hurricanes. 'No government agency hired them. Nobody can order them into or out of the water. They form spontaneously out of existing friendships, shared identities, and online networks, then dissolve when the immediate need passes.'",
