@@ -10,18 +10,36 @@
 
 ---
 
+## CRITICAL TERMINOLOGY: SURPLUS vs. EXCESS
+
+**This distinction is FUNDAMENTAL to the chapter and MUST be maintained throughout:**
+
+| Term | Definition | Character |
+|------|------------|-----------|
+| **SURPLUS** | Buffer beyond necessities. Security, reinvestment, growth. The "four thousand nails." | Protection—you SHOULD maintain this |
+| **EXCESS** | Capacity beyond what can be sold or buffered. Freedom to risk or give. The "thousand nails nobody needs." | Obligation—you MUST move this |
+
+**Common Error to AVOID:** Conflating surplus and excess. Surplus is your security; excess is your responsibility. The obligation is to EXCESS, not to surplus.
+
+**Verification for Generation:** Every use of "surplus" or "excess" should be checked against these definitions. They are NOT interchangeable.
+
+---
+
 ## LAYER 1: CROSS-CHAPTER THREAD MAPPING
 
 ### Threads This Chapter Receives:
 
 | Thread | From | How It Lands Here |
 |--------|------|-------------------|
-| Three-Pile Framework | Ch 5 | Reviewed, tested, applied |
+| Three-Pile Framework | Ch 5 | Reviewed, tested, applied with CORRECT terminology |
 | Markets generate surplus | Ch 5 | Foundation for excess |
-| Key outlet for excess (friendship) | Ch 6 | One channel for deployment |
-| Four Generosity Expressions | Ch 8 | Generosity is habitat-specific |
+| **Friendship as Outlet for Excess** | **Ch 6** | **CRITICAL THREAD: Full bloom here. Friendship is the PRIMARY channel for generosity** |
+| **Trust/Reputation/Exit Infrastructure** | **Ch 6** | **Explains WHY friendship is natural outlet—you give to people you trust** |
+| **Moving Day Scene** | **Ch 6** | **Returns as EXCESS example—capacity beyond needs, not sacrifice** |
+| **Cajun Navy** | **Ch 6** | **Returns as EXCESS example—idle boats deployed through friendship networks** |
+| Four Generosity Expressions | Ch 8 | Generosity is habitat-specific; friendship is primary |
 | Ring navigation | Ch 1-8 | Navigate all habitats with excess |
-| Communist Christmas | Ch 7 | Market produces, family distributes |
+| Communist Christmas | Ch 7 | Market produces, family distributes, excess → joy |
 | Excellence emerges | Prologue, Ch 5 | Excellence → Surplus → Excess |
 
 ### Threads This Chapter Plants Forward:
@@ -31,6 +49,7 @@
 | Malia the Baker | Opening story | Ch 10 (callback), Epilogue | Full story with all beats |
 | Obligation to Excess | Core ethic | Ch 10, Epilogue | Discovery or generosity |
 | Two Paths (Discovery/Generosity) | Framework | Ch 10, Appendix | Both valid; choose wisely |
+| Friendship as Primary Channel | **MATURED HERE** | Ch 10 | Cultivate friendship infrastructure |
 | Hoarding as Failure | Pattern | Ch 10, Epilogue | Excess must move |
 | Sustainable Generosity | Principle | Ch 10, Epilogue | Give from third pile only |
 | Vocation as Excellence | Key insight | Ch 10 (stewardship) | Excellence is the engine |
@@ -47,6 +66,7 @@
 - What navigation produces → what you do with it
 - Obligation (not guilt) is the key distinction
 - Discovery AND generosity are valid (not either/or)
+- **Friendship is the PRIMARY channel for voluntary generosity** (Ch 6 thread blooms)
 - Hoarding is the only failure mode
 - Reader should feel: "I see my excess clearly now"
 
@@ -60,7 +80,11 @@
 |--------|---------|-------|----------------------|
 | Malia the Baker (Hilo Story) | Phase 1 | Opening story | Full new content from new-content-ch9-malia-excess.md |
 | The Widow's Mite Reframe | Phase 1 | Supporting story | "Matter of trust, not amount" |
-| Three-Pile Framework | Section 1 | Reviewed | Necessities/Surplus/Excess |
+| Three-Pile Framework | Section 1 | Reviewed | Necessities/Surplus/Excess—**CORRECT TERMINOLOGY** |
+| **Friendship as Outlet for Excess** | **Section 2** | **THREAD MATURATION** | **Friendship is primary channel because trust/rep/exit infrastructure** |
+| **Trust/Reputation/Exit Infrastructure** | **Section 2** | **Thread from Ch 6** | **Explains WHY friendship is natural outlet** |
+| **Moving Day Scene** | **Section 2** | **Returns from Ch 6** | **EXCESS example—capacity beyond needs** |
+| **Cajun Navy** | **Section 2** | **Returns from Ch 6** | **EXCESS deployed through friendship networks** |
 | Mechanism of Influence | Section 1 | Framework | Excellence → Surplus → Excess → Influence |
 | Two Paths (Discovery/Generosity) | Section 2 | Core framework | Both valid outlets for excess |
 | Sustainable Generosity | Section 2 | Principle | "Give from the third pile" |
@@ -79,9 +103,12 @@
 ### Terminology Precision:
 - "Obligation" NOT "guilt" (obligation activates, guilt paralyzes)
 - "Excess" NOT "wealth" (excess is discretionary, wealth is assets)
+- **"Surplus" NOT "excess" when referring to buffer/security** (CRITICAL DISTINCTION)
+- **"Excess" NOT "surplus" when referring to capacity beyond buffer** (CRITICAL DISTINCTION)
 - "Two Paths" is the canonical term
 - "Sustainable Generosity" is the canonical term
 - "Hoarding" NOT "saving" (buffer is good; hoarding is frozen excess)
+- **"Friendship as Outlet for Excess"** is the canonical term for Ch 6 thread maturation
 
 ---
 
@@ -140,15 +167,25 @@ Each verification should test:
    - Surfaces: Allocation between discovery and generosity
    - Creates recognition: "I can choose more deliberately"
 
-5. **"Have you noticed that more buffer doesn't reduce anxiety about having enough?"**
+5. **"Think about the most meaningful generosity you've given or received. Did it flow through an institution or through a relationship?"** *(Thread from Ch 6)*
+   - Tests: Friendship as natural channel
+   - Surfaces: Trust/relationship as infrastructure for giving
+   - Creates recognition: "Friendship is where excess becomes genuine gift"
+
+6. **"Have you noticed that more buffer doesn't reduce anxiety about having enough?"**
    - Tests: Hoarding psychology
    - Surfaces: "The goalpost moves"
    - Creates recognition: "That's the psychology of hoarding"
 
-6. **"What needs do you see that others miss?"**
+7. **"What needs do you see that others miss?"**
    - Tests: Jobs-to-be-done visibility
    - Surfaces: Unique positioning for excess deployment
    - Creates recognition: "Only I can deploy my excess this way"
+
+8. **"Who in your trust network needs what you have in excess?"** *(Thread from Ch 6)*
+   - Tests: Friendship infrastructure awareness
+   - Surfaces: Specific people you could help
+   - Creates recognition: "I have a network for deploying excess"
 
 ---
 
@@ -376,47 +413,59 @@ After Sonnet generates, Opus validates:
 1. **Entity Precision:**
    - [ ] Malia story includes all key beats (8→100→excess, Tyler, Mrs. Chen, shelters)
    - [ ] Widow's Mite reframe is about trust, not amount
-   - [ ] Three Piles reviewed with clarity
+   - [ ] Three Piles reviewed with CORRECT surplus/excess terminology
    - [ ] Mechanism of Influence stated
    - [ ] Both paths equally validated
    - [ ] All three hoarding failures included
 
 2. **Thread Payoffs:**
-   - [ ] Three-Pile Framework from Ch 5 → reviewed and tested
+   - [ ] Three-Pile Framework from Ch 5 → reviewed and tested with correct terminology
+   - [ ] **Friendship as Outlet for Excess from Ch 6 → FULL BLOOM with verification**
+   - [ ] **Trust/Reputation/Exit from Ch 6 → explains WHY friendship is natural outlet**
+   - [ ] **Moving Day from Ch 6 → returns as EXCESS example (capacity beyond needs)**
+   - [ ] **Cajun Navy from Ch 6 → returns as EXCESS example (idle boats through trust network)**
    - [ ] Four Generosity Expressions from Ch 8 → applied
-   - [ ] Markets generate surplus from Ch 5 → extended
 
 3. **Thread Planting:**
    - [ ] Malia available for Ch 10 callback
    - [ ] Obligation to Excess available for Epilogue
    - [ ] Two Paths available for Ch 10
+   - [ ] **Friendship as Primary Channel established for Ch 10 cultivation**
    - [ ] "Who am I inside this?" available for Ch 10
 
-4. **Voice Architecture:**
+4. **Terminology Verification:**
+   - [ ] Every use of "surplus" refers to buffer/security (Pile 2)
+   - [ ] Every use of "excess" refers to beyond-buffer capacity (Pile 3)
+   - [ ] The two terms are NEVER used interchangeably
+   - [ ] "Obligation to Excess" never becomes "Obligation to Surplus"
+
+5. **Voice Architecture:**
    - [ ] Phase 1 is 12% ± 3% (warmth, progression)
    - [ ] Phase 2 is 68% ± 5% (testing, verifying)
    - [ ] Phase 3 is 20% ± 3% (equipping)
 
-5. **Verification Invitations:**
-   - [ ] At least 6 present in D phase
+6. **Verification Invitations:**
+   - [ ] At least 8 present in D phase
    - [ ] Surplus identification tested
    - [ ] Excess identification tested
    - [ ] Allocation tested
+   - [ ] **Friendship as channel tested** (new from Ch 6 thread)
    - [ ] Hoarding tested
 
-6. **Scope Discipline:**
+7. **Scope Discipline:**
    - [ ] No Matt's Week (save for Ch 10)
    - [ ] No full stewardship (save for Ch 10)
    - [ ] Limits acknowledged
    - [ ] No prescribing specific actions
 
-7. **Transitions:**
+8. **Transitions:**
    - [ ] From Ch 8: delivers excess obligation
    - [ ] Internal: bridges between all sections
-   - [ ] To Ch 10: plants stewardship need
+   - [ ] To Ch 10: plants stewardship need and friendship infrastructure cultivation
 
-8. **Reader Milestone:**
+9. **Reader Milestone:**
    - [ ] Achievable: "I recognize my own excess and what it asks of me"
+   - [ ] **Bonus:** "I see that friendship is where excess becomes genuine gift"
 
 ---
 
@@ -441,6 +490,15 @@ These passages MUST appear or be closely paraphrased:
 
 6. **The Malia Summary:**
 > "Not because she had to. Because she could. Because she'd gotten so good that she'd moved past necessity, past surplus, into the strange and wonderful territory of excess."
+
+7. **The Friendship Channel (Thread from Ch 6):**
+> "The generosity that moves the world isn't the anonymous donation. It's the neighbor who shows up on moving day. It's the Cajun Navy. It's Malia's 40 extra loaves to shelters she knows. It flows through friendship—through trust, through relationship, through networks you maintain."
+
+8. **The Abundance Source:**
+> "Abundant generosity doesn't usually come from burning your last loaf of bread for a stranger. It comes from an obligation to excess—from pursuing mastery until you reliably produce more than you personally need or can use."
+
+9. **The Surplus/Excess Distinction:**
+> "Surplus is your margin of safety. Excess is your margin of meaning."
 
 ---
 

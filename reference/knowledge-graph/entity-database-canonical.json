@@ -107,10 +107,11 @@
         "introduction_formulation": "'from voluntary cooperation to complex self-adapting natural systems — the logic of friendships, volunteer networks, and other forms of emergent order'",
         "chapter_6_definition": "Chapter 6 full definition: 'From voluntary cooperation, to complex self-adapting natural systems.' Not absence of order but 'order that grows from the bottom up as people freely coordinate around shared interests, norms, and trust.' Operating system of friend groups, hobby clubs, volunteer teams, open-source projects, neighborhood mutual aid, and even slug lines. Runs on 'trust: who you say your are, what you can do, what your intentions are toward others, and how you follow through' - 'the space where almost everything important in your life happens when you are off the clock.'",
         "chapter_6_infrastructure": "Trust and reputation hold friendship/anarchy together: Trust - seeded in charima nurtured by accumulated experience, 'an emergent property of human experinece intitally established in charisma (who someone is, what they can do, and what are their intentions toward you)', then nurtured by the experience overtime of their successful follow-through on their commitements.  Reputation - the stories told by other who trust you, about you, often when you are not there or during an introduction to a new person or group.",
+        "chapter_6_excess_connection": "Friendship/anarchy is the natural OUTLET for excess capacity. When individuals achieve excess through mastery and specialization (capacity beyond what can be sold or needed for security), voluntary networks provide the channel for deploying that excess through generosity. Moving Day, Cajun Navy, meal trains—all run on excess, not sacrifice. 'Sustainable generosity doesn't come from burning your last loaf of bread. It comes from producing more than you need—and friendship is where that \"more\" finds its natural outlet.'",
         "chapter_9_practice_ground": "Chapter 9 positions friendship/anarchy as essential middle layer: 'If you want to operate with integrity at population scale, you can't skip the practice ground.' Through 'repeated practice in these voluntary networks, certain traits harden into character': reliability, integrity, courage, kindness. 'You need the middle layer—the friendships, the teams, the communities of practice—where you practice being the kind of person you want to be when the stakes are high and no one's forcing you.'",
         "first_mention": "Prologue, paragraph 68",
         "context": "Part of the four systems that each have appropriate scales",
-        "related_entities": ["Four Habitats", "Scale", "Voluntary Networks", "Emergent Order", "Trust/Reputation Infrastructure", "Identity Formation Through Friendship", "The Practice Ground"]
+        "related_entities": ["Four Habitats", "Scale", "Voluntary Networks", "Emergent Order", "Trust/Reputation Infrastructure", "Identity Formation Through Friendship", "The Practice Ground", "Friendship as Outlet for Excess", "Obligation to Excess"]
       },
       {
         "name": "Witching Hour",
@@ -786,18 +787,46 @@
         "definition_type": "book_coined",
         "builds_on": "Socialism (as municipality), Four Rules of Socialism",
         "key_example": "Cajun Navy - 'loose network of boat owners coordinating via social media and handheld radios... form spontaneously, dissolve when immediate need passes'",
+        "mechanism_note": "The volunteers who backstop safety are deploying EXCESS capacity—boats sitting in driveways, time beyond their own needs, skills honed through specialization. This is not sacrifice of necessities but deployment of abundance through voluntary channels.",
         "first_mention": "Chapter 6, 'How Friendship and Anarchy Backstop the Commons of Safety' section",
-        "related_entities": ["Socialism (as municipality)", "Emergent Order"]
+        "related_entities": ["Socialism (as municipality)", "Emergent Order", "Friendship as Outlet for Excess"]
+      },
+      {
+        "name": "Friendship as Outlet for Excess",
+        "type": "concept",
+        "definition": "Voluntary networks/friendship are the primary OUTLET for excess capacity (distinguished from surplus/buffer). When individuals achieve excess through mastery and specialization—capacity beyond what can be sold or needed for security—friendship and voluntary networks provide the natural channel for deploying that excess through generosity. This is the 'generosity path' of the Obligation to Excess, seeded in Chapter 6 and fully developed in Chapter 9.",
+        "definition_type": "book_coined",
+        "builds_on": "Three-Pile Framework, Obligation to Excess, Anarchy (as friendship)",
+        "critical_distinction": {
+          "surplus": "Buffer beyond necessities—security, reinvestment, growth. The 'four thousand nails' that build stability. NOT available for free deployment.",
+          "excess": "Capacity beyond what can be sold or is needed for security. The 'thousand nails nobody needs.' CAN be risked or given freely without threatening survival or security."
+        },
+        "key_insight": "Sustainable generosity doesn't come from burning your last loaf of bread (sacrificing necessities). It comes from producing more than you need—and friendship is where that 'more' finds its natural outlet. Not invoiced. Not obligated. Just given, because you can, to people who need it.",
+        "examples": [
+          "Moving Day: Friends deploy excess capacity (time, energy beyond their own needs) voluntarily to help someone move",
+          "Cajun Navy: Boat owners have boats as excess capacity—can be risked in floodwaters without threatening their own security",
+          "Meal trains: Community members with excess cooking capacity share with someone in crisis",
+          "Mentorship: Experts with excess knowledge invest in developing others without transactional return"
+        ],
+        "chapter_flow": {
+          "chapter_5": "Three-Pile Framework introduced: Necessities → Surplus → Excess. 'Excess is where sustainable generosity lives.'",
+          "chapter_6": "SEEDED: Friendship shown as natural outlet for excess. Moving Day, Cajun Navy illustrate excess flowing through voluntary networks.",
+          "chapter_9": "FULLY DEVELOPED: Obligation to Excess with Two Paths (Discovery or Generosity). Friendship/voluntary networks are the generosity path."
+        },
+        "verification_invitation": "Think about the last time you helped someone without being asked. Did that generosity require you to sacrifice necessities? Or did it come from your excess—capacity beyond your own needs?",
+        "first_mention": "Chapter 6, 'Friendship as Outlet for Excess' section",
+        "related_entities": ["Three-Pile Framework", "Obligation to Excess", "Anarchy (as friendship)", "Sustainable Generosity", "The Cajun Navy", "The Moving Day Scene"]
       },
       {
         "name": "Key Outlet of Obligation to Excess",
         "type": "concept",
-        "definition": "Friendships, co-workers, volunteer networks, and local community connections are often where the excess of mature specialization can be insightfully deployed in individual-to-individual scales.",
+        "definition": "Friendships, co-workers, volunteer networks, and local community connections are often where the excess of mature specialization can be insightfully deployed in individual-to-individual scales. This is the 'generosity path' of the Obligation to Excess—distinct from the 'discovery path' of innovation and risk-taking.",
         "definition_type": "book_coined",
-        "builds_on": "Obligation to Excess",
-        "ethical_implication": "Friendship habitat is 'the training ground for built identity. We have the chance to chose who we want to be and try out different ways of being better.  In our friendships, we can fail and try again because we leverage the trust and reputation infrastructure that holds the habitat together.'",
+        "builds_on": "Obligation to Excess, Three-Pile Framework",
+        "ethical_implication": "Friendship habitat is 'the training ground for built identity. We have the chance to chose who we want to be and try out different ways of being better. In our friendships, we can fail and try again because we leverage the trust and reputation infrastructure that holds the habitat together.'",
+        "terminology_note": "See 'Friendship as Outlet for Excess' for fuller development. Key: this is about EXCESS (freedom/abundance) not SURPLUS (buffer/security).",
         "first_mention": "Chapter 6, 'Practicing Neighbor-Love' section",
-        "related_entities": ["Anarchy (as friendship)", "Obligation to Excess"]
+        "related_entities": ["Anarchy (as friendship)", "Obligation to Excess", "Friendship as Outlet for Excess", "Three-Pile Framework"]
       },
       {
         "name": "Identity-Habitat Dependency Chain",

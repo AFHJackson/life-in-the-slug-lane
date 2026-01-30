@@ -7,6 +7,32 @@
 
 ---
 
+## CRITICAL TERMINOLOGY: SURPLUS vs. EXCESS
+
+**This distinction is FUNDAMENTAL to the chapter and MUST be maintained throughout:**
+
+| Term | Definition | Character |
+|------|------------|-----------|
+| **SURPLUS** | Buffer beyond necessities. Security, reinvestment, growth. The "four thousand nails." | Protection—you SHOULD maintain this |
+| **EXCESS** | Capacity beyond what can be sold or buffered. Freedom to risk or give. The "thousand nails nobody needs." | Obligation—you MUST move this |
+
+**Common Error to AVOID:** Conflating surplus and excess. Surplus is your security; excess is your responsibility. The obligation is to EXCESS, not to surplus.
+
+---
+
+## THREADS RECEIVED FROM PREVIOUS CHAPTERS
+
+| Thread | What Previous Chapter Planted | What Chapter 9 Does With It |
+|--------|-------------------------------|----------------------------|
+| **Three-Pile Framework** (Ch 5) | Markets generate surplus beyond necessities | Full ethical development: surplus → excess → obligation |
+| **Friendship as Outlet for Excess** (Ch 6) | **CRITICAL THREAD.** Friendship operates on trust/reputation/exit; handles what institutions can't; is where excess can be deployed freely | **FULL BLOOM.** Friendship is the PRIMARY outlet for generosity because it has the right infrastructure |
+| **Moving Day Scene** (Ch 6) | Neighbors gave time/muscle freely | Returns as EXCESS example—they gave from capacity beyond their needs |
+| **Cajun Navy** (Ch 6) | Boat owners deploying boats through trust networks | Returns as EXCESS example—excess capacity (idle boats) deployed through friendship infrastructure |
+| **Trust/Reputation/Exit** (Ch 6) | Lightweight infrastructure enabling friendship | Explains WHY friendship is the natural outlet—you give to people you trust, who you chose, whom you can leave |
+| **Four Generosity Expressions** (Ch 8) | Each habitat has different giving mode | Excess fuels ALL expressions, but friendship channel is primary for voluntary gift |
+
+---
+
 ## PURPOSE
 
 Chapter 9 creates three recognitions:
@@ -15,12 +41,15 @@ Chapter 9 creates three recognitions:
 2. **Path recognition:** "I can see two valid paths—discovery or generosity"
 3. **Failure recognition:** "I can spot hoarding (in myself and others)"
 
-This chapter is the ETHICAL CORE of the book. The reader has learned to navigate. Now they must recognize what to do with what navigation produces. Markets generate surplus → surplus becomes excess → excess creates obligation.
+**ADDITIONAL RECOGNITION (thread maturation):**
+4. **Channel recognition:** "I can see that friendship is where excess becomes genuine gift"
+
+This chapter is the ETHICAL CORE of the book. The reader has learned to navigate. Now they must recognize what to do with what navigation produces. Markets generate surplus → surplus becomes EXCESS → EXCESS creates obligation → Friendship is where obligation flows most naturally.
 
 **The I→D→G Flow:**
 - **I:** Malia the Baker creates recognition of the progression from excellence to excess
-- **D:** Reader tests the Two Paths against their own resources and situation
-- **G:** Reader recognizes their own excess and what it asks of them
+- **D:** Reader tests the Two Paths against their own resources; learns WHY friendship is the natural channel
+- **G:** Reader recognizes their own excess, their friendship infrastructure, and what both ask of them
 
 ---
 
@@ -217,6 +246,47 @@ Excellence → Surplus → Excess → Discovery/Generosity → Influence
 
 **VERIFICATION INVITATION:**
 > "Think about the most meaningful generosity you've experienced—given or received. Was it sustainable? Did it come from someone's excess, or did it require self-sacrifice? What made it possible?"
+
+---
+
+**WHY FRIENDSHIP IS THE NATURAL OUTLET (Thread Maturation from Chapter 6):**
+
+> "The generosity that moves the world isn't the anonymous donation. It's the neighbor who shows up on moving day. It's the Cajun Navy. It's Malia's 40 extra loaves. It flows through friendship."
+
+**Chapter 6 Callback Blooms Here:**
+
+| Chapter 6 Planted | Chapter 9 Harvests |
+|-------------------|-------------------|
+| Friendship operates on trust/reputation/exit | You give to people you TRUST will use it well |
+| Friendship is voluntary (exit exists) | When you can leave, your gift is GENUINE, not obligated |
+| Friendship handles what institutions can't | Your excess reaches needs that institutions miss |
+| Moving Day: neighbors gave time/muscle | They gave from EXCESS—capacity beyond their needs |
+| Cajun Navy: boats deployed through trust | EXCESS capacity (idle boats) flowing through friendship infrastructure |
+
+**Why This Matters:**
+- Friendship provides the infrastructure for generosity:
+  - **Trust:** You know the recipient; you trust their use of the gift
+  - **Reputation:** You maintain relationship, not just transaction
+  - **Exit:** Your giving is voluntary—you COULD keep it or leave
+  - **No Invoice:** The gift is pure, not tracked or owed
+- This is why "abundant generosity doesn't usually come from burning your last loaf of bread for a stranger. It comes from an obligation to excess—from pursuing mastery until you reliably produce more than you personally need or can use."
+
+**VERIFICATION INVITATION (Thread from Ch 6):**
+> "Think about the most meaningful generosity you've given or received. Did it flow through an institution, or through a relationship? Was there trust involved? Did it feel like a gift or a transaction? Friendship is where excess becomes genuine gift."
+
+**Moving Day Returns:**
+- The neighbors who showed up weren't sacrificing necessities
+- They had excess capacity—time and muscle they could afford to share
+- The trust infrastructure made it flow: they knew you, you knew them, there was no invoice
+- "This is what it looks like when friendship becomes the outlet for excess"
+
+**Cajun Navy Returns:**
+- Boat owners had EXCESS capacity—boats sitting idle during their off-season
+- The crisis created need; the friendship infrastructure created channel
+- They didn't mail boats to strangers—they deployed through networks of trust and chosen identity
+- "Excess capacity, friendship infrastructure, genuine gift"
+
+---
 
 **Why Generosity Matters:**
 - Not everyone has excess yet
@@ -458,6 +528,10 @@ Excellence → Surplus → Excess → Discovery/Generosity → Influence
 | Malia the Baker (Hilo Story) | Story entry | I (progression seen) |
 | The Widow's Mite Reframe | Supporting | I (reframed) |
 | Three-Pile Framework | Reviewed from Ch 5 | D (verified) |
+| **Friendship as Outlet for Excess** | **THREAD FROM CH 6** | **D (BLOOMS HERE)** |
+| Trust/Reputation/Exit Infrastructure | Thread from Ch 6 | D (explains channel) |
+| Moving Day Scene | Returns from Ch 6 | D (excess example) |
+| Cajun Navy | Returns from Ch 6 | D (excess example) |
 | The Mechanism of Influence | Framework | D (recognized) |
 | Two Paths (Discovery/Generosity) | Core framework | D (tested) |
 | Sustainable Generosity | Concept | D (verified) |
@@ -466,6 +540,19 @@ Excellence → Surplus → Excess → Discovery/Generosity → Influence
 | Jobs to Be Done | Supporting concept | D (recognized) |
 | Call to Self-Discipline | Application | G (equipped) |
 | The Useful Question | Framework | G (applied) |
+
+---
+
+## THREAD MATURATION CHECKLIST
+
+**Chapter 9 must explicitly:**
+- [ ] Return to the Three-Pile Framework from Ch 5 with CORRECT terminology (surplus ≠ excess)
+- [ ] Reference Moving Day as an EXCESS story (capacity beyond needs, not sacrifice)
+- [ ] Reference Cajun Navy as EXCESS deployed through FRIENDSHIP infrastructure
+- [ ] Explain WHY friendship is the natural outlet (trust/rep/exit from Ch 6)
+- [ ] Include verification invitation for friendship as generosity channel
+- [ ] Connect Malia's giving to friendship infrastructure (she gives through relationships)
+- [ ] Make clear that institutional giving is valid but friendship giving is PRIMARY for voluntary gift
 
 ---
 

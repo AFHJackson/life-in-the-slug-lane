@@ -7,6 +7,22 @@
 
 ---
 
+## THREADS RECEIVED FROM ALL PREVIOUS CHAPTERS
+
+| Thread | Journey Through Book | How Chapter 10 COMPLETES It |
+|--------|---------------------|----------------------------|
+| The Ring | Prologue → Chs 3-6 → completion | Full integration: four habitats as navigation wisdom |
+| Three-Pile Framework | Ch 5 introduces, Ch 9 develops | Steward manages all three piles consciously |
+| **Friendship as Outlet for Excess** | **Ch 6 seeds, Ch 9 matures** | **Steward CULTIVATES friendship infrastructure as primary generosity channel** |
+| **Trust/Reputation/Exit** | **Ch 6 introduces** | **Steward maintains trust networks in all contexts** |
+| Navigation Skill | Ch 8 provides compass | Steward navigates fluently between all habitats |
+| Identity Formation | Ch 6: Groups choose who they become | Steward consciously shapes identity through choices |
+| Obligation to Excess | Ch 9 develops fully | Steward moves excess through appropriate channels |
+
+**CRITICAL NOTE:** Matt's Week should show him MAINTAINING his friendship infrastructure—not just using it when convenient, but actively cultivating trust networks as ongoing practice.
+
+---
+
 ## PURPOSE
 
 Chapter 10 creates three recognitions:
@@ -14,13 +30,14 @@ Chapter 10 creates three recognitions:
 1. **Identity recognition:** "I am a steward, not just a learner"
 2. **Posture recognition:** "Stewardship is operating wisely inside systems I didn't create"
 3. **Possibility recognition:** "I can see what becomes possible with this framework"
+4. **Infrastructure recognition (from Ch 6):** "I must cultivate friendship infrastructure as ongoing practice"
 
-This chapter is the CULMINATION. Reader has all four habitats, can navigate hybrids, understands obligation to excess. Now they recognize their identity: I am a steward of The Ring.
+This chapter is the CULMINATION. Reader has all four habitats, can navigate hybrids, understands obligation to excess. Now they recognize their identity: I am a steward of The Ring. **Key integration from Ch 6/9:** A steward maintains friendship infrastructure as the primary channel for generous flow—not just when crisis demands it, but as ongoing cultivation.
 
 **The I→D→G Flow:**
-- **I:** Matt's Week shows integrated Ring navigation in action—the reader sees what mastery looks like
+- **I:** Matt's Week shows integrated Ring navigation in action—including cultivation of trust networks
 - **D:** Reader tests stewardship definition against their own life and verifies the pattern
-- **G:** Reader recognizes themselves as a Ring navigator going forward
+- **G:** Reader recognizes themselves as a Ring navigator who maintains friendship infrastructure
 
 ---
 
@@ -56,16 +73,21 @@ This chapter is the CULMINATION. Reader has all four habitats, can navigate hybr
    - "Takes one to know one"—he can smell a bad contract
    - They table the proposal. Home at 9:15, Carol saved dinner.
 
-3. **Wednesday: The Scholarship Sale (Friendship/Commons hybrid)**
+3. **Wednesday: The Scholarship Sale (Friendship habitat—MAINTAINING INFRASTRUCTURE)**
    - Rotary at 7 AM, Matt stands up: "Trade schools."
    - Shows photo of Tyler from career fair—wants marine mechanics, didn't know scholarship existed
    - Uses sales techniques to sell possibilities, not boats
+   - **Ch 6/9 thread integration:** This is Matt CULTIVATING his friendship infrastructure
+   - He doesn't just show up when he needs something—he maintains the trust network
+   - Regular deposits (showing up, contributing, being useful) enable withdrawals (Tyler's scholarship)
    - Club votes unanimously for trade school priority
 
-4. **Friday: The Volunteer Event (Friendship habitat)**
+4. **Friday: The Volunteer Event (Friendship habitat—EXCESS DEPLOYED)**
    - Pickleball tournament fundraiser for Habitat for Humanity
    - Donated equipment, got sponsors, but declines speaking role
    - "I'm just here to help. You say the words. I'll keep the water station stocked."
+   - **Ch 6/9 thread integration:** This is EXCESS capacity (time, connections, energy) deployed through FRIENDSHIP
+   - He's not giving from necessities or burning his surplus—he has excess and it flows through trust networks
    - Voluntary. Emergent. He just needs to show up and be useful.
 
 5. **Sunday: The Integration (Family habitat)**

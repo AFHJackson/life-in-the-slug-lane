@@ -7,6 +7,17 @@
 
 ---
 
+## THREADS RECEIVED FROM CHAPTER 6
+
+| Thread | What Chapter 6 Planted | What Chapter 7 Does With It |
+|--------|------------------------|----------------------------|
+| Trust/Reputation/Exit Infrastructure | Friendship operates through lightweight trust infrastructure | Shows this infrastructure is the "GLUE" that holds hybrids together |
+| Friendship Backstops Municipality | Friendship handles what institutions can't reach | Expands to show friendship handling gaps in ALL hybrid systems |
+| Friendship as Outlet for Excess | Friendship is where excess gets deployed freely | Communist Christmas shows excess → shared joy through friendship networks |
+| Identity Formation | Groups choose who they want to become together | Hybrids work when people share identity-level commitments |
+
+---
+
 ## PURPOSE
 
 Chapter 7 creates three recognitions:
@@ -14,12 +25,13 @@ Chapter 7 creates three recognitions:
 1. **Pattern recognition:** "Pure systems don't exist—hybrids are normal"
 2. **Diagnostic recognition:** "I can see which habitats are touching in any situation"
 3. **Mismatch recognition:** "I can diagnose grammar mismatches in real time"
+4. **Infrastructure recognition (from Ch 6):** "I can see the trust 'glue' holding hybrids together"
 
-This chapter marks the transition from UNDERSTANDING to NAVIGATION. Reader has all four habitats. Now they must learn to recognize them mixing in real life.
+This chapter marks the transition from UNDERSTANDING to NAVIGATION. Reader has all four habitats. Now they must learn to recognize them mixing in real life. **Key insight from Ch 6:** The anarchic infrastructure of trust/reputation/exit is what enables hybrids to function—it's the "glue" that holds mixed systems together without formal contracts.
 
 **The I→D→G Flow:**
 - **I:** Return to Slug Line with full framework—the reader sees what they couldn't before
-- **D:** Reader tests hybrid dynamics against their own experiences
+- **D:** Reader tests hybrid dynamics against their own experiences; learns that trust infrastructure is the glue
 - **G:** Reader can recognize hybrids and diagnose mismatches going forward
 
 ---
@@ -53,16 +65,18 @@ The reader first encountered the slug line in the Prologue without framework to 
 - The unwritten rules emerge voluntarily
 - No one forces compliance
 - Reputation governs behavior
+- **This is the GLUE (Ch 6 thread):** The trust/reputation/exit infrastructure you learned about in friendship? It's what holds the entire Slug Line together
 - "It's not chaos. It's emergent order."
 
 **4. Generosity Beyond Invoice (Family/Communism):**
 - The Green Acura Driver stopped after the witching hour
 - No HOV incentive, yet he offered a ride
+- **Excess deployed freely (Ch 6 thread):** He had excess capacity (empty seats, time) and deployed it through the trust network
 - Generosity without transaction
 - "From-each-to-each appeared where you didn't expect it"
 
 **NOVEL FRAMING:**
-> "The slug line is embarrassing to ideologues because it won't stay put. It's not capitalism—no price. It's not socialism—no government. It's not communism—strangers involved. It's not anarchy—it depends on public roads. It's all four at once."
+> "The slug line is embarrassing to ideologues because it won't stay put. It's not capitalism—no price. It's not socialism—no government. It's not communism—strangers involved. It's not anarchy—it depends on public roads. It's all four at once. And what holds it together? The trust infrastructure you can't invoice."
 
 **Reader thinks:** "I couldn't see any of this before. Now it's obvious."
 
@@ -75,14 +89,17 @@ The reader first encountered the slug line in the Prologue without framework to 
 > *Think about how gift-giving actually works in most families at Christmas. The presents are purchased through markets—capitalism generates the surplus. They're distributed according to a completely different logic: from each according to ability, to each according to need. Nobody's keeping score.*
 
 **The Hybrid in Action:**
-- Market provides the goods (surplus engine)
+- Market provides the goods (surplus engine generates abundance)
+- **Surplus becomes EXCESS** (more gifts than any family "needs")
 - Distribution is from-each-to-each (family logic)
-- The norms are informal and voluntary (anarchic)
+- The norms are informal and voluntary (anarchic trust infrastructure)
+- **Excess converts to shared joy** (Ch 6 thread blooms)—the gifts you give aren't from your survival pile, they're from your abundance
 - Some gifts are subsidized by the wealthy members
 
 **What This Shows:**
 - The habitats don't just coexist—they interpenetrate
 - The skill is knowing which logic is operating when
+- **Excess flows freely** when trust infrastructure exists
 - "Christmas is a hybrid. So is almost everything else."
 
 **Phase 1 Transition:**
