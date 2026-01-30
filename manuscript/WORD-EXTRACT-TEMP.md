@@ -6,13 +6,8 @@
 
 ------------------------------------------------------------------------
 
-  ------------
-     Cover
-    Graphic
-
-  ------------
-
-  : Cover Graphic
+![Cover Graphic](media/image1.png){width="5.833333333333333in"
+height="8.75in"}
 
 ------------------------------------------------------------------------
 
@@ -51,6 +46,8 @@ us see them (and each other) more clearly.
   the wrong disaster
 - Why excellence generates obligation, and what to do with your excess
 - What becomes possible when we stop fighting the wrong fight
+
+------------------------------------------------------------------------
 
 **For readers who:** - Feel politically homeless, agreeing with "both
 sides" on different issues - Want frameworks that explain reality
@@ -763,13 +760,8 @@ You're not a "moderate" who can't make up their mind.
 
 The map is broken.
 
-  -------------------
-    The Line - Four
-        Islands
-
-  -------------------
-
-  : The Line - Four Islands
+![The Line - Four Islands](media/image2.png){width="5.833333333333333in"
+height="3.888888888888889in"}
 
 The left-right political spectrum (the one we've been using to organize
 every political conversation for the last two hundred years) was built
@@ -804,13 +796,8 @@ tool fits this scale?"
 
 Here's the map I've been using. I call it The Ring.
 
-  --------------------
-    The Ring - Four
-        Habitats
-
-  --------------------
-
-  : The Ring - Four Habitats
+![The Ring - Four
+Habitats](media/image1.png){width="5.833333333333333in" height="8.75in"}
 
 It runs a bit like this: \| Habitat \| Scale \| Core Logic \| You Know
 It As \| \|---------\|-------\|-----------\|----------------\| \|
@@ -1296,13 +1283,8 @@ predominantly on the left.
 
 A seating chart became a spectrum.
 
-  ----------------
-   The Left/Right
-        Line
-
-  ----------------
-
-  : The Left/Right Line
+![The Left/Right Line](media/image2.png){width="5.833333333333333in"
+height="3.888888888888889in"}
 
 That's it. That's the origin. The most powerful political framework of
 the last 200 years (the organizing principle for virtually every
@@ -3096,6 +3078,12 @@ But nations need the opposite. Nations need citizens who deliberate. Who
 dissent. Who argue. Who have rights the state must respect even when
 respecting those rights is inconvenient for the collective plan.
 
+The USSR didn't just fund too many services. They ran the whole
+political order like a fire department. The Party became the single
+provider of everything. No independent courts. No real legislature. No
+protection for dissent. No private sphere. One system, one logic,
+everywhere.
+
 When you run a nation like an emergency response, you eliminate
 everything that makes self-governance possible.
 
@@ -3235,28 +3223,43 @@ So where does surplus come from?
 
 # CHAPTER 5: Surplus Engine
 
+When people talk about capitalism, the story usually starts with greed
+and ends with exhaustion. Let's start somewhere else.
+
+Let's start with nails.
+
 Before specialization, you could make eight nails in a day. Good ones,
 if you were careful. Bent ones, if you rushed. On average: eight nails.
 
-That was life in a village where everyone did everything. You farmed,
-you fixed tools, you raised kids, you built your own shelter, you made
-nails when you needed them. You did a little bit of everything, because
-you had to. And you were exhausted. And you were always one disaster
-away from catastrophe. And it was enough, barely, most days.
+That was life before anyone thought to do just one thing all day. You
+farmed in the morning. Fixed tools at noon. Raised kids. Built shelter.
+Fetched water. Patched clothes. Made nails when you needed them, which
+wasn't often and wasn't fun. You did a little bit of everything because
+you had to.
 
-And then someone decided to just make nails.
+And you were exhausted.
+
+And you were always one disaster away from catastrophe.
+
+And it was enough. Barely. Most days.
+
+This is the baseline: exhausting, fragile, enough.
+
+And then someone decided to specialize.
 
 Not "also make nails" or "make nails on the side" or "make nails when
 farming is slow." Just nails. Every day. All day. Wake up, make nails.
-Practice, refine, improve. Figure out which metal works best. Which
+Practice. Refine. Improve. Figure out which metal works best. Which
 hammer angle is optimal. Which motion wastes the least energy. Develop
 muscle memory. Build specialized tools. Perfect the process.
 
-How many nails do you think they made? Twenty? Fifty?
+How many nails do you think they made?
+
+Twenty? Fifty?
 
 Ten thousand. Per day.
 
-Not "ten more." Not "ten times more." Ten *thousand* times more. From
+Not "ten more." Not "ten times more." A *thousand* times more. From
 eight to ten thousand. That's not improvement. That's transformation.
 
 Specialization doesn't make things 10% better. It makes things 1,000%
@@ -3264,14 +3267,107 @@ better, often more. This is the fundamental insight that separates
 modern abundance from historical subsistence. This is the engine. This
 is where surplus comes from.
 
-But here's what nobody talks about: what do you do with ten thousand
-nails when you only need eight?
+But here's what nobody talks about: **what do you do with ten thousand
+nails when you only need eight?**
 
 This is where three piles emerge. And understanding these three piles
 changes everything. Not just about economics. About obligation. About
-freedom. About what you owe and to whom and why.
+liberty. About what you owe and to whom and why.
 
 Let's see what happens to those ten thousand nails.
+
+## The Three Piles
+
+The nail-maker needs to sell the equivalent of five thousand nails a day
+(given current prices) to buy food, shelter, basic tools. To keep
+herself and her family alive and reasonably stable.
+
+**First pile: Necessities.** These are the "must sell" nails.
+
+The ones that replace the hours she would otherwise have spent
+scratching out survival directly from the land.
+
+If she doesn't sell enough nails to cover necessities, she stops
+functioning. She can't make more nails if she's starving. She can't
+trade if she can't get to market.
+
+This pile is non-negotiable. It's the floor.
+
+Now imagine she can sell another four thousand nails a day beyond what
+she needs for today's survival.
+
+**Second pile: Surplus.** This is what lets her reinvest in her process.
+
+Buy better tools. Experiment with new materials. Investigate new steps
+to see if she can produce even more efficiently. Hire an apprentice.
+
+Surplus is security and leverage. It's what keeps a bad harvest or a
+broken arm from turning into a spiral of disaster.
+
+This pile is both growth and resilience.
+
+That leaves one last pile: the extra thousand nails the market doesn't
+have demand for and represents extra capacity for the nail maker.
+
+**Third pile: Excess.** This pile is different. Even if the nail-maker
+throws away those thousand nails, nothing vital collapses.
+
+If she gives them away, she doesn't miss anything.
+
+If she reshapes them into something new and it all goes wrong, there is
+no existential crisis. Maybe some days someone in the market needs
+extra.
+
+But for the most part, this excess is the part of value produced that
+can be risked freely. This pile is liberty.
+
+Now the story gets interesting.
+
+The nail-maker can use that excess to try things. She can bend some of
+the nails into loops and discover they make useful hooks. She can twist
+others into little clips to hold papers together. She can give a handful
+to kids who want to build elaborate stick toys but don't have anything
+to fasten the sticks with.
+
+It is fine if these experiments will go nowhere.
+
+A lot of hooks will be ugly.
+
+A lot of paper clips will be awkward.
+
+Most of the toys will fall apart.
+
+But every so often, something works. Maybe the paper clips turn out to
+be genuinely handy, and neighbors start asking for them. A new market.
+
+Maybe the kids' stick toys are so charming that a traveler offers to buy
+a few to take to the next town. An expanded market.
+
+Maybe the nail-maker discovers she enjoys teaching kids how to build
+things as much as she enjoys hammering metal. New value produced.
+
+None of those possibilities were obvious when she was scraping together
+eight bent nails a day just to hold her own roof on.
+
+It is the combination of specialization (ten thousand nails), surplus
+(the four thousand that create and sustain growth), and excess (the last
+thousand nobody strictly needs) that opens up room for:
+
+Cheap trial and error.
+
+Unexpected discovery.
+
+Sustainable generosity.
+
+This is the insight that matters: abundant generosity doesn't usually
+come from burning your last loaf of bread for a stranger. It comes from
+an obligation to excess, from a dedicated commitment to honing your
+gifts and your place in the world to the point where you reliably
+produce more than you personally need or can use, and treating that
+"more" as raw material for innovation and generosity of investing in
+others.
+
+Let's see how this actually works.
 
 ## Section 1: Markets as Stranger Coordination
 
@@ -3279,11 +3375,14 @@ The nail-maker doesn't need ten thousand nails. She needs food. Shelter.
 Clothing. Tools that aren't hammers. All the things she stopped making
 when she started making only nails.
 
-So she trades. She sells nails to people she doesn't know. To people
-she'll never meet. To people three villages away who need nails and
-don't know her name. And she uses the money to buy things from people
-she doesn't know. From the wheat farmer three villages in the other
-direction. From the weaver. From the tool-maker. From strangers.
+So she trades.
+
+She sells nails to people she doesn't know. To people she'll never meet.
+To people three villages away who need nails and don't know her name.
+And she uses the money to buy things from people she doesn't know.
+
+From the wheat farmer three villages in the other direction. From the
+weaver. From the tool-maker. From strangers.
 
 This is what markets actually do: they coordinate strangers through
 price. They let you specialize without intimacy. They let you trade with
@@ -3295,10 +3394,11 @@ picked it. Somebody spun it. Somebody wove it. Somebody cut it. Somebody
 sewed it. Somebody shipped it. Somebody stocked it. You don't know any
 of them. You never will. You don't need to.
 
-You just needed one number: the price. And that price told you
-everything you needed to know. Whether the shirt was worth more to you
-than the money. Whether someone else valued it more than you did.
-Whether you could afford it today or should wait.
+You just needed one number: the price.
+
+And that price told you everything you needed to know. Whether the shirt
+was worth more to you than the money. Whether someone else valued it
+more than you did. Whether you could afford it today or should wait.
 
 Every price is a compressed encyclopedia of value. It bundles: the
 scarcity of cotton, the skill of the weaver, the distance it traveled,
@@ -3309,377 +3409,661 @@ compressed into one number.
 And you don't need to understand any of it. You just need to know: do I
 want this more than I want the money?
 
-This is the coordination miracle: millions of people making independent
-decisions based on prices, and somehow it produces shirts, and phones,
-and food, and cars, and everything you see around you. No central
-planner. No master coordinator. Just strangers trading with strangers,
-guided by numbers that carry more information than any person could
-process.
+### The Grocery Aisle
 
-Markets work because strangers need a different tool than families do.
-Families run on intimacy (you know each other, so you can give according
-to ability and take according to need). But you can't scale that to
-strangers. You don't know them. You don't know their needs or their
-abilities or their trustworthiness. You need something else. You need a
-signal that works without intimacy.
+You're in an ordinary supermarket on an ordinary Thursday night. You are
+tired. You are here out of obligation more than joy. You push a cart
+that squeaks in protest. You turn down the cereal aisle and stop.
+
+There are dozens, maybe hundreds, of options. Flakes, clusters, bran,
+sugar, whole grain, chocolate, almonds, raisins, kids' mascots,
+"heart-healthy" labels, organic, store brand, family-size bags,
+single-serve cups. If you pulled your great-grandparents into this
+aisle, they'd think they'd been abducted.
+
+Most of the time, you don't think about how any of this got here. You
+grab the same box you grabbed last time, mumble about the price being up
+again, and move on.
+
+But tucked inside every one of those boxes is a story much like our
+nail-maker's, just more complicated and far-reaching.
+
+Somewhere, people specialize in plant genetics and soil science and
+mechanized harvesters. Others specialize in milling and packaging and
+graphic design. Others build the machines that stamp out cardboard, the
+trucks that haul pallets, the software that tracks inventory and
+predicts when you are likely to run out. Entire careers are spent
+tweaking how crunchy the flakes are after twelve minutes in milk.
+
+Behind that box is an invisible choreography of:
+
+Farmers and factory workers.
+
+Truck drivers and dock workers.
+
+Sales reps and data analysts.
+
+Engineers and marketers.
+
+Investors and regulators.
+
+Each of them is, in some sense, a nail-maker: focused on their piece of
+the puzzle, trading their specialized effort into a wider system of
+exchange.
+
+You do not need to know any of them. You do not need to vote on which
+cereals should exist. You do not need a central committee in the capital
+city to authorize new flavors. You need one piece of information: the
+price.
+
+A price is a little bundle of signals: about supply, demand,
+transportation costs, weather disruptions, and a dozen other things you
+will never see.
+
+You respond to that signal; you buy, or you don't. The store responds to
+your response. The manufacturer responds to the store. Farmers respond
+to the manufacturer. Over time, the entire system flexes.
+
+That is the engine at work.
+
+**Think about a price that surprised you, higher or lower than
+expected.** Did that surprise teach you something about scarcity,
+quality, or demand that you didn't know before? That's the information
+price signals carry.
+
+That's the coordination miracle: millions of people making independent
+decisions based on prices, and somehow it produces shirts, and phones,
+and food, and cars, and everything you see around you.
+
+No central planner. No master coordinator. Just strangers trading with
+strangers, guided by numbers that carry more information than any person
+could process.
+
+Markets work because strangers need a different logic than families do.
+
+Families operate on inefficient, dedicated individual-to-individual
+relationships.
+
+But you can't scale that to a population. You cannot know everyone in a
+one-to-population setting. And because of markets and specialization,
+you don't have to.
+
+You understand what is valuable to others not because you know them. You
+need something else. You need a signal that works without intimacy.
 
 Price is that signal.
 
-And when specialists trade through price, surplus happens. The
-nail-maker makes ten thousand nails. She keeps what she needs, sells
-what she doesn't, and ends up with more resources than she had before.
-The wheat farmer plants a hundred acres instead of one. The weaver makes
-a thousand shirts instead of three. Everyone specializes, everyone
-trades, and somehow there's more than there was before.
+And when specialists become highly effective at value production and
+trade through price, surplus happens.
 
-Not redistributed. Not reallocated. *More.* The surplus is new. It's
-generated through specialization and trade. It's the engine.
+The nail-maker makes ten thousand nails.
 
-And this is the part that matters: the surplus doesn't stay with the
-specialist. It flows. It moves through the system. Some of it becomes
-wages for workers. Some becomes taxes for the fire department. Some
-becomes investment in new tools. Some becomes buffer against disaster.
-Some becomes excess (discretionary resources that create freedom).
+She sells enough to meet her needs, sells the rest that she can to grow
+and develop, and as she becomes an expert she ends up with more capacity
+than she can use or sell.
 
-That flow is everything. Because how you organize that flow determines
-whether the engine serves the house or eats it.
+The wheat farmer plants a hundred acres instead of one.
 
-## Section 2: The Three-Pile Framework
+The weaver makes a thousand shirts instead of three.
 
-The nail-maker has ten thousand nails. Let's see where they go.
+Everyone specializes, everyone advances, and ultimately the same number
+of people working the same number of days produce so much *more* than
+there was before.
 
-### Pile 1: Necessities
+Still work the same hours. Eat the same calories. Drink the same water.
+Breathe the same air. But at the end of the day, there is abundance.
 
-The first pile is survival. These are the nails (or really, the
-resources the nails represent when sold) that keep the nail-maker alive
-and functional. Food. Shelter. Basic clothing. The tools she needs to
-keep making nails. Healthcare when she's sick. The transportation to get
-her nails to market.
+The surplus is new. It's generated through specialization and trade.
+It's the engine.
 
-She has to sell these nails. There's no choice here. If she doesn't sell
-enough nails to cover necessities, she stops functioning. She can't make
-more nails if she's starving. She can't trade if she can't get to
-market. She can't specialize if she has to spend all her time
-subsistence farming just to survive.
+This is the unique power of markets: they generate more. Without
+surplus, no margin for error. Without surplus, no investment in the
+future. Without growth from surplus, no excess of enduring generosity.
 
-This pile is non-negotiable. It's the floor. The baseline. The amount of
-resources required to keep the system running. In the nail-maker's case,
-maybe five thousand nails go here. Sold to buy the things she must have
-to continue existing.
+Markets aren't the purpose. They're the engine.
 
-**Think about your own necessities. Which expenses, if you stopped
-paying them, would stop you functioning?** Rent or mortgage. Food.
-Utilities. Basic transportation. Maybe healthcare. Maybe childcare if
-you have kids and need to work. These aren't choices. These are
-requirements. This is Pile 1.
+But the engine is limited. Markets generate surplus. They don't
+distribute it according to needs. They operate on value exchange. They
+are individual-to-population. These aren't bugs---they're the boundaries
+of the habitat and its logic.
 
-### Pile 2: Surplus
+## Section 2: Where the Surplus Goes
 
-The second pile is buffer. These are the nails that create security. The
-resources that protect against disaster. That let the nail-maker survive
-a bad month, a broken tool, an injury, a slow season. That let her
-invest in a better hammer or a more efficient forge. That let her save
-for when she's too old to work.
+The nail-maker's surplus doesn't ultimately stay with the nail-maker. It
+flows. It moves through the marketplace. Some of it becomes wages for
+employees. Some becomes taxes for the fire department. Some becomes
+investment in new tools. Some becomes insurance buffer against disaster.
 
-She doesn't spend this pile. She holds it. Or invests it. Or saves it.
-Because life is uncertain and systems are fragile and catastrophe is
-always one accident away. The surplus is prudence. It's the space
-between "barely surviving" and "one disaster away from collapse."
-
-In the nail-maker's case, maybe four thousand nails go here. Held as
-savings. Invested in better tools. Set aside for lean times. Not
-hoarded, just buffered. Protected. Kept safe so the whole operation
-doesn't collapse the first time something goes wrong.
-
-**Think about your own buffer. How much space do you have between your
-income and catastrophe?** A month? Three months? Six? Nothing? That's
-Pile 2. That's your surplus. And the size of this pile determines how
-much freedom you have to take risks, to invest in yourself, to weather
-storms.
-
-### Pile 3: Excess
-
-The third pile is freedom. These are the nails (the resources) that
-remain after survival is covered and buffer is secure. The resources
-that are genuinely discretionary. That could be used for anything. That
-create choice.
-
-In the nail-maker's case, maybe one thousand nails end up here. After
-she's covered her necessities (Pile 1) and built her buffer (Pile 2),
-she still has a thousand nails left. She could sell them and save more.
-She could spend them on luxuries. She could invest in experiments. She
-could give them away. She could try making hooks and clips and new
-designs and see what works. She could teach the village kids how to
-build things.
-
-Most of those experiments will fail. Most of those gifts won't be
-reciprocated. Most of that generosity won't be acknowledged. And that's
-fine. Because she's operating from excess. Because she can afford to
-lose these resources without threatening her survival or her security.
-Because this is the pile where freedom lives.
-
-**After necessities and buffer, do you have anything left?** If you're
-reading this book, the answer is almost certainly yes. You have excess.
-It might not feel like much. It might feel precarious. It might feel
-like you're one disaster away from collapse. But if you have resources
-beyond survival and beyond prudent buffer (if you have ANY discretionary
-spending, any savings beyond emergency fund, any ability to make choices
-that aren't strictly necessary), you have Pile 3.
-
-And here's the thing that nobody tells you: *excess is where obligation
-lives.*
-
-Not in the necessities. Nobody owes their rent money to charity. Not in
-the surplus. Nobody should give away their emergency fund. But in the
-excess (in the genuinely discretionary resources, the ones that remain
-after survival and security are covered), that's where the question
-becomes ethical.
-
-"What are you doing with your excess?" isn't a guilt trip. It's a
-genuine question. Because you have power here. Real power. The power to
-make choices that matter. The power to experiment, to invest, to give,
-to risk, to build things that might fail, to help people who might never
-help you back.
-
-This is what abundance creates: not just more stuff, but more freedom.
-More choice. More possibility. More obligation.
-
-And none of those possibilities were available at eight nails per day.
-At eight nails per day, there is no excess. There's barely enough to
-survive. Every nail is spoken for. Every resource is allocated to
-necessities. There's no room for generosity, for experimentation, for
-risk, for anything beyond basic survival.
-
-But at ten thousand nails per day? Suddenly there's space. There's
-breath. There's freedom to act according to values instead of just
-survival.
-
-The surplus engine creates that space. Markets create that abundance.
-Specialization and trade generate excess.
-
-And the question (the only question that matters once you have excess)
-is: what are you doing with it?
-
-## Section 2b: Underwriting the Other Habitats
-
-But before we get to that question, let's see where the nail-maker's
-resources are going.
+### Underwriting the Other Habitats
 
 Remember the fire truck from Chapter 4? The \$812,000 truck that sits
 idle 95% of the time, waiting for the moment when your house catches
 fire? Where did that \$812,000 come from?
 
-Taxes. Obviously. Your city government collected taxes from households
-and businesses and pooled them together and bought the fire truck.
+Taxes. Obviously. Your city government collected taxes from specialists
+across the marketplace and pooled them together and bought the fire
+truck.
 
-But where did the resources that BECAME taxes originally come from?
+But where did the resources that *became* taxes originally come from?
 
-From the surplus engine. From market activity. From people making things
-and selling things and buying things. From specialists trading with
-strangers through price. From the nail-maker selling ten thousand nails
-and paying taxes on the income. From the wheat farmer selling a hundred
-tons of grain. From the weaver selling a thousand shirts. From every
-transaction in the entire economy that generated surplus beyond the
-necessities and created enough discretionary resources that taxing them
-was possible.
+From the surplus engine. From market activity. From each of us as
+specialists making things and selling things and buying things.
+
+Specialists producing abundantly above their basic subsistence needs and
+trading with strangers who are doing that as well.
+
+From the nail-maker selling ten thousand nails and paying some of the
+income from surplus toward a commonwealth service that protects her
+factory and her home from burning down. From the wheat farmer selling a
+hundred tons of grain. From the weaver selling a thousand shirts.
+
+From the surplus across the entire economy that generated above and
+beyond the necessities and created enough discretionary resources that
+joining them into commonwealth services was not only possible, it was
+logical.
 
 The fire truck is underwritten by markets. The safety commons is funded
-by surplus. The safety commons works (whether at the city level for fire
-departments or the national level for defense) because markets generate
-enough excess that collective pre-funding becomes affordable.
+by surplus.
 
-This is the connection between habitats. The engine underwrites the
-commons. Markets fund safety. Surplus enables collective investment in
-readiness.
+Think about the city council members debating that \$812,000 purchase.
+Fire chief presenting. Finance committee reviewing. Citizens showing up
+to argue about taxes. Someone suggesting going used for \$400K. Someone
+else saying you can't cheap out on firefighter safety.
+
+Finally: 7-3 vote to approve.
+
+Those council members are counting on a capitalist engine humming in the
+background. Businesses creating jobs.
+
+Marketplace specialists creating value and exchanging it for wages or
+sales.
+
+Marketplace transactions generating enough to meet both necessities and
+surplus, set aside and pooled, can be turned into ladders and pumps.
+
+**Think about the taxes that fund your local fire department. Where did
+that money come from originally?**
+
+Trace it back.
+
+You'll find it started as market activity; someone created value and
+exchanged it with someone else who had created value.
+
+This is one of the key connections between habitats.
+
+The engine underwrites the commons.
+
+Markets fund safety.
+
+Surplus enables collective investment in meeting shared human needs at
+scale in ways that are impractical for the nail maker herself.
 
 And it's not just fire trucks. It's police. It's roads. It's sewage
-systems. It's parks. It's libraries. It's all the infrastructure that
-makes daily life work. All of it funded by surplus generated through
-market activity. All of it dependent on the engine running well enough
-to create resources beyond survival.
+systems. It's parks. It's all the infrastructure that makes daily life
+work.
 
-**Where did the money that funds your fire department originally come
-from?** Trace it back. Taxes came from incomes. Incomes came from
-selling things. Selling things came from making things. Making things
-came from specialists coordinating through markets. The whole chain
-starts with the nail-maker making ten thousand nails instead of eight.
+All of it funded by surplus generated through market activity. All of it
+dependent on the engine running well enough to create resources in
+abundance beyond survival.
 
-This is why markets matter. Not because they're morally superior. Not
-because greed is good or competition builds character or any of that
-ideological nonsense. But because they're the engine. They generate the
-surplus that makes everything else possible.
+A family can be loving and generous and still be crushed by the constant
+scarcity of subsistence living. Without surplus and ultimately excess
+from the market habitat, family generosity becomes hollow promise.
 
-Family works because there's enough resources that uneven giving is
-sustainable. Safety commons works because there's enough surplus that
-collective pre-funding is affordable. Voluntary networks (we'll get
-there) work because people have enough time and energy beyond survival
-to build relationships without money.
+A fire department can be honorable and brave and still be incapable of
+responding if its trucks are rusting out and its radios don't work.
+
+Safety systems depend on advancing technology and production capacity
+that can meet commonwealth scale needs---funded by surplus generated by
+the market habitat.
+
+Voluntary networks (we'll get there) work because specialists have
+enough time and energy and value beyond survival to invest generously
+without return or exchange for needs. Without some baseline of
+abundance, everyone is too exhausted to volunteer.
+
+Without excess, the specialist from the market habitat is not at liberty
+to imagine, to see, to find the seams in the community and society where
+their passion uncovers an opportunity to invest themselves in others.
+Friendships, volunteer networks, charities don't just thrive by people
+showing up.
+
+It is people with something to bring. Something to share. Something they
+don't need to sell. And like a family, they give it because they can to
+someone who needs it.
 
 All of it rests on the engine running. All of it depends on surplus
 being generated. All of it requires markets doing what they do:
 coordinating strangers at scale through price.
 
-Markets aren't the purpose. They're the engine. The other habitats are
-the purpose. Family is the purpose. Safety is the purpose. Friendship is
-the purpose. But you need an engine to fund them.
+Markets aren't the purpose. They're the engine. Safety is not the
+purpose---it's the foundation. Family is the purpose. It's where we go
+to find people. Friendship is the purpose. It's where we go to find
+ourselves.
 
-And that engine is markets.
+But you need an engine to reach new heights.
+
+### Discovery and Generosity
+
+What happens with that third pile, the excess? Two key paths emerge.
+
+**Path A: Discovery.** The nail-maker bends her extra nails into hooks
+and clips. Some experiments fail. Some succeed.
+
+The successful ones become new products, new businesses, new
+possibilities. She invests in exploration. She funds innovation. She
+takes risks that might not pay off in exploring the adjacent possible.
+
+This is how new ventures happen. R&D, startups, art, research. They're
+all best funded by excess that can be risked without threatening
+survival.
+
+**Path B: Generosity.** The nail-maker gives her extra nails to kids who
+want to build toys.
+
+She teaches them how to use the nails. She provides resources to those
+who need them but can't pay. She funds others' opportunities. She
+supports what markets can't price.
+
+This is how sustainable giving happens. Not from burning your
+necessities, but from sharing your abundance.
+
+**Think about the last time you were generous, genuinely generous, not
+obligated.** Did that generosity come from your Necessities pile? Your
+Surplus? Or your Excess?
+
+Sustainable generosity almost always comes from Excess.
+
+This is the key insight: sustainable generosity requires excess.
+Self-immolation isn't sustainable. You can't give from empty.
+
+Excess is hard. The obligation to excess means pursuing mastery until
+you reliably produce more than you need or can even use. That level of
+specialization is almost heroically difficult to achieve. Then being
+intentional about what you do with the "more."
 
 ## Section 3: When the Engine Eats the House
 
 But markets have limits. They have blind spots. They have places where
-market logic doesn't just fail. It destroys.
+market logic doesn't just fail, it destroys.
 
-Because price signals work for most things. But not everything. Some
-things market logic can't see. Some things it sees and corrupts. Some
-things it touches and ruins.
+Because price signals work for value exchanges between specialists in
+individual-to-population relationships. But not everything. Some things
+market logic can't do. Some things it touches and corrupts. Some things
+it runs and ruins.
 
-Let's name four of them.
+### Families and Friendships
 
-### Blind Spot 1: Externalities (Costs That Fall on Others)
+Here is where we must understand what markets cannot see: the
+individual-to-individual relationships that make
+individual-to-population exchange possible at all.
 
-The nail-maker's forge produces smoke. That smoke drifts into the
-neighbor's house. The neighbor coughs. Their kid gets asthma. But the
-price of nails doesn't include that cost. The nail-maker doesn't pay for
-the smoke damage. The neighbor does.
+You were born into a family. You didn't choose your parents. You didn't
+audition for the role of son or daughter. You didn't negotiate the terms
+of your arrival. You showed up, helpless and hungry, and people who
+shared your blood decided (without asking you) that you belonged to
+them.
 
-This is an externality: a cost imposed on others that isn't captured in
-the price. And markets are blind to externalities because price only
-reflects the costs to the buyer and seller. If a cost falls on someone
-else (on the neighbor, on the river, on the air, on future generations),
-the price doesn't see it. The market doesn't account for it. The
-transaction happens as if those costs don't exist.
+That's identity given.
 
-And so you get pollution. Overfishing. Climate change. Resource
-depletion. All the ways that market activity creates costs that fall on
-people who aren't part of the transaction. The price of fish doesn't
-include the cost of collapsing ocean ecosystems. The price of carbon
-doesn't include the cost of rising seas. The price of plastic doesn't
-include the cost of micro-plastics in every living creature.
+Your family name. Your first language. The religion you were raised in
+(or the absence of one). The foods that mean "home" to you. The holidays
+that feel sacred. The facial expressions you make without thinking. The
+fears you inherited. The loves you absorbed.
 
-Markets work when costs are contained between buyer and seller. They
-fail catastrophically when costs spill over onto others.
+All of it installed before you could consent. All of it forming the
+bedrock of who you are before you became anyone in particular.
 
-**Think about the last thing you bought. Did the price include every
-cost? Or were some costs exported to people who couldn't say no? To
-workers in supply chains, to communities near factories, to future
-generations who'll inherit the damage?**
+And then, somewhere along the way, you started choosing.
 
-Externalities reveal the boundary. When your choices impose costs on
-others, price stops being sufficient. You need something else. You need
-regulation, or collective agreement, or internalization of costs through
-taxes or penalties. You need the system to see costs that markets
-naturally hide.
+You picked friends. Not because they shared your blood but because they
+shared something else: a sense of humor, a fascination, a way of seeing
+the world. You joined groups. You left groups. You tried on identities
+like clothes, discarding some, keeping others. You became a musician, an
+athlete, a nerd, a rebel, a mentor, a colleague, a confidant.
 
-### Blind Spot 2: Shared Goods (Things Nobody Owns)
+That's identity chosen.
 
-The village has a river. Everyone uses it. The nail-maker uses it to
-cool her forge. The farmer uses it to water crops. The families use it
-for drinking water. The kids play in it.
+Both kinds of identity happen at individual-to-individual scale. This is
+the crucial insight. When your mother loves you, she loves *you*. Not a
+population category, not a demographic segment, not an economic actor.
+When your friend shows up to help you move, they're not doing it because
+you're a member of the general public. They're doing it because you're
+*you*, and they're *them*, and something binds you together that no
+price can capture.
 
-Nobody owns it. And because nobody owns it, nobody can charge for it.
-And because nobody can charge for it, price doesn't protect it. Anyone
-can use it as much as they want. Anyone can dump waste in it. Anyone can
-drain it. Because the cost of overuse doesn't fall on the person doing
-the overusing. It falls on everyone else.
+Now watch what happens when these identities meet the population-scale
+systems.
 
-This is the tragedy of the commons: shared goods that nobody owns get
-overused and degraded because there's no price mechanism to regulate
-access. Markets need ownership to work. They need someone who can say
-"this is mine, and if you want to use it, you'll pay." Without that, the
-price signal never forms. Without the price signal, there's no
-information about scarcity. Without information about scarcity, overuse
-is inevitable.
+**The Safety Commons Depends on Identity Given**
 
-And so rivers get polluted. Fisheries collapse. Forests get cleared.
-Aquifers get drained. Atmosphere gets loaded with carbon. All the shared
-goods (the things that belong to everyone and therefore to no one) get
-destroyed by market logic applied where markets can't work.
+When the fire department shows up at 3:17 AM, they don't ask your name.
+They don't know if you're kind or cruel, productive or lazy, sinner or
+saint. They just come. Because you're human. Because you're inside the
+boundaries. Because the deal is: *we will come, whoever you are.*
 
-**Think about air. Who owns it? Who charges for it? What's the price of
-clean air?** There isn't one. And because there isn't one, market logic
-says: use as much as you want, pollute as much as you want, there's no
-cost to you. And so we do. And the air degrades. Because markets can't
-see shared goods.
+But where does that "whoever you are" come from? Where do we get the
+sense that a stranger on fire deserves rescue; that their burning is
+*our* problem?
 
-### Blind Spot 3: Intimacy (Relationships That Price Corrupts)
+It comes from family. From the experience of being loved before we
+earned it. From receiving care without contributing. From watching
+parents sacrifice for children who cannot yet sacrifice back. From
+discovering, at the most intimate scale, that some obligations exist
+simply because we share DNA, or a roof, or a life.
 
-Remember the family dinner from Chapter 3? Imagine Diane invoicing Jada
-for childcare. Imagine Kenji charging the kids for dinner. Imagine
-Marcus submitting a reimbursement request for helping with dishes.
+The family teaches us that human beings have worth that precedes
+production. You didn't have to be useful to be loved. You didn't have to
+earn your place at the table. You belonged because you existed.
 
-The wrongness you feel at that image tells you something important: some
-relationships can't survive pricing. Not because payment is evil.
-Because price signals replace intimacy. Because introducing transactions
-changes the nature of the relationship from "we take care of each other"
-to "we exchange services."
+That insight, *people matter before they produce*, is what makes the
+safety commons possible.
 
-And family isn't the only place this happens. Friendship doesn't survive
-invoicing. Teaching degrades when reduced to measurable learning
-outcomes. Parenting breaks when treated as labor. Art suffers when
-market logic dominates creation. Democracy corrodes when everything
-becomes a transaction.
+Without it, we'd have no concept of shared human needs that deserve
+protection. We'd only have buyers and sellers, winners and losers,
+contributors and freeloaders. The fire department would be Uber for
+house fires: tap a button, and competing crews bid on your emergency.
 
-**Have you ever had someone offer to pay you for something you did as a
-favor?** Did it feel wrong? Like they'd misunderstood what the gesture
-meant? That's not anti-market sentiment. That's recognizing that some
-domains operate on different logic, and introducing price into those
-domains damages the thing itself.
+But we don't do that.
 
-Markets work brilliantly for coordinating strangers. But they're toxic
-to intimacy. Because intimacy requires giving without calculating
-return. Requires uneven books. Requires trust that transcends
-transaction. Price signals, by design, eliminate all of that. They make
-everything calculable, everything tradeable, everything transactional.
+Because something in us knows; from the kitchen table, from the
+bassinet, from the bedtime story read by someone who was too tired but
+did it anyway; that some things we owe to each other simply because
+we're human.
 
-And some things die when you make them transactional.
+The family gives us the identity that says: *you belong to us.* The
+safety commons extends that logic to strangers: *they belong to us too.*
 
-### Blind Spot 4: Emergencies (Time That Collapses Choice)
+**The Market Depends on Identity Chosen**
 
-We covered this in Chapter 4, but it's worth stating again: markets need
-time. When time collapses, markets become extortion.
+Now watch the parallel.
 
-Your house is burning. There's no time to shop for fire response.
-There's no time to compare prices, evaluate providers, negotiate terms.
-There's only time to call for help and hope it comes.
+The family teaches us to provide for those we can see. Your children.
+Your spouse. Your parents as they age. You give to them not because
+they've earned it, not because they've paid for it, but because of who
+you are.
 
-If that help is priced, you pay anything. You have no choice. You're a
-captive customer. And captive customers aren't shopping. They're
-begging.
+You're a parent.
 
-**Imagine someone offering to sell you CPR while you're having a heart
-attack.** The wrongness is visceral. Not because helping should be free.
-Because pricing it in that moment is extortion. Because when time
-collapses, the power dynamic becomes asymmetric. The person with the
-resource has total leverage. The person needing the resource has none.
+You're a spouse.
 
-Markets require time and exit. Emergencies eliminate both. And when you
-apply market logic to emergencies, you get either death or extortion.
+You're a son, a daughter, a sibling.
+
+The identity given by family creates an obligation to provide for those
+within your sight.
+
+And that same identity, that same sense of "this is who I am and
+therefore I provide," extends through the safety commons to strangers
+you'll never meet. We fund the fire truck for the family three blocks
+over because our given identity taught us that humans matter before they
+produce. The family creates the *giver*. The commons creates the
+*reach*.
+
+Friendship does the same thing for the market, but in a different key.
+
+In friendships, you discovered who you want to become. Not who you were
+assigned to be, but who you chose to be.
+
+Your friends didn't just introduce you to music or books or ideas. They
+showed you what kind of person you admired.
+
+What kind of work felt meaningful.
+
+What standards you wanted to hold yourself to.
+
+What reputation you wanted to build.
+
+You tried on identities: the reliable one, the creative one, the
+meticulous one, the funny one, the one who shows up early, the one who
+stays late, the one who notices what others miss.
+
+Some fit. Some didn't.
+
+Through voluntary relationships where you were free to experiment and
+fail and try again, you assembled a chosen identity. A sense of the kind
+of specialist you wanted to become.
+
+And then you brought that identity to the market.
+
+This is the crucial insight everyone misses: **your chosen identity
+doesn't primarily inform what you buy. It informs what you produce.**
+
+When the nail-maker walks into the marketplace, she doesn't just bring
+nails.
+
+She brings herself. She brings an identity she's constructed through
+years of friendships and mentorships and voluntary affiliations. She's
+the trustworthy nail-maker. The meticulous one. The one whose nails
+don't bend. The one who delivers on time. The one whose word is her
+bond.
+
+Or she's the innovative one, the one who experiments, who makes paper
+clips and hooks and strange new fasteners nobody asked for but everyone
+wants once they see them.
+
+That identity, that reputation, that chosen self, is what she offers to
+the ten thousand strangers who will buy her nails without ever knowing
+her name.
+
+Think about what this means.
+
+The market is individual-to-population.
+
+You produce for people you'll never meet. You can't know their needs the
+way you know your family's needs.
+
+You can't read their faces, hear their stories, understand their
+circumstances. You face an anonymous crowd of potential buyers
+stretching to the horizon.
+
+So how do you decide what to offer them?
+
+You bring yourself.
+
+You bring the identity you've assembled through countless voluntary
+relationships where people chose to know you, chose to mentor you, chose
+to tell you the truth about your work and your character.
+
+That chosen identity becomes your market identity: the signal that tells
+strangers what they can expect from you even though they've never met
+you.
+
+Just as your given identity from family, extended through the commons,
+enables you to provide protection for strangers (because "providing for
+those who need it" is who you are), your chosen identity from
+friendships, extended through the market, enables you to provide
+specialized value for strangers (because "producing excellent work in
+this particular way" is who you've become).
+
+The family gives us the *giver* who extends through the commons.
+Friendship gives us the *producer* who extends through the market.
+
+Both are about what you bring to strangers you cannot see. The
+difference is what you bring. From family through commons: protection,
+safety, a share of the pooled insurance against disaster. From
+friendship through market: specialized value, refined production, the
+particular kind of excellence you've worked to achieve.
+
+And watch the return flow.
+
+The safety commons sends protection back to family. The fire truck that
+serves strangers also protects your own household. The pooled insurance
+that covers the population also catches you when you fall.
+
+The commons, funded by given identity extended to strangers, returns to
+strengthen the families that created that identity in the first place.
+
+The market does the same for friendships. All those years of
+specialization, all that practice and refinement and expertise developed
+for anonymous strangers in the marketplace, all of it comes back home.
+
+The accountant reviews the church's books for free. The plumber fixes a
+friend's leak on Saturday morning with no invoice.
+
+The chef cooks for the wedding because that's what a chef who loves you
+does.
+
+The engineer redesigns the nonprofit's database because his skills,
+sharpened in market competition, are exactly what his chosen community
+needs.
+
+This is what markets give back to friendships: not just money, but
+mastery. The specialization that makes you valuable to strangers also
+makes you powerfully useful to the people you love by choice.
+
+And you deploy that mastery in the friendship habitat without price,
+without exchange, without calculating return, because that's what chosen
+identity looks like when it comes home.
+
+The ring completes itself:
+
+*Family gives safety commons the concept of shared humanity: we provide
+for strangers because of who we are.*
+
+*Safety commons gives family the protection to exist: pooled insurance
+returns to shelter the households that fund it.*
+
+*Friendship gives markets a self that knows how to produce: chosen
+identity becomes market identity.*
+
+*Markets give friendship the specialization to make voluntary help
+powerful: refined skills return to serve chosen communities.*
+
+This is the mutual dependency. This is why the habitats need each other.
+And this is why scale errors are so devastating: they don't just break
+one habitat, they sever the connections that make the whole ring
+function.
+
+**When Market Logic Eats the Other Habitats**
+
+Scale errors don't just break things. They dissolve them. Market logic,
+applied to the wrong habitat, doesn't fail politely. It corrodes the
+very relationships it touches.
+
+**Market logic in family** turns the dinner table into a performance
+review.
+
+Start tracking who does more dishes. Start calculating the hourly value
+of childcare. Start invoicing your spouse for emotional labor.
+
+Watch what happens to the love. The moment you introduce exchange logic
+into "from each according to ability, to each according to need," you've
+killed the thing that made it work. Children become cost centers.
+Parents become investors expecting ROI. The elderly become liabilities.
+
+Love becomes a transaction, and transactions can always be cancelled
+when the numbers don't add up.
+
+**Market logic in friendship** turns your chosen identity into a
+customer profile.
+
+Start asking "what have you done for me lately?" Start keeping score.
+Start treating your network as a collection of assets to be leveraged.
+
+Watch the invitations dry up. Watch people stop calling. They can tell.
+They always can. You've converted voluntary trust into transactional
+expectation, and the friendship habitat runs on the opposite: you show
+up because you want to, not because you're getting paid. The moment it
+becomes a business relationship, it's no longer a friendship. It's a
+vendor arrangement.
+
+**Market logic in safety commons** turns the fire department into a
+bidding war.
+
+Demand that emergency response be priced per incident. Require
+means-testing for ambulance rides. Introduce competitive providers for
+911 dispatch.
+
+Watch people die in the gaps. The safety commons works because it's
+impartial, standardized, and pre-funded. Strip that away---make it
+respond to price signals like a market---and you've destroyed the thing
+that makes "we will come, whoever you are" possible.
+
+But there's a subtler version.
+
+Market logic doesn't have to take over completely to cause damage.
+Sometimes it just asks the wrong questions.
+
+It asks the safety commons: *Why are you inefficient? Why do your fire
+trucks sit idle? Why don't you right-size for average demand?* And the
+safety commons answers: *Because we're sized for disasters, not
+averages. Because readiness costs more than response. Because human life
+isn't optimizable.*
+
+It asks friendship: *What's the return on this relationship? What's the
+networking value? How does this connection advance my career?* And
+friendship answers: *That's not the question I exist to answer. I exist
+to help you become who you want to be. Not to monetize your becoming.*
+
+It asks family: *Shouldn't the children contribute? Shouldn't Grandma
+pay rent? Shouldn't we quantify the value everyone brings?* And family
+answers: *We're not a company. We're a commune. The accounting books are
+supposed to be uneven. That's what love looks like.*
+
+The engine is powerful.
+
+But power without purpose is just force.
+
+The ten thousand nails, the surplus, the excess; all of it exists *for*
+something. Surplus exists to fund the fire truck so families can sleep
+safely.
+
+It exists to create the specialized skills that make voluntary help
+valuable. It exists to build the abundance that makes sustainable
+generosity possible.
+
+If the market becomes its own purpose, if surplus-seeking becomes the
+goal instead of the means, then the engine eats the house.
+
+The nail-maker who treats her employees as tools, her customers as
+milestones, her competitors as obstacles, and her family as a cost
+center has forgotten what the nails were for.
+
+They were for building homes where people can love each other. They were
+for funding the advancement and growth the in specialization. They were
+for creating the liberty of abundance that friendship can deploy.
+
+The market engine is glorious. But it's an engine. Not a destination.
+
+It must be put to the use of love and protection in the other habitats,
+or it will ruin them.
+
+Power for the sake of power cannot have meaning.
 
 ## Nietzsche's Horse
 
-Turin, Italy. January 3, 1889. Friedrich Nietzsche (the philosopher
-who'd spent decades thinking about power and will and human flourishing)
-sees a coachman whipping a stubborn horse. The horse won't move. The
-coachman whips harder. Nietzsche can't bear it.
+Turin, Italy. January 3, 1889.
 
-He rushes into the street. Embraces the horse. Weeps. Collapses. Within
-days, he's lost his capacity for coherent thought. He'll spend the next
-eleven years in mental twilight, never recovering, the most powerful
-thinker of his age broken by witnessing pure instrumentality. Power
-without purpose. Force without meaning. A creature reduced to a tool and
-beaten when it failed to perform.
+Friedrich Nietzsche (the philosopher who'd spent decades thinking about
+power and will and human flourishing) sees a coachman whipping a
+stubborn horse. The horse won't move. The coachman whips harder.
+Nietzsche can't bear it.
+
+He rushes into the street. Embraces the horse. Weeps. Collapses.
+
+Within days, he's lost his capacity for coherent thought. He'll spend
+the next eleven years in mental twilight, never recovering, the most
+powerful thinker of his age broken by witnessing pure instrumentality.
+
+Power without purpose. Force without meaning. A creature reduced to a
+tool and beaten when it failed to perform.
+
+Whether allegory or real story, this captures the idea.
 
 This is what happens when the engine becomes the only thing. When market
 logic escapes its habitat and invades everything. When price replaces
-purpose. When everything becomes a resource to be optimized, everyone
-becomes a tool to be used, and the question "what is this FOR?"
-disappears.
+purpose.
 
-Markets are power. Incredible power. The power to generate surplus, to
-coordinate millions, to lift billions from poverty, to create abundance
-that would've looked like magic to anyone living two hundred years ago.
-That power is real. That power matters.
+When everything becomes a resource to be optimized, everyone becomes a
+tool to be used, and the question "what is this FOR?" disappears.
+
+Markets are power. Incredible power.
+
+The power to generate surplus, to coordinate millions, to lift billions
+from poverty, to create abundance that would've looked like magic to
+anyone living two hundred years ago.
+
+That power is real. That power matters. That power is beautiful.
 
 But power without purpose becomes cruelty. Markets without ethics become
 extraction. The engine, left to run wild without boundaries or
@@ -3691,84 +4075,91 @@ efficiency without asking "efficient for what?" When you generate
 surplus without asking "surplus for whom?" When you build power without
 asking "power in service of what?"
 
-The nail-maker makes ten thousand nails. That's power. But if she uses
-that power to extract, to dominate, to treat everyone else as tools for
-her enrichment, she's the coachman. If she uses that power to generate
-abundance that underwrites family and safety and friendship and
-flourishing, she's serving something larger than the engine.
+The nail-maker makes ten thousand nails.
 
-Markets need boundaries. They need to know where they belong and where
-they don't. They need to be the engine, not the purpose. Because when
-the engine becomes the purpose, you get everything reduced to price. You
-get relationships transactionalized. You get shared goods destroyed. You
-get externalities ignored. You get emergencies exploited. You get the
-horse beaten because it won't perform.
+That's power.
 
-That's not anti-market. That's pro-boundary. That's recognizing that
-markets are extraordinary tools that belong in their habitat, and become
-destructive when they escape it.
+But if her employees, customers, and her competitors are nothing more
+than tools and obstacles, she's the coachman.
+
+If she uses that power to generate abundant value joining a million
+other specialists in creating a civilization of wonderful technology,
+rich with humanity, that power underwrites family and safety and
+friendship and flourishing, she's serving something larger than the
+engine.
+
+Markets are one of the habitats.
+
+We need to use their logic when we are operating in a market habitat.
+But when we apply their logic to friendships or family, you get
+relationships transactionalized.
+
+When we apply their logic to safety commons, you get emergencies
+exploited.
+
+When we decouple power from purpose, you get the horse beaten because it
+can't perform.
 
 ## Phase 3: Seeing Your Three Piles
 
-You can see them now. Your three piles. The resources that flow through
-your life, organized by obligation.
+Can you see them now? Your three piles. The value that flows through
+your life. Produced in your specialization. Organized by obligation.
 
-**Pile 1: Necessities.** The expenses you can't cut without ceasing to
-function. The resources you owe to yourself and your dependents just to
-keep the system running. The floor. The baseline. No guilt here. No
-obligation beyond survival.
+**Pile 1: Necessities.** What you sell to make ends meet. The source you
+owe to yourself and your dependents just to keep the system running. The
+floor. The baseline.
 
-**Pile 2: Surplus.** The buffer. The savings. The security. The
-resources you hold back against catastrophe, against uncertainty,
-against the fragility of life. The space between survival and collapse.
-You need this. Prudence isn't greed. Protection isn't hoarding. This
-pile is wisdom.
+No guilt here. No obligation beyond survival.
 
-**Pile 3: Excess.** The resources that remain after survival and
-security. The genuinely discretionary spending. The freedom pile. The
-place where obligation lives because choice lives. The thousand nails
-that create possibility.
+**Think about your own necessities. Which expenses, if you stopped
+paying them, would stop you functioning?** Rent or mortgage. Food.
+Utilities. Basic transportation. Maybe healthcare. Maybe childcare if
+you have kids and need to work. Laundry. Car.
 
-The size of these piles varies wildly. Some people's entire income is
-Pile 1 (there's nothing left after necessities). Some people's Pile 3 is
-larger than most people's total income. The question of distribution
-(who has how much excess) is real and important and complicated.
+These aren't choices. These are requirements. You produce a certain
+level of value to pay for these needs.
 
-But that's not the question for right now. The question for right now is
-simpler: **Can you see your three piles?**
+**Pile 2: Surplus.** The growth. The investments. The advanced degree.
+Marketing. Conferences. Professional organizations. New tooling.
+Advanced certifications.
 
-Can you identify which expenses are non-negotiable necessities? Which
-resources are prudent buffer? Which spending is genuinely discretionary
-(choices you're making with resources that could go other places)?
+The value you produce that you then pour back into what makes you
+better, more effective at your work and profession.
+
+**Think about how you are growing and advancing in your ability to
+produce value in your area of specialization.** At what point can you
+produce more value than you need, more value than your market will pay
+you for?
+
+**Pile 3: Excess.** The resources that remain after survival and growth.
+The genuinely discretionary value you can produce above and beyond what
+your market will exchange for.
+
+The liberty pile.
+
+The place where obligation lives because choice lives. The thousand
+nails that create possibility.
+
+**If you are here, where are you giving your excess? Are you giving your
+excess?** This is the time and place in life where you have specialized
+to a point of excess. Brilliant, amazing excess.
+
+You now have the liberty to choose where to participate in spending it
+in ways that will not, cannot pay you what it is worth. Ways that allow
+you to choose the identity and role you will take on.
+
+Excess enables new ways of innovative discovery. Of value applied to
+scenarios and areas no market yet understands, or exists in. And maybe
+never will.
 
 Once you can see the piles, you can see the question that matters: what
 are you doing with Pile 3?
 
-Not "what should you do" (that's Chapter 9, and we're not there yet).
-Just: what ARE you doing? With the resources that remain after survival
-and security are covered. With the freedom pile. With the excess.
-
-This isn't guilt. This is recognition. You have power. Real power. The
-power that comes from abundance. The power that comes from living in a
-time and place where specialization and trade have generated surplus
-beyond subsistence. The power that the nail-maker at ten thousand nails
-has that the nail-maker at eight nails doesn't.
-
-And once you can see that power, once you can see your excess, the
-question becomes: what purpose does it serve?
-
-Markets generated the surplus. Markets are the engine. But you decide
-what the engine powers. You decide whether your excess underwrites your
-own comfort indefinitely or whether it flows somewhere else. You decide
-whether your abundance remains private or becomes generative. You decide
-whether you're running the engine for its own sake or in service of
-something larger.
-
-That decision (what to do with your excess) is coming. But not yet.
-Because before we get to obligation, we need to complete the tour. We
-need one more habitat. One more system. One more way that humans
-coordinate when they can't use family logic and don't want to use money
-and don't need collective pre-funding.
+Once there, that decision (what to do with your excess) is coming. But
+not yet. Because before we get to obligation, we need to complete the
+tour. We need one more habitat. One more system. One more way that
+humans relate when outside of family habitat but working in an
+individual-to-individual setting.
 
 We need voluntary networks. We need friendship. We need anarchy (the
 real kind, not the Mad Max kind).
