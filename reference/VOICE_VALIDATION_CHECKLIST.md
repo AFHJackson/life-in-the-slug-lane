@@ -150,7 +150,34 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 ---
 
-## SECTION 6: CONCRETE BEFORE ABSTRACT CHECK
+## SECTION 6: HABITAT ARCHITECTURE CHECK
+
+### Correct Habitat Definition
+Each habitat is DEFINED by its governance mechanism, scale, and core logic. Other concepts may FLOW THROUGH or INTERACT WITH habitats, but do not define them.
+
+| Habitat | Defined By | Things That Flow Through (Do NOT Define) |
+|---------|------------|------------------------------------------|
+| Family/Communism | Obligation, love, need-based distribution | Care, resources, teaching |
+| Safety/Socialism | Rules, enforcement, universal access | Tax dollars, collective protection |
+| Market/Capitalism | Price, competition, voluntary exchange | Surplus, excess, specialization |
+| Friendship/Anarchy | Trust, reputation, exit | Excess, skills, identity formation |
+
+### Architecture Validation
+- [ ] Chapter correctly identifies what DEFINES the habitat (governance mechanisms, scale, core logic)
+- [ ] Chapter correctly treats other concepts as things that FLOW THROUGH or INTERACT WITH the habitat
+- [ ] No conflation of habitat definition with incidental features
+- [ ] Excess is positioned as generated in MARKETS and flowing THROUGH friendship (not defining friendship)
+- [ ] Trust/reputation/exit are positioned as DEFINING friendship/anarchy
+
+### Common Architecture Errors to Catch:
+- ❌ "Friendship runs on excess" (WRONG - friendship runs on trust/reputation/exit; excess CAN flow through it)
+- ❌ "Anarchy is where excess goes" (WRONG - anarchy is voluntary cooperation; excess is one thing that happens there)
+- ✅ "Excess generated in markets can flow through friendship networks" (CORRECT)
+- ✅ "Friendship is governed by trust, reputation, and exit" (CORRECT)
+
+---
+
+## SECTION 7: CONCRETE BEFORE ABSTRACT CHECK
 
 ### Story-First Structure
 - [ ] Chapter opens with concrete story/scene
@@ -167,7 +194,7 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 ---
 
-## SECTION 7: RALLY-READY NAMES CHECK
+## SECTION 8: RALLY-READY NAMES CHECK
 
 ### Required Names Used Correctly
 - [ ] "The Ring" (not "circular model" or "framework")
@@ -186,7 +213,7 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 ---
 
-## SECTION 8: READER MILESTONE CHECK
+## SECTION 9: READER MILESTONE CHECK
 
 ### Milestone Framing
 - [ ] Milestone is about RECOGNITION (not action)
@@ -205,7 +232,7 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 ---
 
-## SECTION 9: DIAGNOSTIC QUESTIONS CHECK
+## SECTION 10: DIAGNOSTIC QUESTIONS CHECK
 
 ### Questions Present in Phase 2
 - [ ] At least 2 verification questions included
@@ -224,7 +251,7 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 ---
 
-## SECTION 10: FINAL QUALITY GATES
+## SECTION 11: FINAL QUALITY GATES
 
 ### Gate 1: Voice Authenticity
 - [ ] Content sounds like diagnostic guide, not prescription manual
@@ -253,13 +280,13 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 
 **Count checkboxes:**
 - Sections 1-4: Core requirements
-- Sections 5-6: Prohibitions (any failure = revise)
-- Sections 7-10: Quality markers
+- Sections 5-6: Prohibitions and Architecture (any failure = revise)
+- Sections 7-11: Quality markers
 
 **Thresholds:**
-- **PASS:** All Section 5 clear + 90% of other checkboxes
-- **REVISE:** Any Section 5 failure OR <80% of other checkboxes
-- **MAJOR REVISION:** Multiple Section 5 failures OR <70% overall
+- **PASS:** All Sections 5-6 clear + 90% of other checkboxes
+- **REVISE:** Any Section 5-6 failure OR <80% of other checkboxes
+- **MAJOR REVISION:** Multiple Section 5-6 failures OR <70% overall
 
 ---
 
@@ -273,6 +300,7 @@ Scan content for these phrases. **Any occurrence = FAIL:**
 5. No verification questions in Phase 2
 6. Prescriptive close instead of recognition close
 7. Reader milestone about "applying" instead of "recognizing"
+8. Conflating what DEFINES a habitat with what FLOWS THROUGH it (e.g., "friendship runs on excess")
 
 ---
 

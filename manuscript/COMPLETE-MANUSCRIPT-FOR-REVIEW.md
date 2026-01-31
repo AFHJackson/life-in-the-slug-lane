@@ -2209,17 +2209,17 @@ Within minutes, the chat lights up.
 
 By Wednesday morning, there's a loose plan. Saturday, 8 AM, meet at the old apartment. No one's coordinating from the top down. No one's assigning roles or checking qualifications. It just... forms. Someone with a truck takes the lead on logistics. Someone else becomes the unofficial safety officer ("Don't lift that alone, let me help"). Someone's the comic relief. Someone shows up an hour late but brings coffee for everyone.
 
-The actual moving day is chaos. Organized chaos, but chaos. People show up staggered. Someone forgot the tape for the last few boxes. The truck gets loaded inefficiently because no one's a professional mover and everyone has opinions about the best way to pack furniture. Three people debate the physics of getting a couch through a doorway. Someone makes a playlist. Someone else can't find their keys.
+The actual moving day is chaos. Organized chaos, but chaos. People show up staggered. Someone forgot the tape for the last few boxes. But the truck gets loaded with incredible efficiency because one of your friends drives a refrigerated delivery semi-truck for a living and can pack ten pounds of anything in a five-pound space. Everyone has opinions about the best way to prepare furniture. Three people debate the physics of getting a couch through a doorway. Someone makes a playlist. Someone else can't find their keys.
 
-It is not efficient in any industrial sense. If you were optimizing for speed or cost or professional execution, you'd hire actual movers. But that's not what's happening here. What's happening is a loose network of people who chose to show up because someone they care about asked, and asking was enough.
+It is not efficient in any industrial sense. If you were optimizing for speed or cost or professional execution overall, you'd hire actual movers. But that's not what's happening here. What's happening is a loose network of people who chose to show up because someone they care about asked, and asking was enough.
 
-By midafternoon, the impossible thing—the entire contents of one apartment moved twelve miles across town—has actually happened. The new place is full of boxes and furniture and exhausted friends. No one sends an invoice. No one tracks hours or calculates the value of their labor. The only "payment" is greasy pizza, sore backs, and the quietly satisfying sense that you belong to something.
+By midafternoon, the impossible thing has actually happened. The entire contents of one apartment, moved twelve miles across town. The new place is full of boxes and furniture and exhausted friends. No one sends an invoice. No one tracks hours or calculates the value of their labor. The only "payment" is greasy pizza, sore backs, and the quietly satisfying sense that you belong to something.
 
 Nobody was really in charge, but it still worked.
 
-Notice something else: nobody burned their last loaf of bread. Nobody sacrificed their rent money or called in sick to work when they couldn't afford it. The guy with the truck had a truck he wasn't using that Saturday. The person who watched kids had time because her own kids were with their dad this weekend. The pizza-runner had $40 he didn't need for anything else. Everyone who showed up had something to give—time, energy, capacity beyond their own immediate needs.
+Notice something else: nobody burned their last loaf of bread. Nobody sacrificed their rent money or called in sick to work when they couldn't afford it. The guy with the truck had a truck he wasn't using that Saturday. The person who watched kids had time because her own kids were with their grandparents this weekend. The pizza-runner had $40 he didn't need for anything else. Everyone who showed up had something to give: time, energy, capacity beyond their own immediate needs.
 
-That's the secret hidden inside every moving day, every meal train, every favor between friends. Sustainable generosity doesn't come from sacrifice. It comes from excess. From having just a little more than you strictly need, and knowing exactly where that "more" should go.
+Here's something worth noticing about that capacity. It often comes from excess. From having just a little more than you strictly need. The friend who drives a semi-truck professionally brought packing skills developed in the market, deployed here as a friend. That's a pattern we'll return to in Chapter 9. But for now, let's understand what actually makes friendship work as a system.
 
 This is anarchy. Real anarchy. Not the bomb-throwing kind. Not the Mad Max kind. Not the chaos-and-violence kind. The *friendship* kind. The kind that actually exists. The kind you've been participating in your whole life without calling it that because the word was captured by people who made it sound terrifying.
 
@@ -2235,7 +2235,7 @@ No one was giving orders. No one had authority over anyone else. No one could fo
 
 And yet order emerged. Roles formed. Tasks got distributed. Someone ended up coordinating even though no one was appointed coordinator. Someone ended up being the heavy lifter even though no one assigned that role. Someone ended up managing lunch logistics even though no one put them in charge of food.
 
-This is emergent order: the pattern that forms when people cooperate voluntarily without central command. Not chaos. Not random. Not structureless. Just structured differently—structured through relationships instead of hierarchy, through trust instead of force, through reputation instead of law.
+This is emergent order: the pattern that forms when people cooperate voluntarily without central command. Not chaos. Not random. Not structureless. Just structured differently. Structured through relationships instead of hierarchy, through trust instead of force, through reputation instead of law.
 
 And it runs on three things: trust, reputation, and exit. These three mechanisms create governance without government. Create order without command. Create coordination without coercion.
 
@@ -2245,9 +2245,9 @@ And it runs on three things: trust, reputation, and exit. These three mechanisms
 
 The answer isn't "because they pay well" or "because I'm legally obligated" or "because someone will punish me if I don't." The answer is: because I trust them. Because I know they'd help me. Because we've been there for each other before. Because there's a history, a relationship, a pattern of reciprocity that doesn't need to be written down or enforced by law.
 
-Trust is the governance mechanism of voluntary networks. It replaces formal contracts. It replaces legal enforcement. It creates obligation without coercion. When you trust someone, you show up for them—not because you have to, but because you want to, because the relationship matters, because that's what you do for people you trust.
+Trust is the governance mechanism of voluntary networks. It replaces formal contracts. It replaces legal enforcement. It creates obligation without coercion. When you trust someone, you show up for them: not because you have to, but because you want to, because the relationship matters, because that's what you do for people you trust.
 
-And trust works at this scale—chosen networks, people you know, relationships you've built—in a way that it can't work with strangers or at population scale. You can't trust everyone. You shouldn't trust everyone. But you can trust specific people based on specific history. And those specific trust relationships create networks where helping each other is the default, where asking for help isn't weakness, where showing up is just what you do.
+And trust works at this scale, chosen networks, people you know, relationships you've built, in a way that it can't work with strangers or at population scale. You can't trust everyone. You shouldn't trust everyone. But you can trust specific people based on specific history. And those specific trust relationships create networks where helping each other is the default, where asking for help isn't weakness, where showing up is just what you do.
 
 This is why moving day works: not because anyone has authority, but because everyone trusts everyone else enough to show up, to do their part, to not take advantage. Trust governs without force.
 
@@ -2261,7 +2261,7 @@ You didn't sue them. You didn't call the police. You didn't levy fines or penalt
 
 In voluntary networks, reputation is enforcement. It's how the system corrects for free riders, for people who take without giving, for people who violate the norms. No one has to punish them formally. The group just adjusts. Stops trusting them. Stops including them. Stops giving them the benefits of membership.
 
-And that's enough. Because voluntary networks don't have captive members. They have chosen members. And if your reputation degrades—if people stop trusting you, stop wanting you around—you lose access to the network. Not through exile. Not through banishment. Just through... people making different choices about who to invite, who to call, who to trust.
+And that's enough. Because voluntary networks don't have captive members. They have chosen members. And if your reputation degrades, if people stop trusting you and stop wanting you around, you lose access to the network. Not through exile. Not through banishment. Just through... people making different choices about who to invite, who to call, who to trust.
 
 Reputation is the price you pay for behavior. Good behavior builds reputation. Bad behavior degrades it. And in voluntary networks, reputation determines whether you get to keep participating.
 
@@ -2275,9 +2275,9 @@ Think about a group you left. Maybe a friend group that wasn't working anymore. 
 
 If you're in a truly voluntary network, the answer is: not that hard. You just... stopped showing up. Stopped responding to invites. Drifted away. And nobody could force you to stay. Nobody could compel your continued membership. You had exit. And exit is what makes it voluntary.
 
-This is the critical difference between voluntary networks and every other habitat. Family can't really be exited—you're born into it, obligations persist even if you leave. Safety commons can't be exited—you can't opt out of fire protection or police jurisdiction just because you don't like the service. Markets can be exited but only if you have alternatives—and for some necessities, alternatives don't exist.
+This is the critical difference between voluntary networks and every other habitat. Family can't really be exited. You're born into it, and obligations persist even if you leave. Safety commons can't be exited. You can't opt out of fire protection or police jurisdiction just because you don't like the service. Markets can be exited but only if you have alternatives, and for some necessities, alternatives don't exist.
 
-But friendship? You can leave. Always. If a friend group becomes toxic, you drift away. If a volunteer organization stops serving its mission, you quit. If a community becomes unbearable, you find a different community. Exit is always possible. And that possibility—the real possibility of leaving without catastrophic consequences—is what makes voluntary networks truly voluntary.
+But friendship? You can leave. Always. If a friend group becomes toxic, you drift away. If a volunteer organization stops serving its mission, you quit. If a community becomes unbearable, you find a different community. Exit is always possible. And that possibility, the real possibility of leaving without catastrophic consequences, is what makes voluntary networks truly voluntary.
 
 And paradoxically, the possibility of exit is what makes voluntary networks work. Because everyone knows everyone else could leave. So everyone has an incentive to make the network worth staying in. To maintain trust. To protect reputation. To show up when asked. Because if you don't, people will exercise their exit option. They'll find a different friend group. They'll join a different organization. They'll coordinate with different people.
 
@@ -2305,37 +2305,35 @@ You discover you're funnier than you thought because your friends laugh at your 
 
 Identity formation through friendship is serious. It's not just social activity. It's how you figure out who you are when no one's forcing you to be anything. It's how you develop the parts of yourself that don't fit neatly into family roles or professional roles or market transactions. It's the laboratory for selfhood.
 
-And it only works because it's voluntary. Because if it were forced—if you had to be friends with specific people, if you couldn't leave relationships that didn't work—it would be prison, not friendship. The choice is the whole point. The exit option is what makes the whole thing safe enough to be transformative.
+And it only works because it's voluntary. Because if it were forced, if you had to be friends with specific people, if you couldn't leave relationships that didn't work, it would be prison, not friendship. The choice is the whole point. The exit option is what makes the whole thing safe enough to be transformative.
 
 **Think about a transformation in yourself that happened through friendship. A way you changed because of people you chose. Could that have happened if you'd been assigned to them?**
 
 The answer is almost certainly no. Transformation requires safety. Safety requires exit. Exit makes it voluntary. Voluntary makes it friendship.
 
-### Friendship as the Outlet for Excess
+### A Thread Worth Following: Where Excess Flows
 
-Here's something that becomes visible once you start looking: friendship is where your excess goes.
+Here's something that becomes visible once you start looking: one of the things that flows through friendship networks is excess capacity.
 
 Remember the moving day? Everyone who showed up had something to give. But notice what they gave: not their last dollar, not their only Saturday of the year, not the time they needed for survival. They gave from abundance. From the extra truck-capacity on a Saturday morning. From the free hours after their own priorities were covered. From the pizza budget that didn't cut into groceries.
 
-**Think about the last time you helped a friend without being asked. Did that generosity require you to sacrifice necessities? Or did it come from your excess—from capacity beyond what you personally needed?**
+**Think about the last time you helped a friend without being asked. Did that generosity require you to sacrifice necessities? Or did it come from your excess, from capacity beyond what you personally needed?**
 
 When you helped a friend move, you didn't skip feeding your kids to do it. When you brought dinner to a family in crisis, you had extra cooking capacity that week. When you mentored someone younger, you had knowledge and time that exceeded your own survival requirements.
 
-This is the secret of sustainable generosity: it flows from excess, not sacrifice.
+There's a framework for this. Markets are remarkably good at generating surplus, producing more than you need for subsistence. That surplus accumulates into buffer: savings, insurance against bad days, capacity to grow. But at some point, if you pursue excellence long enough, surplus becomes excess. You have more than you can sell. More than you need for security. More than makes sense to hoard.
 
-There's a framework for this. Markets are remarkably good at generating surplus—producing more than you need for subsistence. That surplus accumulates into buffer: savings, insurance against bad days, capacity to grow. But at some point, if you pursue excellence long enough, surplus becomes excess. You have more than you can sell. More than you need for security. More than makes sense to hoard.
-
-And friendship is where that excess finds its natural outlet.
+And one place that excess can flow is through friendship networks.
 
 Not through invoice. Not through transaction. Not through formal charity mechanisms. Through trust networks. Through relationships. Through the quiet flow of "I have this, you need this, here you go."
 
-**When you helped a friend, where did that capacity come from—your necessities, or your excess?**
+**When you helped a friend, where did that capacity come from, your necessities or your excess?**
 
-If you're like most people who engage in sustainable friendship, the answer is excess. You gave from the third pile—the one beyond survival, beyond security, beyond reinvestment needs. You gave because you had something to give and you knew exactly who should receive it.
+If you're like most people who engage in sustainable friendship, the answer is excess. You gave from the third pile, the one beyond survival, beyond security, beyond reinvestment needs. You gave because you had something to give and you knew exactly who should receive it.
 
-This is why friendship doesn't burn out the way obligated giving does. This is why helping friends feels energizing while being extracted from feels depleting. Friendship runs on voluntary generosity from abundance. It's the system designed to channel excess toward where it's needed most.
+This is why friendship doesn't burn out the way obligated giving does. This is why helping friends feels energizing while being extracted from feels depleting. But notice: this is a description of what CAN flow through friendship, not what DEFINES it. Friendship is defined by trust, reputation, and exit. Excess is one of many things that flows through those networks.
 
-We'll return to this in Chapter 9. But notice it now: the people on moving day weren't saints sacrificing their survival. They were friends with something extra, putting it where it belonged.
+We'll return to this in Chapter 9, where we explore the obligation that comes with excess. But for now, notice it as a thread: the people on moving day weren't saints sacrificing their survival. They were friends with something extra, putting it where it belonged.
 
 ### Your Volunteer Work
 
@@ -2361,13 +2359,13 @@ No one's in charge of the whole system. There are maintainers of specific projec
 
 Think about any community you've joined around a hobby. Gaming groups. Book clubs. Running clubs. Maker spaces. Music scenes. Any collection of people who gather voluntarily around a shared interest.
 
-No one makes you show up. No one can force you to stay. But you do show up. Because the network provides value. Because the relationships matter. Because you're building something together—even if that something is just the joy of shared experience.
+No one makes you show up. No one can force you to stay. But you do show up. Because the network provides value. Because the relationships matter. Because you're building something together, even if that something is just the joy of shared experience.
 
 And when these communities work, they work through the same mechanisms: trust that people will show up and contribute, reputation that governs behavior, exit that disciplines the whole system by ensuring that if it stops working, people will leave.
 
 **Trace your last week. How many voluntary networks did you participate in?** How many times did you coordinate with people without anyone being in charge? How many times did you show up because you chose to, not because you had to?
 
-If you're like most people, the answer is: constantly. You're already an anarchist. You're already navigating voluntary networks every day. You're already trusting, building reputation, exercising exit. You're already living in functioning anarchist systems—you just never called them that because the word sounds dangerous.
+If you're like most people, the answer is: constantly. You're already an anarchist. You're already navigating voluntary networks every day. You're already trusting, building reputation, exercising exit. You're already living in functioning anarchist systems. You just never called them that because the word sounds dangerous.
 
 But it's not dangerous. It's ordinary. It's just coordination without command. It's just people choosing to cooperate because cooperation makes sense, because relationships matter, because community is valuable.
 
@@ -2383,13 +2381,13 @@ But it doesn't work everywhere. And recognizing the limits is as important as re
 
 Not all groups that claim to be voluntary actually are. Some cults call themselves voluntary even though leaving is psychologically or socially catastrophic. Some "friend groups" are actually abuse networks where exit is theoretically possible but practically devastating. Some volunteer organizations use manipulation and guilt to prevent people from leaving even when they want to.
 
-When exit stops being real—when the costs of leaving become so high that people stay against their will—you don't have a voluntary network anymore. You have coercion dressed up as choice. And that's not anarchy. That's hierarchy pretending to be voluntary.
+When exit stops being real, when the costs of leaving become so high that people stay against their will, you don't have a voluntary network anymore. You have coercion dressed up as choice. And that's not anarchy. That's hierarchy pretending to be voluntary.
 
-Real voluntary networks protect exit. Make leaving sad but possible. Make departure regrettable but not catastrophic. If you can't leave without losing everything—if exit means social death or economic ruin or psychological devastation—you're not in a voluntary network. You're trapped.
+Real voluntary networks protect exit. Make leaving sad but possible. Make departure regrettable but not catastrophic. If you can't leave without losing everything, if exit means social death or economic ruin or psychological devastation, you're not in a voluntary network. You're trapped.
 
 ### Failure Mode: When Scale Exceeds Trust
 
-Voluntary networks work at the scale where trust and reputation can function. You can trust people you know. You can track reputation in groups where everyone knows everyone. But at some scale—Dunbar's number is usually cited as around 150—trust breaks down. You can't know everyone. You can't track everyone's reputation. You can't coordinate through relationships because there are too many relationships to maintain.
+Voluntary networks work at the scale where trust and reputation can function. You can trust people you know. You can track reputation in groups where everyone knows everyone. But at some scale, Dunbar's number is usually cited as around 150, trust breaks down. You can't know everyone. You can't track everyone's reputation. You can't coordinate through relationships because there are too many relationships to maintain.
 
 At that point, voluntary networks need hierarchy. Need formal rules. Need enforcement mechanisms. Need something beyond trust and reputation to maintain order. And that's fine—that's what the other habitats are for. But trying to run a city or a nation or a global organization through pure voluntary networks doesn't work. The scale kills the mechanism.
 
@@ -2401,7 +2399,7 @@ Remember this from Chapter 1? The thought experiment where your friend group dev
 
 That's the failure mode where formalization kills the thing it's trying to protect. Where treating friendship like work destroys the friendship. Where introducing market logic or bureaucratic logic or safety-commons logic into voluntary networks ruins what makes them work.
 
-Voluntary networks work because they're loose. Because they're informal. Because trust and reputation and exit are enough. When you over-formalize them—when you create bylaws and committees and grievance procedures—you might create something functional, but you've left the anarchy habitat. You've moved into a different system. Which is sometimes necessary. But it's a transition, not an improvement. You gain accountability and lose spontaneity. You gain enforceability and lose warmth. You gain structure and lose the emergent order that made it feel like friendship.
+Voluntary networks work because they're loose. Because they're informal. Because trust and reputation and exit are enough. When you over-formalize them, when you create bylaws and committees and grievance procedures, you might create something functional, but you've left the anarchy habitat. You've moved into a different system. Which is sometimes necessary. But it's a transition, not an improvement. You gain accountability and lose spontaneity. You gain enforceability and lose warmth. You gain structure and lose the emergent order that made it feel like friendship.
 
 Not all groups should stay informal. But when you formalize, you're leaving anarchy. You're building a different habitat. And that's worth knowing.
 
@@ -2413,17 +2411,17 @@ Remember the Cajun Navy? Hurricane Harvey, Houston, 2017. The official emergency
 
 And then a flotilla appeared. Not from the government. Not from FEMA. Not from any official agency. From volunteers. People with fishing boats and bass boats and jon boats who heard about the flooding and drove to Houston. A loose network of boat owners coordinating through Facebook and text messages. Forming spontaneously. Dissolving when the need passed. No central command. No formal organization. Just: people need help, we have boats, let's go.
 
-They rescued thousands. Filled the gaps the official response couldn't reach. Operated in the spaces between municipal capacity and total need. Not replacing the fire department or the Coast Guard or FEMA—those organizations were essential and working at capacity. But extending them. Completing them. Covering the last mile.
+They rescued thousands. Filled the gaps the official response couldn't reach. Operated in the spaces between municipal capacity and total need. Not replacing the fire department or the Coast Guard or FEMA. Those organizations were essential and working at capacity. But extending them. Completing them. Covering the last mile.
 
-Notice what made this possible: excess capacity. Those boats weren't being used. Those owners had time and fuel and skill beyond their personal needs. The Cajun Navy wasn't a sacrifice operation where people burned their livelihoods to help. It was excess capacity—boats sitting idle, people with skills and time and resources beyond their own requirements—deployed through trust networks toward urgent need.
+Notice what made this possible: excess capacity. Those boats weren't being used. Those owners had time and fuel and skill beyond their personal needs. The Cajun Navy wasn't a sacrifice operation where people burned their livelihoods to help. It was excess capacity, boats sitting idle, people with skills and time and resources beyond their own requirements, deployed through trust networks toward urgent need.
 
 This is what voluntary networks do for safety: they backstop it. They fill in the edges. They handle the situations that are too small for official response or too large for family. They're the informal safety net that catches people when they fall through the cracks of formal systems.
 
-Your friend who gives you a ride when your car breaks down—that's voluntary extension of transportation infrastructure. Your neighbor who watches your house when you're away—that's voluntary extension of security. Your community group that checks on elderly residents during heat waves—that's voluntary extension of public health.
+Your friend who gives you a ride when your car breaks down: that's voluntary extension of transportation infrastructure. Your neighbor who watches your house when you're away: that's voluntary extension of security. Your community group that checks on elderly residents during heat waves: that's voluntary extension of public health.
 
 Anarchy doesn't replace the other habitats. It completes them. It covers the last mile. It handles the gaps. It exists in the spaces between formal systems, filling in with trust and relationships what can't be filled in with force or money or collective pre-funding.
 
-**The safety commons handles the big emergencies. Your friends handle the small ones.** And that's not a bug—that's the design. That's all four habitats working together. That's The Ring complete.
+**The safety commons handles the big emergencies. Your friends handle the small ones.** And that's not a bug. That's the design. That's all four habitats working together. That's The Ring complete.
 
 ---
 
@@ -2440,7 +2438,7 @@ Let's see all four now. All four habitats. All four systems. All four ways human
 
 This is The Ring. Four distinct systems. Four different scales. Four different logics. Four different governance mechanisms. And you navigate all four every day.
 
-You woke up this morning in family—maybe your own, maybe the one you built, maybe the one you're part of. Someone made breakfast. Someone else cleaned up. The books were uneven. Nobody counted. That's communism, at its proper scale, working exactly as it should.
+You woke up this morning in family, maybe your own, maybe the one you built, maybe the one you're part of. Someone made breakfast. Someone else cleaned up. The books were uneven. Nobody counted. That's communism, at its proper scale, working exactly as it should.
 
 You drove to work on roads paid for by taxes. You stopped at traffic lights. You trust that fire trucks sit ready even though they're idle. You benefit from sewage treatment and water safety and the thousand invisible systems that make daily life possible. That's socialism, at municipal scale, working exactly as it should.
 
@@ -2452,13 +2450,13 @@ And tonight you'll text a friend about dinner. Or scroll through a community you
 
 And here's one more layer: **when you gave in each habitat, where did that giving come from?**
 
-In family, you gave without counting—but your giving was sustainable because the system provides back.
+In family, you gave without counting, but your giving was sustainable because the system provides back.
 
-In safety commons, you gave through taxes—your contribution funds systems that serve everyone, including you.
+In safety commons, you gave through taxes. Your contribution funds systems that serve everyone, including you.
 
-In markets, you gave labor and money—but you received goods and wages in exchange.
+In markets, you gave labor and money, but you received goods and wages in exchange.
 
-And in friendship? You gave from excess. From the time and energy and resources beyond your own needs. From the abundance that markets helped generate and that friendship gave you somewhere to put.
+And in friendship? You chose to show up. You trusted and were trusted back. And often, what you gave came from excess, from capacity beyond your immediate needs. But that's not what made it friendship. What made it friendship was the choosing. The voluntary coordination. The trust that let you show up without a contract.
 
 This is the truth the left/right line can't see: you're not one thing. You're not on one side. You're not confused or inconsistent or unable to commit. You're a systems navigator. You're using all four tools, each at its proper scale, each in its proper habitat, each for its proper purpose.
 
@@ -2476,9 +2474,9 @@ You're not going to stop participating in family just because you understand the
 
 You're just going to do all of them more deliberately. More consciously. With more clarity about which tool belongs where. With more ability to recognize when a system is being stretched beyond its habitat. With more capacity to name what's happening when someone tries to force market logic into family or family logic into nations or safety-commons logic into voluntary networks.
 
-And you're going to notice something else: the flow between them. Markets generate the surplus that becomes excess. Excess finds its natural outlet through friendship. Friendship backstops the safety systems. Safety protects the families. Families raise the workers who participate in markets. The Ring isn't just four separate systems—it's four systems that feed each other, that depend on each other, that complete each other.
+And you're going to notice something else: the flow between them. Markets generate the surplus that becomes excess. That excess can flow through friendship networks, among other places. Friendship backstops the safety systems. Safety protects the families. Families raise the workers who participate in markets. The Ring isn't just four separate systems. It's four systems that feed each other, that depend on each other, that complete each other.
 
-Sustainable generosity doesn't come from burning your last loaf of bread. It comes from producing more than you need—and friendship is where that "more" finds its natural outlet.
+What defines each habitat is its governance mechanism. What flows through each habitat is a different question. We'll explore that flow, especially the obligation that comes with excess, in Chapter 9.
 
 The Ring doesn't tell you how to live. It tells you how you're already living. It gives you language for what you've been doing your whole life. It makes visible the structure you've been navigating without a map.
 
