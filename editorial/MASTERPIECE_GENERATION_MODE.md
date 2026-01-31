@@ -7,7 +7,7 @@
 
 ## CORE MANDATE
 
-Generate **rich, incredibly nuanced, intricately layered and woven masterpieces**.
+Generate **rich, incredibly nuanced, intricately layered and woven chapter masterpieces**.
 
 This is NOT about:
 - Speed
@@ -73,7 +73,7 @@ Elegant integration, not mechanical:
 
 ---
 
-## WHAT THIS MEANS PRACTICALLY
+## WHAT THIS MEANS PRACTICALLY (does not just apply to prose or narratives, this is just an example of the differnce)
 
 ### Before: Abbreviated Approach
 ```
@@ -121,11 +121,11 @@ They didn't call it communism. They called it family.
 ### Time Per Chapter:
 
 Don't rush. A rich Chapter 3 might take:
-- 2,000 tokens to read outline/content
-- 8,000+ tokens to generate full chapter
-- Total: ~10,000 tokens per chapter
+- 12,000 tokens to read outline/content
+- 28,000+ tokens to generate full chapter
+- Total: ~40,000 or more tokens per chapter
 
-With 932K tokens available, we can afford **~90 chapters at this quality**. We only need 13.
+We have an insane amount of tokens and the limit is about to reset again.  We can absolutely afford to use all we need to make each chapter amazing.
 
 ---
 
@@ -141,16 +141,6 @@ Each chapter should achieve:
 - ✅ Word count in upper target range
 - ✅ Reader wants to share with someone
 - ✅ Memorable phrases that stick ("gloriously uneven," "furniture arrangement")
-
----
-
-## STARTING FRESH
-
-All previous lean drafts (Prologue, Ch 1-2) will be regenerated to full masterpiece standard.
-
-Starting with **Prologue** and working through all 13 chapters sequentially.
-
-**No shortcuts. No leaning. Full out.**
 
 ---
 
