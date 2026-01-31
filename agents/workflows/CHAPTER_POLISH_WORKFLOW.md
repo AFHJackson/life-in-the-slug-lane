@@ -40,7 +40,7 @@ Sonnet 4.5 ONLY polishes voice consistency - it does NOT change content or make 
 
 | # | Chapter | Phase 1 (Opus) | Phase 2 (Sonnet) | Phase 3 (Opus) | Status |
 |---|---------|----------------|------------------|----------------|--------|
-| 06 | Friendship, Anarchy, Order | ✅ | ⬜ | ⬜ | **Ready for Sonnet** |
+| 06 | Friendship, Anarchy, Order | ✅ | ✅ | ⬜ | **User Review** |
 | 07 | When Systems Touch | ⬜ | ⬜ | ⬜ | Not Started |
 | 08 | The Ring Compass | ⬜ | ⬜ | ⬜ | Not Started |
 | 09 | Obligation to Excess | ⬜ | ⬜ | ⬜ | Not Started |
